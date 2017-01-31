@@ -1,0 +1,63 @@
+Packet delivery ratio - the ratio between the total number of packets successfully received and the number of packets sent by the nodes:
+
+Errors: Sometimes have to shift arrangement if not no reading for some nodes for Power Usage in an hour
+
+For rand1.csc:
+
+    Number of packets sent by Node:1 is 103
+    Number of packets sent by Node:2 is 70
+    Number of packets sent by Node:3 is 81
+    Number of packets sent by Node:4 is 65
+    Number of packets sent by Node:5 is 102
+
+    Packet Delivery Ratio for Nodes is 3.007125890736342
+
+    Average power consumption for Node:1 is 47.155991918467144
+    Average power consumption for Node:2 is 57.9202193045922
+    Average power consumption for Node:3 is 68.6391932272981
+    Average power consumption for Node:4 is 52.455707107550026
+    Average power consumption for Node:5 is 144.54076816152434
+
+    The total number of tokens is 14
+
+    The start time of token 1's distribution is 01:10.307
+    The last time of update for token 1 is 01:10.547
+
+    The start time of token 2's distribution is 02:40.308
+    The last time of update for token 2 is 02:40.548
+
+    The start time of token 3's distribution is 02:50.308
+    The last time of update for token 3 is 02:51.298
+
+    The start time of token 4's distribution is 08:30.386
+    The last time of update for token 4 is 08:30.799
+
+    The start time of token 5's distribution is 14:00.308
+    The last time of update for token 5 is 14:00.549
+
+    The start time of token 6's distribution is 20:40.559
+    The last time of update for token 6 is 20:40.922
+
+    The start time of token 7's distribution is 22:30.387
+    The last time of update for token 7 is 22:30.550
+
+    The start time of token 8's distribution is 24:00.645
+    The last time of update for token 8 is 24:01.049
+
+    The start time of token 9's distribution is 28:30.465
+    The last time of update for token 9 is 28:30.674
+
+    The start time of token 10's distribution is 28:40.309
+    The last time of update for token 10 is 28:40.674
+
+    The start time of token 11's distribution is 39:40.559
+    The last time of update for token 11 is 39:40.800
+
+    The start time of token 12's distribution is 47:40.731
+    The last time of update for token 12 is 47:41.050
+
+    The start time of token 13's distribution is 50:20.645
+    The last time of update for token 13 is 50:20.802
+
+    The start time of token 14's distribution is 59:50.817
+    The last time of update for token 14 is 59:51.301

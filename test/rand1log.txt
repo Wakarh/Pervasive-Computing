@@ -1,0 +1,3100 @@
+00:00.271	ID:1	Rime started with address 0.18.116.1.0.1.1.1
+00:00.271	ID:4	Rime started with address 0.18.116.4.0.4.4.4
+00:00.271	ID:2	Rime started with address 0.18.116.2.0.2.2.2
+00:00.271	ID:3	Rime started with address 0.18.116.3.0.3.3.3
+00:00.271	ID:5	Rime started with address 0.18.116.5.0.5.5.5
+00:00.280	ID:3	MAC 00:12:74:03:00:03:03:03 Contiki-3.0 started. Node id is set to 3.
+00:00.280	ID:1	MAC 00:12:74:01:00:01:01:01 Contiki-3.0 started. Node id is set to 1.
+00:00.280	ID:2	MAC 00:12:74:02:00:02:02:02 Contiki-3.0 started. Node id is set to 2.
+00:00.280	ID:4	MAC 00:12:74:04:00:04:04:04 Contiki-3.0 started. Node id is set to 4.
+00:00.280	ID:5	MAC 00:12:74:05:00:05:05:05 Contiki-3.0 started. Node id is set to 5.
+00:00.287	ID:3	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.287	ID:1	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.287	ID:2	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.287	ID:4	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.287	ID:5	nullsec CSMA ContikiMAC, channel check rate 8 Hz, radio channel 26, CCA threshold -45
+00:00.298	ID:3	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7403:0003:0303
+00:00.298	ID:1	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7401:0001:0101
+00:00.298	ID:2	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7402:0002:0202
+00:00.298	ID:4	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7404:0004:0404
+00:00.298	ID:5	Tentative link-local IPv6 address fe80:0000:0000:0000:0212:7405:0005:0505
+00:00.301	ID:1	Starting 'Trickle Protocol process'
+00:00.301	ID:3	Starting 'Trickle Protocol process'
+00:00.301	ID:2	Starting 'Trickle Protocol process'
+00:00.301	ID:4	Starting 'Trickle Protocol process'
+00:00.301	ID:5	Starting 'Trickle Protocol process'
+00:00.303	ID:3	Trickle protocol started in Node: 3
+00:00.303	ID:1	Trickle protocol started in Node: 1
+00:00.303	ID:2	Trickle protocol started in Node: 2
+00:00.303	ID:4	Trickle protocol started in Node: 4
+00:00.303	ID:5	Trickle protocol started in Node: 5
+00:00.307	ID:3	Connection: local/remote port 30001/30001
+00:00.307	ID:1	Connection: local/remote port 30001/30001
+00:00.307	ID:2	Connection: local/remote port 30001/30001
+00:00.307	ID:4	Connection: local/remote port 30001/30001
+00:00.307	ID:5	Connection: local/remote port 30001/30001
+00:12.088	ID:5	Sending  with a length of 32 
+00:19.557	ID:1	Sending  with a length of 32 
+00:20.768	ID:2	Sending  with a length of 32 
+00:46.135	ID:5	Sending  with a length of 32 
+00:49.112	ID:1	Sending  with a length of 32 
+00:51.471	ID:3	Sending  with a length of 32 
+01:10.307	ID:2	At 70: Generating a new token 70 1 
+01:10.339	ID:2	Power Usage: 8966 P 0.18 0 32841 2261457 7747 16302 0 14838 32841 2261457 7747 16302 0 14838 (radio 1.04% / 1.04% tx 0.33% / 0.33% listen 0.71% / 0.71%)
+01:10.358	ID:2	Power Usage: 8970 SP 0.18 0 58 39680 2 0 303 0 303 2 5226 157 5226 157 (proto 58(39680) radio 23.2364% / 23.2364%)
+01:10.377	ID:2	Power Usage: 8973 SP 0.18 0 17 12661 5 0 926 0 926 1 2521 78 2521 78 (proto 17(12661) radio 14.1465% / 14.1465%)
+01:10.417	ID:2	Sending 70 1 with a length of 32 
+01:10.544	ID:1	Received At 8996 from  2 Our token=0:0, theirs=1:70
+01:10.544	ID:5	Received At 8996 from  2 Our token=0:0, theirs=1:70
+01:10.545	ID:3	Received At 8996 from  2 Our token=0:0, theirs=1:70
+01:10.545	ID:4	Received At 8996 from  2 Our token=0:0, theirs=1:70
+01:10.547	ID:1	Their token is newer. Update to token 1
+01:10.547	ID:5	Their token is newer. Update to token 1
+01:10.547	ID:3	Their token is newer. Update to token 1
+01:10.547	ID:4	Their token is newer. Update to token 1
+01:10.555	ID:1	At 8997: Trickle inconsistency. Scheduled TX for 9008
+01:10.555	ID:5	At 8997: Trickle inconsistency. Scheduled TX for 9012
+01:10.555	ID:3	At 8997: Trickle inconsistency. Scheduled TX for 9006
+01:10.555	ID:4	At 8997: Trickle inconsistency. Scheduled TX for 9007
+01:10.620	ID:3	Sending 70 1 with a length of 32 
+01:10.628	ID:4	Sending 70 1 with a length of 32 
+01:10.635	ID:1	Sending 70 1 with a length of 32 
+01:10.651	ID:2	Sending 70 1 with a length of 32 
+01:10.670	ID:2	Received At 9012 from  3 Our token=1:70, theirs=1:70
+01:10.670	ID:4	Received At 9012 from  3 Our token=1:70, theirs=1:70
+01:10.670	ID:5	Received At 9012 from  3 Our token=1:70, theirs=1:70
+01:10.670	ID:1	Received At 9012 from  3 Our token=1:70, theirs=1:70
+01:10.670	ID:2	Consistent RX
+01:10.671	ID:4	Consistent RX
+01:10.671	ID:5	Consistent RX
+01:10.671	ID:1	Consistent RX
+01:10.675	ID:5	Sending 70 1 with a length of 32 
+01:10.797	ID:2	Received At 9028 from  1 Our token=1:70, theirs=1:70
+01:10.797	ID:4	Received At 9028 from  1 Our token=1:70, theirs=1:70
+01:10.797	ID:3	Received At 9028 from  1 Our token=1:70, theirs=1:70
+01:10.798	ID:2	Consistent RX
+01:10.798	ID:4	Consistent RX
+01:10.798	ID:3	Consistent RX
+01:10.870	ID:4	Sending 70 1 with a length of 32 
+01:10.910	ID:1	Sending 70 1 with a length of 32 
+01:10.919	ID:3	Received At 9044 from  5 Our token=1:70, theirs=1:70
+01:10.919	ID:2	Received At 9044 from  5 Our token=1:70, theirs=1:70
+01:10.919	ID:4	Received At 9044 from  5 Our token=1:70, theirs=1:70
+01:10.920	ID:2	Consistent RX
+01:10.920	ID:3	Consistent RX
+01:10.920	ID:4	Consistent RX
+01:10.961	ID:5	Sending 70 1 with a length of 32 
+01:11.171	ID:1	Received At 9076 from  2 Our token=1:70, theirs=1:70
+01:11.171	ID:5	Received At 9076 from  2 Our token=1:70, theirs=1:70
+01:11.171	ID:3	Received At 9076 from  2 Our token=1:70, theirs=1:70
+01:11.171	ID:4	Received At 9076 from  2 Our token=1:70, theirs=1:70
+01:11.171	ID:1	Consistent RX
+01:11.171	ID:5	Consistent RX
+01:11.172	ID:3	Consistent RX
+01:11.172	ID:4	Consistent RX
+01:11.213	ID:3	Sending 70 1 with a length of 32 
+01:11.268	ID:4	Sending 70 1 with a length of 32 
+01:11.299	ID:5	Sending 70 1 with a length of 32 
+01:11.393	ID:1	Sending 70 1 with a length of 32 
+01:11.670	ID:5	Received At 9140 from  4 Our token=1:70, theirs=1:70
+01:11.670	ID:1	Received At 9140 from  4 Our token=1:70, theirs=1:70
+01:11.670	ID:2	Received At 9140 from  4 Our token=1:70, theirs=1:70
+01:11.670	ID:3	Received At 9140 from  4 Our token=1:70, theirs=1:70
+01:11.671	ID:5	Consistent RX
+01:11.671	ID:1	Consistent RX
+01:11.671	ID:2	Consistent RX
+01:11.671	ID:3	Consistent RX
+01:11.862	ID:2	Sending 70 1 with a length of 32 
+01:11.920	ID:1	Received At 9172 from  3 Our token=1:70, theirs=1:70
+01:11.920	ID:5	Received At 9172 from  3 Our token=1:70, theirs=1:70
+01:11.920	ID:4	Received At 9172 from  3 Our token=1:70, theirs=1:70
+01:11.920	ID:2	Received At 9172 from  3 Our token=1:70, theirs=1:70
+01:11.921	ID:1	Consistent RX
+01:11.921	ID:5	Consistent RX
+01:11.921	ID:4	Consistent RX
+01:11.921	ID:2	Consistent RX
+01:12.155	ID:4	Sending 70 1 with a length of 32 
+01:12.182	ID:3	Sending 70 1 with a length of 32 
+01:12.290	ID:2	Received At 9219 from  4 Our token=1:70, theirs=1:70
+01:12.290	ID:4	Received At 9219 from  2 Our token=1:70, theirs=1:70
+01:12.291	ID:2	Consistent RX
+01:12.291	ID:4	Consistent RX
+01:12.294	ID:1	Received At 9220 from  3 Our token=1:70, theirs=1:70
+01:12.294	ID:5	Received At 9220 from  3 Our token=1:70, theirs=1:70
+01:12.295	ID:1	Consistent RX
+01:12.295	ID:5	Consistent RX
+01:12.546	ID:3	Received At 9252 from  4 Our token=1:70, theirs=1:70
+01:12.546	ID:2	Received At 9252 from  4 Our token=1:70, theirs=1:70
+01:12.546	ID:5	Received At 9252 from  4 Our token=1:70, theirs=1:70
+01:12.546	ID:1	Received At 9252 from  4 Our token=1:70, theirs=1:70
+01:12.547	ID:3	Consistent RX
+01:12.547	ID:2	Consistent RX
+01:12.547	ID:5	Consistent RX
+01:12.547	ID:1	Consistent RX
+01:12.794	ID:2	Received At 9284 from  4 Our token=1:70, theirs=1:70
+01:12.794	ID:3	Received At 9284 from  4 Our token=1:70, theirs=1:70
+01:12.794	ID:1	Received At 9284 from  4 Our token=1:70, theirs=1:70
+01:12.794	ID:5	Received At 9284 from  4 Our token=1:70, theirs=1:70
+01:12.795	ID:2	Consistent RX
+01:12.795	ID:3	Consistent RX
+01:12.795	ID:1	Consistent RX
+01:12.795	ID:5	Consistent RX
+01:14.026	ID:4	Sending 70 1 with a length of 32 
+01:14.170	ID:3	Received At 9460 from  4 Our token=1:70, theirs=1:70
+01:14.170	ID:1	Received At 9460 from  4 Our token=1:70, theirs=1:70
+01:14.170	ID:2	Received At 9460 from  4 Our token=1:70, theirs=1:70
+01:14.170	ID:5	Received At 9460 from  4 Our token=1:70, theirs=1:70
+01:14.171	ID:3	Consistent RX
+01:14.171	ID:1	Consistent RX
+01:14.171	ID:2	Consistent RX
+01:14.171	ID:5	Consistent RX
+01:16.471	ID:1	Sending 70 1 with a length of 32 
+01:16.544	ID:3	Received At 9764 from  1 Our token=1:70, theirs=1:70
+01:16.544	ID:4	Received At 9764 from  1 Our token=1:70, theirs=1:70
+01:16.544	ID:2	Received At 9764 from  1 Our token=1:70, theirs=1:70
+01:16.545	ID:3	Consistent RX
+01:16.545	ID:4	Consistent RX
+01:16.545	ID:2	Consistent RX
+01:16.565	ID:3	Sending 70 1 with a length of 32 
+01:16.795	ID:1	Received At 9796 from  3 Our token=1:70, theirs=1:70
+01:16.795	ID:4	Received At 9796 from  3 Our token=1:70, theirs=1:70
+01:16.795	ID:5	Received At 9796 from  3 Our token=1:70, theirs=1:70
+01:16.795	ID:2	Received At 9796 from  3 Our token=1:70, theirs=1:70
+01:16.796	ID:1	Consistent RX
+01:16.796	ID:4	Consistent RX
+01:16.796	ID:5	Consistent RX
+01:16.796	ID:2	Consistent RX
+01:17.877	ID:5	Sending 70 1 with a length of 32 
+01:17.921	ID:3	Received At 9940 from  5 Our token=1:70, theirs=1:70
+01:17.921	ID:4	Received At 9940 from  5 Our token=1:70, theirs=1:70
+01:17.921	ID:2	Received At 9940 from  5 Our token=1:70, theirs=1:70
+01:17.922	ID:3	Consistent RX
+01:17.922	ID:4	Consistent RX
+01:17.922	ID:2	Consistent RX
+01:23.620	ID:3	Sending 70 1 with a length of 32 
+01:23.670	ID:1	Received At 10676 from  3 Our token=1:70, theirs=1:70
+01:23.670	ID:5	Received At 10676 from  3 Our token=1:70, theirs=1:70
+01:23.670	ID:4	Received At 10676 from  3 Our token=1:70, theirs=1:70
+01:23.670	ID:2	Received At 10676 from  3 Our token=1:70, theirs=1:70
+01:23.671	ID:1	Consistent RX
+01:23.671	ID:5	Consistent RX
+01:23.671	ID:4	Consistent RX
+01:23.671	ID:2	Consistent RX
+01:23.995	ID:4	Sending 70 1 with a length of 32 
+01:24.045	ID:5	Received At 10724 from  4 Our token=1:70, theirs=1:70
+01:24.045	ID:1	Received At 10724 from  4 Our token=1:70, theirs=1:70
+01:24.045	ID:3	Received At 10724 from  4 Our token=1:70, theirs=1:70
+01:24.045	ID:2	Received At 10724 from  4 Our token=1:70, theirs=1:70
+01:24.046	ID:5	Consistent RX
+01:24.046	ID:1	Consistent RX
+01:24.046	ID:3	Consistent RX
+01:24.046	ID:2	Consistent RX
+01:34.518	ID:3	Sending 70 1 with a length of 32 
+01:34.546	ID:4	Received At 12068 from  3 Our token=1:70, theirs=1:70
+01:34.546	ID:1	Received At 12068 from  3 Our token=1:70, theirs=1:70
+01:34.546	ID:2	Received At 12068 from  3 Our token=1:70, theirs=1:70
+01:34.546	ID:5	Received At 12068 from  3 Our token=1:70, theirs=1:70
+01:34.547	ID:4	Consistent RX
+01:34.547	ID:1	Consistent RX
+01:34.547	ID:2	Consistent RX
+01:34.547	ID:5	Consistent RX
+01:35.198	ID:1	Sending 70 1 with a length of 32 
+01:35.297	ID:3	Received At 12164 from  1 Our token=1:70, theirs=1:70
+01:35.297	ID:4	Received At 12164 from  1 Our token=1:70, theirs=1:70
+01:35.297	ID:2	Received At 12164 from  1 Our token=1:70, theirs=1:70
+01:35.298	ID:3	Consistent RX
+01:35.298	ID:4	Consistent RX
+01:35.298	ID:2	Consistent RX
+01:38.979	ID:5	Sending 70 1 with a length of 32 
+01:39.046	ID:3	Received At 12644 from  5 Our token=1:70, theirs=1:70
+01:39.046	ID:4	Received At 12644 from  5 Our token=1:70, theirs=1:70
+01:39.046	ID:2	Received At 12644 from  5 Our token=1:70, theirs=1:70
+01:39.047	ID:3	Consistent RX
+01:39.047	ID:4	Consistent RX
+01:39.047	ID:2	Consistent RX
+02:04.940	ID:2	Sending 70 1 with a length of 32 
+02:05.045	ID:1	Received At 15972 from  2 Our token=1:70, theirs=1:70
+02:05.045	ID:5	Received At 15972 from  2 Our token=1:70, theirs=1:70
+02:05.045	ID:3	Received At 15972 from  2 Our token=1:70, theirs=1:70
+02:05.045	ID:4	Received At 15972 from  2 Our token=1:70, theirs=1:70
+02:05.046	ID:1	Consistent RX
+02:05.046	ID:5	Consistent RX
+02:05.046	ID:3	Consistent RX
+02:05.046	ID:4	Consistent RX
+02:06.198	ID:5	Sending 70 1 with a length of 32 
+02:06.294	ID:2	Received At 16132 from  5 Our token=1:70, theirs=1:70
+02:06.294	ID:3	Received At 16132 from  5 Our token=1:70, theirs=1:70
+02:06.294	ID:4	Received At 16132 from  5 Our token=1:70, theirs=1:70
+02:06.295	ID:2	Consistent RX
+02:06.295	ID:3	Consistent RX
+02:06.295	ID:4	Consistent RX
+02:13.917	ID:1	Sending 70 1 with a length of 32 
+02:14.045	ID:3	Received At 17124 from  1 Our token=1:70, theirs=1:70
+02:14.045	ID:2	Received At 17124 from  1 Our token=1:70, theirs=1:70
+02:14.045	ID:4	Received At 17124 from  1 Our token=1:70, theirs=1:70
+02:14.046	ID:3	Consistent RX
+02:14.046	ID:2	Consistent RX
+02:14.046	ID:4	Consistent RX
+02:40.308	ID:4	At 160: Generating a new token 160 2 
+02:40.341	ID:4	Power Usage: 20486 P 0.18 0 89911 5152415 22908 40217 0 35024 89911 5152415 22908 40217 0 35024 (radio 1.20% / 1.20% tx 0.43% / 0.43% listen 0.76% / 0.76%)
+02:40.362	ID:4	Power Usage: 20490 SP 0.18 0 17 12661 23 0 4050 0 4050 6 15076 478 15076 478 (proto 17(12661) radio 31.3105% / 31.3105%)
+02:40.382	ID:4	Power Usage: 20493 SP 0.18 0 58 39680 3 0 429 0 429 3 7832 236 7832 236 (proto 58(39680) radio 13.1346% / 13.1346%)
+02:40.417	ID:4	Sending 160 2 with a length of 32 
+02:40.546	ID:3	Received At 20516 from  4 Our token=1:70, theirs=2:160
+02:40.546	ID:1	Received At 20516 from  4 Our token=1:70, theirs=2:160
+02:40.546	ID:5	Received At 20516 from  4 Our token=1:70, theirs=2:160
+02:40.546	ID:2	Received At 20516 from  4 Our token=1:70, theirs=2:160
+02:40.548	ID:3	Their token is newer. Update to token 2
+02:40.548	ID:1	Their token is newer. Update to token 2
+02:40.548	ID:5	Their token is newer. Update to token 2
+02:40.548	ID:2	Their token is newer. Update to token 2
+02:40.557	ID:3	At 20517: Trickle inconsistency. Scheduled TX for 20531
+02:40.557	ID:1	At 20517: Trickle inconsistency. Scheduled TX for 20530
+02:40.557	ID:5	At 20517: Trickle inconsistency. Scheduled TX for 20526
+02:40.557	ID:2	At 20517: Trickle inconsistency. Scheduled TX for 20532
+02:40.620	ID:5	Sending 160 2 with a length of 32 
+02:40.651	ID:4	Sending 160 2 with a length of 32 
+02:40.651	ID:1	Sending 160 2 with a length of 32 
+02:40.660	ID:3	Sending 160 2 with a length of 32 
+02:40.671	ID:4	Received At 20532 from  5 Our token=2:160, theirs=2:160
+02:40.671	ID:2	Received At 20532 from  5 Our token=2:160, theirs=2:160
+02:40.671	ID:3	Received At 20532 from  5 Our token=2:160, theirs=2:160
+02:40.672	ID:4	Consistent RX
+02:40.672	ID:2	Consistent RX
+02:40.672	ID:3	Consistent RX
+02:40.677	ID:2	Sending 160 2 with a length of 32 
+02:40.796	ID:4	Received At 20548 from  1 Our token=2:160, theirs=2:160
+02:40.796	ID:3	Received At 20548 from  1 Our token=2:160, theirs=2:160
+02:40.796	ID:2	Received At 20548 from  1 Our token=2:160, theirs=2:160
+02:40.797	ID:4	Consistent RX
+02:40.797	ID:3	Consistent RX
+02:40.797	ID:2	Consistent RX
+02:40.823	ID:1	Sending 160 2 with a length of 32 
+02:40.838	ID:2	Sending 160 2 with a length of 32 
+02:40.854	ID:5	Sending 160 2 with a length of 32 
+02:40.893	ID:3	Sending 160 2 with a length of 32 
+02:40.920	ID:1	Received At 20564 from  4 Our token=2:160, theirs=2:160
+02:40.920	ID:5	Received At 20564 from  4 Our token=2:160, theirs=2:160
+02:40.920	ID:3	Received At 20564 from  4 Our token=2:160, theirs=2:160
+02:40.921	ID:2	Received At 20564 from  4 Our token=2:160, theirs=2:160
+02:40.921	ID:1	Consistent RX
+02:40.921	ID:5	Consistent RX
+02:40.921	ID:3	Consistent RX
+02:40.921	ID:2	Consistent RX
+02:41.048	ID:4	Received At 20580 from  5 Our token=2:160, theirs=2:160
+02:41.048	ID:3	Received At 20580 from  5 Our token=2:160, theirs=2:160
+02:41.048	ID:2	Received At 20580 from  5 Our token=2:160, theirs=2:160
+02:41.049	ID:4	Consistent RX
+02:41.049	ID:3	Consistent RX
+02:41.049	ID:2	Consistent RX
+02:41.190	ID:5	Sending 160 2 with a length of 32 
+02:41.285	ID:1	Sending 160 2 with a length of 32 
+02:41.296	ID:1	Received At 20612 from  3 Our token=2:160, theirs=2:160
+02:41.296	ID:5	Received At 20612 from  3 Our token=2:160, theirs=2:160
+02:41.296	ID:4	Received At 20612 from  3 Our token=2:160, theirs=2:160
+02:41.297	ID:2	Received At 20612 from  3 Our token=2:160, theirs=2:160
+02:41.297	ID:1	Consistent RX
+02:41.297	ID:5	Consistent RX
+02:41.297	ID:4	Consistent RX
+02:41.298	ID:2	Consistent RX
+02:41.321	ID:3	Sending 160 2 with a length of 32 
+02:41.421	ID:3	Received At 20628 from  5 Our token=2:160, theirs=2:160
+02:41.421	ID:2	Received At 20628 from  5 Our token=2:160, theirs=2:160
+02:41.421	ID:4	Received At 20628 from  5 Our token=2:160, theirs=2:160
+02:41.422	ID:3	Consistent RX
+02:41.422	ID:2	Consistent RX
+02:41.422	ID:4	Consistent RX
+02:41.548	ID:4	Received At 20644 from  1 Our token=2:160, theirs=2:160
+02:41.548	ID:3	Received At 20644 from  1 Our token=2:160, theirs=2:160
+02:41.548	ID:2	Received At 20644 from  1 Our token=2:160, theirs=2:160
+02:41.549	ID:4	Consistent RX
+02:41.549	ID:3	Consistent RX
+02:41.549	ID:2	Consistent RX
+02:41.670	ID:5	Received At 20660 from  2 Our token=2:160, theirs=2:160
+02:41.670	ID:1	Received At 20660 from  2 Our token=2:160, theirs=2:160
+02:41.670	ID:4	Received At 20660 from  2 Our token=2:160, theirs=2:160
+02:41.670	ID:3	Received At 20660 from  2 Our token=2:160, theirs=2:160
+02:41.671	ID:5	Consistent RX
+02:41.671	ID:1	Consistent RX
+02:41.671	ID:4	Consistent RX
+02:41.671	ID:3	Consistent RX
+02:41.921	ID:5	Received At 20692 from  3 Our token=2:160, theirs=2:160
+02:41.921	ID:1	Received At 20692 from  3 Our token=2:160, theirs=2:160
+02:41.921	ID:2	Received At 20692 from  3 Our token=2:160, theirs=2:160
+02:41.921	ID:4	Received At 20692 from  3 Our token=2:160, theirs=2:160
+02:41.922	ID:5	Consistent RX
+02:41.922	ID:1	Consistent RX
+02:41.922	ID:2	Consistent RX
+02:41.922	ID:4	Consistent RX
+02:42.047	ID:3	Received At 20708 from  2 Our token=2:160, theirs=2:160
+02:42.047	ID:5	Received At 20708 from  2 Our token=2:160, theirs=2:160
+02:42.047	ID:1	Received At 20708 from  2 Our token=2:160, theirs=2:160
+02:42.047	ID:4	Received At 20708 from  2 Our token=2:160, theirs=2:160
+02:42.048	ID:3	Consistent RX
+02:42.048	ID:5	Consistent RX
+02:42.048	ID:1	Consistent RX
+02:42.048	ID:4	Consistent RX
+02:42.293	ID:3	Received At 20739 from  1 Our token=2:160, theirs=2:160
+02:42.293	ID:4	Received At 20739 from  1 Our token=2:160, theirs=2:160
+02:42.294	ID:3	Consistent RX
+02:42.294	ID:4	Consistent RX
+02:42.297	ID:2	Received At 20740 from  1 Our token=2:160, theirs=2:160
+02:42.298	ID:2	Consistent RX
+02:42.422	ID:1	Received At 20756 from  3 Our token=2:160, theirs=2:160
+02:42.422	ID:2	Received At 20756 from  3 Our token=2:160, theirs=2:160
+02:42.422	ID:5	Received At 20756 from  3 Our token=2:160, theirs=2:160
+02:42.422	ID:4	Received At 20756 from  3 Our token=2:160, theirs=2:160
+02:42.423	ID:1	Consistent RX
+02:42.423	ID:2	Consistent RX
+02:42.423	ID:5	Consistent RX
+02:42.423	ID:4	Consistent RX
+02:43.495	ID:2	Sending 160 2 with a length of 32 
+02:43.546	ID:3	Received At 20900 from  2 Our token=2:160, theirs=2:160
+02:43.546	ID:5	Received At 20900 from  2 Our token=2:160, theirs=2:160
+02:43.546	ID:1	Received At 20900 from  2 Our token=2:160, theirs=2:160
+02:43.546	ID:4	Received At 20900 from  2 Our token=2:160, theirs=2:160
+02:43.547	ID:3	Consistent RX
+02:43.547	ID:5	Consistent RX
+02:43.547	ID:1	Consistent RX
+02:43.547	ID:4	Consistent RX
+02:43.729	ID:1	Sending 160 2 with a length of 32 
+02:43.792	ID:5	Sending 160 2 with a length of 32 
+02:43.796	ID:3	Received At 20932 from  1 Our token=2:160, theirs=2:160
+02:43.796	ID:2	Received At 20932 from  1 Our token=2:160, theirs=2:160
+02:43.796	ID:4	Received At 20932 from  1 Our token=2:160, theirs=2:160
+02:43.797	ID:3	Consistent RX
+02:43.797	ID:2	Consistent RX
+02:43.797	ID:4	Consistent RX
+02:43.921	ID:3	Received At 20948 from  5 Our token=2:160, theirs=2:160
+02:43.921	ID:2	Received At 20948 from  5 Our token=2:160, theirs=2:160
+02:43.921	ID:4	Received At 20948 from  5 Our token=2:160, theirs=2:160
+02:43.922	ID:3	Consistent RX
+02:43.922	ID:2	Consistent RX
+02:43.922	ID:4	Consistent RX
+02:46.667	ID:3	Sending 160 2 with a length of 32 
+02:46.796	ID:1	Received At 21316 from  3 Our token=2:160, theirs=2:160
+02:46.796	ID:5	Received At 21316 from  3 Our token=2:160, theirs=2:160
+02:46.796	ID:2	Received At 21316 from  3 Our token=2:160, theirs=2:160
+02:46.796	ID:4	Received At 21316 from  3 Our token=2:160, theirs=2:160
+02:46.797	ID:1	Consistent RX
+02:46.797	ID:5	Consistent RX
+02:46.797	ID:2	Consistent RX
+02:46.797	ID:4	Consistent RX
+02:46.802	ID:2	Sending 160 2 with a length of 32 
+02:46.921	ID:1	Received At 21332 from  2 Our token=2:160, theirs=2:160
+02:46.921	ID:5	Received At 21332 from  2 Our token=2:160, theirs=2:160
+02:46.921	ID:3	Received At 21332 from  2 Our token=2:160, theirs=2:160
+02:46.921	ID:4	Received At 21332 from  2 Our token=2:160, theirs=2:160
+02:46.922	ID:1	Consistent RX
+02:46.922	ID:5	Consistent RX
+02:46.922	ID:3	Consistent RX
+02:46.922	ID:4	Consistent RX
+02:50.308	ID:1	At 170: Generating a new token 170 3 
+02:50.341	ID:1	Power Usage: 21766 P 0.18 0 123713 5446178 38101 42991 0 36597 123713 5446178 38101 42991 0 36597 (radio 1.45% / 1.45% tx 0.68% / 0.68% listen 0.77% / 0.77%)
+02:50.361	ID:1	Power Usage: 21770 SP 0.18 0 58 39680 6 0 807 0 807 3 7834 236 7834 236 (proto 58(39680) radio 10.1094% / 10.1094%)
+02:50.383	ID:1	Power Usage: 21773 SP 0.18 0 17 12661 26 0 4412 0 4412 12 30267 939 30267 939 (proto 17(12661) radio 43.4392% / 43.4392%)
+02:50.417	ID:1	Sending 170 3 with a length of 32 
+02:50.546	ID:3	Received At 21796 from  1 Our token=2:160, theirs=3:170
+02:50.546	ID:2	Received At 21796 from  1 Our token=2:160, theirs=3:170
+02:50.546	ID:4	Received At 21796 from  1 Our token=2:160, theirs=3:170
+02:50.549	ID:3	Their token is newer. Update to token 3
+02:50.549	ID:2	Their token is newer. Update to token 3
+02:50.549	ID:4	Their token is newer. Update to token 3
+02:50.557	ID:3	At 21797: Trickle inconsistency. Scheduled TX for 21805
+02:50.557	ID:2	At 21797: Trickle inconsistency. Scheduled TX for 21805
+02:50.557	ID:4	At 21797: Trickle inconsistency. Scheduled TX for 21811
+02:50.612	ID:2	Sending 170 3 with a length of 32 
+02:50.612	ID:3	Sending 170 3 with a length of 32 
+02:50.651	ID:1	Sending 170 3 with a length of 32 
+02:50.661	ID:4	Sending 170 3 with a length of 32 
+02:50.838	ID:4	Sending 170 3 with a length of 32 
+02:50.846	ID:2	Sending 170 3 with a length of 32 
+02:50.846	ID:3	Sending 170 3 with a length of 32 
+02:50.921	ID:2	Received At 21844 from  1 Our token=3:170, theirs=3:170
+02:50.921	ID:3	Received At 21844 from  1 Our token=3:170, theirs=3:170
+02:50.922	ID:2	Consistent RX
+02:50.922	ID:3	Consistent RX
+02:51.143	ID:1	Sending 170 3 with a length of 32 
+02:51.237	ID:4	Sending 170 3 with a length of 32 
+02:51.276	ID:3	Sending 170 3 with a length of 32 
+02:51.295	ID:5	Received At 21892 from  4 Our token=2:160, theirs=3:170
+02:51.295	ID:1	Received At 21892 from  4 Our token=3:170, theirs=3:170
+02:51.295	ID:3	Received At 21892 from  4 Our token=3:170, theirs=3:170
+02:51.295	ID:2	Received At 21892 from  4 Our token=3:170, theirs=3:170
+02:51.296	ID:1	Consistent RX
+02:51.296	ID:3	Consistent RX
+02:51.296	ID:2	Consistent RX
+02:51.298	ID:5	Their token is newer. Update to token 3
+02:51.306	ID:5	At 21893: Trickle inconsistency. Scheduled TX for 21907
+02:51.401	ID:2	Sending 170 3 with a length of 32 
+02:51.410	ID:5	Sending 170 3 with a length of 32 
+02:51.546	ID:4	Received At 21924 from  2 Our token=3:170, theirs=3:170
+02:51.546	ID:5	Received At 21924 from  2 Our token=3:170, theirs=3:170
+02:51.546	ID:1	Received At 21924 from  2 Our token=3:170, theirs=3:170
+02:51.546	ID:3	Received At 21924 from  2 Our token=3:170, theirs=3:170
+02:51.547	ID:4	Consistent RX
+02:51.547	ID:5	Consistent RX
+02:51.547	ID:1	Consistent RX
+02:51.547	ID:3	Consistent RX
+02:51.651	ID:5	Sending 170 3 with a length of 32 
+02:51.671	ID:2	Received At 21940 from  3 Our token=3:170, theirs=3:170
+02:51.671	ID:1	Received At 21940 from  3 Our token=3:170, theirs=3:170
+02:51.671	ID:5	Received At 21940 from  3 Our token=3:170, theirs=3:170
+02:51.672	ID:2	Consistent RX
+02:51.672	ID:1	Consistent RX
+02:51.672	ID:5	Consistent RX
+02:51.797	ID:2	Received At 21956 from  5 Our token=3:170, theirs=3:170
+02:51.797	ID:3	Received At 21956 from  5 Our token=3:170, theirs=3:170
+02:51.797	ID:4	Received At 21956 from  5 Our token=3:170, theirs=3:170
+02:51.798	ID:2	Consistent RX
+02:51.798	ID:3	Consistent RX
+02:51.798	ID:4	Consistent RX
+02:51.922	ID:3	Received At 21972 from  4 Our token=3:170, theirs=3:170
+02:51.922	ID:1	Received At 21972 from  4 Our token=3:170, theirs=3:170
+02:51.922	ID:5	Received At 21972 from  4 Our token=3:170, theirs=3:170
+02:51.922	ID:2	Received At 21972 from  4 Our token=3:170, theirs=3:170
+02:51.923	ID:3	Consistent RX
+02:51.923	ID:1	Consistent RX
+02:51.923	ID:5	Consistent RX
+02:51.923	ID:2	Consistent RX
+02:51.927	ID:5	Sending 170 3 with a length of 32 
+02:52.172	ID:4	Received At 22004 from  1 Our token=3:170, theirs=3:170
+02:52.172	ID:3	Received At 22004 from  1 Our token=3:170, theirs=3:170
+02:52.172	ID:2	Received At 22004 from  1 Our token=3:170, theirs=3:170
+02:52.173	ID:4	Consistent RX
+02:52.173	ID:3	Consistent RX
+02:52.173	ID:2	Consistent RX
+02:52.298	ID:2	Received At 22020 from  5 Our token=3:170, theirs=3:170
+02:52.298	ID:3	Received At 22020 from  5 Our token=3:170, theirs=3:170
+02:52.299	ID:2	Consistent RX
+02:52.299	ID:3	Consistent RX
+02:52.546	ID:5	Received At 22052 from  4 Our token=3:170, theirs=3:170
+02:52.546	ID:1	Received At 22052 from  4 Our token=3:170, theirs=3:170
+02:52.546	ID:3	Received At 22052 from  4 Our token=3:170, theirs=3:170
+02:52.546	ID:2	Received At 22052 from  4 Our token=3:170, theirs=3:170
+02:52.547	ID:5	Consistent RX
+02:52.547	ID:1	Consistent RX
+02:52.547	ID:3	Consistent RX
+02:52.547	ID:2	Consistent RX
+02:52.796	ID:3	Received At 22084 from  5 Our token=3:170, theirs=3:170
+02:52.796	ID:4	Received At 22084 from  5 Our token=3:170, theirs=3:170
+02:52.796	ID:2	Received At 22084 from  5 Our token=3:170, theirs=3:170
+02:52.797	ID:3	Consistent RX
+02:52.797	ID:4	Consistent RX
+02:52.797	ID:2	Consistent RX
+02:52.917	ID:5	Sending 170 3 with a length of 32 
+02:53.046	ID:3	Received At 22116 from  5 Our token=3:170, theirs=3:170
+02:53.046	ID:2	Received At 22116 from  5 Our token=3:170, theirs=3:170
+02:53.046	ID:4	Received At 22116 from  5 Our token=3:170, theirs=3:170
+02:53.047	ID:3	Consistent RX
+02:53.047	ID:2	Consistent RX
+02:53.047	ID:4	Consistent RX
+02:54.057	ID:1	Sending 170 3 with a length of 32 
+02:54.170	ID:4	Received At 22260 from  1 Our token=3:170, theirs=3:170
+02:54.170	ID:2	Received At 22260 from  1 Our token=3:170, theirs=3:170
+02:54.170	ID:3	Received At 22260 from  1 Our token=3:170, theirs=3:170
+02:54.171	ID:4	Consistent RX
+02:54.171	ID:2	Consistent RX
+02:54.171	ID:3	Consistent RX
+02:54.753	ID:5	Sending 170 3 with a length of 32 
+02:54.797	ID:3	Received At 22340 from  5 Our token=3:170, theirs=3:170
+02:54.797	ID:4	Received At 22340 from  5 Our token=3:170, theirs=3:170
+02:54.797	ID:2	Received At 22340 from  5 Our token=3:170, theirs=3:170
+02:54.798	ID:3	Consistent RX
+02:54.798	ID:4	Consistent RX
+02:54.798	ID:2	Consistent RX
+02:56.667	ID:2	Sending 170 3 with a length of 32 
+02:56.795	ID:4	Received At 22596 from  2 Our token=3:170, theirs=3:170
+02:56.795	ID:1	Received At 22596 from  2 Our token=3:170, theirs=3:170
+02:56.795	ID:5	Received At 22596 from  2 Our token=3:170, theirs=3:170
+02:56.796	ID:3	Received At 22596 from  2 Our token=3:170, theirs=3:170
+02:56.796	ID:4	Consistent RX
+02:56.796	ID:1	Consistent RX
+02:56.796	ID:5	Consistent RX
+02:56.797	ID:3	Consistent RX
+02:57.862	ID:5	Sending 170 3 with a length of 32 
+02:57.923	ID:2	Received At 22740 from  5 Our token=3:170, theirs=3:170
+02:57.923	ID:4	Received At 22740 from  5 Our token=3:170, theirs=3:170
+02:57.923	ID:3	Received At 22740 from  5 Our token=3:170, theirs=3:170
+02:57.924	ID:2	Consistent RX
+02:57.924	ID:4	Consistent RX
+02:57.924	ID:3	Consistent RX
+02:58.042	ID:1	Sending 170 3 with a length of 32 
+02:58.171	ID:2	Received At 22772 from  1 Our token=3:170, theirs=3:170
+02:58.171	ID:3	Received At 22772 from  1 Our token=3:170, theirs=3:170
+02:58.171	ID:4	Received At 22772 from  1 Our token=3:170, theirs=3:170
+02:58.172	ID:2	Consistent RX
+02:58.172	ID:3	Consistent RX
+02:58.172	ID:4	Consistent RX
+03:02.760	ID:3	Sending 170 3 with a length of 32 
+03:02.795	ID:1	Received At 23364 from  3 Our token=3:170, theirs=3:170
+03:02.795	ID:5	Received At 23364 from  3 Our token=3:170, theirs=3:170
+03:02.796	ID:4	Received At 23364 from  3 Our token=3:170, theirs=3:170
+03:02.796	ID:2	Received At 23364 from  3 Our token=3:170, theirs=3:170
+03:02.796	ID:1	Consistent RX
+03:02.796	ID:5	Consistent RX
+03:02.797	ID:4	Consistent RX
+03:02.797	ID:2	Consistent RX
+03:04.401	ID:1	Sending 170 3 with a length of 32 
+03:04.546	ID:3	Received At 23588 from  1 Our token=3:170, theirs=3:170
+03:04.546	ID:4	Received At 23588 from  1 Our token=3:170, theirs=3:170
+03:04.546	ID:2	Received At 23588 from  1 Our token=3:170, theirs=3:170
+03:04.547	ID:3	Consistent RX
+03:04.547	ID:4	Consistent RX
+03:04.547	ID:2	Consistent RX
+03:06.346	ID:5	Sending 170 3 with a length of 32 
+03:06.420	ID:3	Received At 23828 from  5 Our token=3:170, theirs=3:170
+03:06.420	ID:4	Received At 23828 from  5 Our token=3:170, theirs=3:170
+03:06.420	ID:2	Received At 23828 from  5 Our token=3:170, theirs=3:170
+03:06.421	ID:3	Consistent RX
+03:06.421	ID:4	Consistent RX
+03:06.421	ID:2	Consistent RX
+03:14.971	ID:3	Sending 170 3 with a length of 32 
+03:15.045	ID:1	Received At 24932 from  3 Our token=3:170, theirs=3:170
+03:15.045	ID:5	Received At 24932 from  3 Our token=3:170, theirs=3:170
+03:15.045	ID:4	Received At 24932 from  3 Our token=3:170, theirs=3:170
+03:15.045	ID:2	Received At 24932 from  3 Our token=3:170, theirs=3:170
+03:15.046	ID:1	Consistent RX
+03:15.046	ID:5	Consistent RX
+03:15.046	ID:4	Consistent RX
+03:15.046	ID:2	Consistent RX
+03:15.112	ID:2	Sending 170 3 with a length of 32 
+03:15.173	ID:1	Received At 24948 from  2 Our token=3:170, theirs=3:170
+03:15.173	ID:5	Received At 24948 from  2 Our token=3:170, theirs=3:170
+03:15.173	ID:3	Received At 24948 from  2 Our token=3:170, theirs=3:170
+03:15.173	ID:4	Received At 24948 from  2 Our token=3:170, theirs=3:170
+03:15.174	ID:1	Consistent RX
+03:15.174	ID:5	Consistent RX
+03:15.174	ID:3	Consistent RX
+03:15.174	ID:4	Consistent RX
+03:40.706	ID:4	Sending 170 3 with a length of 32 
+03:40.796	ID:3	Received At 28228 from  4 Our token=3:170, theirs=3:170
+03:40.796	ID:1	Received At 28228 from  4 Our token=3:170, theirs=3:170
+03:40.796	ID:2	Received At 28228 from  4 Our token=3:170, theirs=3:170
+03:40.796	ID:5	Received At 28228 from  4 Our token=3:170, theirs=3:170
+03:40.797	ID:3	Consistent RX
+03:40.797	ID:1	Consistent RX
+03:40.797	ID:2	Consistent RX
+03:40.797	ID:5	Consistent RX
+03:43.237	ID:1	Sending 170 3 with a length of 32 
+03:43.298	ID:3	Received At 28548 from  1 Our token=3:170, theirs=3:170
+03:43.298	ID:4	Received At 28548 from  1 Our token=3:170, theirs=3:170
+03:43.298	ID:2	Received At 28548 from  1 Our token=3:170, theirs=3:170
+03:43.299	ID:3	Consistent RX
+03:43.299	ID:4	Consistent RX
+03:43.299	ID:2	Consistent RX
+03:48.995	ID:5	Sending 170 3 with a length of 32 
+03:49.046	ID:3	Received At 29284 from  5 Our token=3:170, theirs=3:170
+03:49.046	ID:4	Received At 29284 from  5 Our token=3:170, theirs=3:170
+03:49.046	ID:2	Received At 29284 from  5 Our token=3:170, theirs=3:170
+03:49.047	ID:3	Consistent RX
+03:49.047	ID:4	Consistent RX
+03:49.047	ID:2	Consistent RX
+04:28.432	ID:1	Sending 170 3 with a length of 32 
+04:28.545	ID:3	Received At 34340 from  1 Our token=3:170, theirs=3:170
+04:28.545	ID:4	Received At 34340 from  1 Our token=3:170, theirs=3:170
+04:28.545	ID:2	Received At 34340 from  1 Our token=3:170, theirs=3:170
+04:28.546	ID:3	Consistent RX
+04:28.546	ID:4	Consistent RX
+04:28.546	ID:2	Consistent RX
+04:32.128	ID:5	Sending 170 3 with a length of 32 
+04:32.172	ID:3	Received At 34804 from  5 Our token=3:170, theirs=3:170
+04:32.172	ID:4	Received At 34804 from  5 Our token=3:170, theirs=3:170
+04:32.172	ID:2	Received At 34804 from  5 Our token=3:170, theirs=3:170
+04:32.173	ID:3	Consistent RX
+04:32.173	ID:4	Consistent RX
+04:32.173	ID:2	Consistent RX
+06:16.354	ID:3	Sending 170 3 with a length of 32 
+06:16.421	ID:4	Received At 48148 from  3 Our token=3:170, theirs=3:170
+06:16.421	ID:1	Received At 48148 from  3 Our token=3:170, theirs=3:170
+06:16.421	ID:2	Received At 48148 from  3 Our token=3:170, theirs=3:170
+06:16.421	ID:5	Received At 48148 from  3 Our token=3:170, theirs=3:170
+06:16.422	ID:4	Consistent RX
+06:16.422	ID:1	Consistent RX
+06:16.422	ID:2	Consistent RX
+06:16.422	ID:5	Consistent RX
+06:16.815	ID:5	Sending 170 3 with a length of 32 
+06:16.921	ID:3	Received At 48212 from  5 Our token=3:170, theirs=3:170
+06:16.921	ID:4	Received At 48212 from  5 Our token=3:170, theirs=3:170
+06:16.921	ID:2	Received At 48212 from  5 Our token=3:170, theirs=3:170
+06:16.922	ID:3	Consistent RX
+06:16.922	ID:4	Consistent RX
+06:16.922	ID:2	Consistent RX
+06:42.620	ID:1	Sending 170 3 with a length of 32 
+06:42.671	ID:3	Received At 51508 from  1 Our token=3:170, theirs=3:170
+06:42.671	ID:4	Received At 51508 from  1 Our token=3:170, theirs=3:170
+06:42.671	ID:2	Received At 51508 from  1 Our token=3:170, theirs=3:170
+06:42.672	ID:3	Consistent RX
+06:42.672	ID:4	Consistent RX
+06:42.672	ID:2	Consistent RX
+08:30.386	ID:1	At 510: Generating a new token 510 4 
+08:30.423	ID:1	Power Usage: 65296 P 0.18 1 282644 16426927 76469 120918 0 109599 158928 10980749 38368 77927 0 73002 (radio 1.18% / 1.04% tx 0.45% / 0.34% listen 0.72% / 0.69%)
+08:30.444	ID:1	Power Usage: 65301 SP 0.18 1 58 39680 18 0 2319 0 1512 9 23482 710 15648 474 (proto 58(39680) radio 13.1343% / 15.1516%)
+08:30.466	ID:1	Power Usage: 65304 SP 0.18 1 17 12661 37 0 6637 0 2225 21 52987 1653 22720 714 (proto 17(12661) radio 31.3104% / 22.2206%)
+08:30.495	ID:1	Sending 510 4 with a length of 32 
+08:30.546	ID:4	Received At 65316 from  1 Our token=3:170, theirs=4:510
+08:30.546	ID:3	Received At 65316 from  1 Our token=3:170, theirs=4:510
+08:30.546	ID:2	Received At 65316 from  1 Our token=3:170, theirs=4:510
+08:30.549	ID:4	Their token is newer. Update to token 4
+08:30.549	ID:3	Their token is newer. Update to token 4
+08:30.549	ID:2	Their token is newer. Update to token 4
+08:30.557	ID:4	At 65317: Trickle inconsistency. Scheduled TX for 65332
+08:30.557	ID:3	At 65317: Trickle inconsistency. Scheduled TX for 65330
+08:30.557	ID:2	At 65317: Trickle inconsistency. Scheduled TX for 65332
+08:30.651	ID:3	Sending 510 4 with a length of 32 
+08:30.667	ID:2	Sending 510 4 with a length of 32 
+08:30.667	ID:4	Sending 510 4 with a length of 32 
+08:30.729	ID:1	Sending 510 4 with a length of 32 
+08:30.796	ID:1	Received At 65348 from  3 Our token=4:510, theirs=4:510
+08:30.796	ID:5	Received At 65348 from  3 Our token=3:170, theirs=4:510
+08:30.796	ID:4	Received At 65348 from  3 Our token=4:510, theirs=4:510
+08:30.796	ID:2	Received At 65348 from  3 Our token=4:510, theirs=4:510
+08:30.797	ID:1	Consistent RX
+08:30.797	ID:4	Consistent RX
+08:30.797	ID:2	Consistent RX
+08:30.799	ID:5	Their token is newer. Update to token 4
+08:30.807	ID:5	At 65349: Trickle inconsistency. Scheduled TX for 65357
+08:30.862	ID:5	Sending 510 4 with a length of 32 
+08:30.877	ID:2	Sending 510 4 with a length of 32 
+08:30.877	ID:4	Sending 510 4 with a length of 32 
+08:30.885	ID:3	Sending 510 4 with a length of 32 
+08:31.096	ID:5	Sending 510 4 with a length of 32 
+08:31.172	ID:4	Received At 65396 from  3 Our token=4:510, theirs=4:510
+08:31.172	ID:1	Received At 65396 from  3 Our token=4:510, theirs=4:510
+08:31.172	ID:2	Received At 65396 from  3 Our token=4:510, theirs=4:510
+08:31.172	ID:5	Received At 65396 from  3 Our token=4:510, theirs=4:510
+08:31.173	ID:4	Consistent RX
+08:31.173	ID:1	Consistent RX
+08:31.173	ID:2	Consistent RX
+08:31.173	ID:5	Consistent RX
+08:31.182	ID:2	Sending 510 4 with a length of 32 
+08:31.182	ID:4	Sending 510 4 with a length of 32 
+08:31.346	ID:3	Sending 510 4 with a length of 32 
+08:31.651	ID:5	Sending 510 4 with a length of 32 
+08:31.796	ID:3	Received At 65476 from  5 Our token=4:510, theirs=4:510
+08:31.796	ID:4	Received At 65476 from  5 Our token=4:510, theirs=4:510
+08:31.796	ID:2	Received At 65476 from  5 Our token=4:510, theirs=4:510
+08:31.797	ID:3	Consistent RX
+08:31.797	ID:4	Consistent RX
+08:31.797	ID:2	Consistent RX
+08:31.920	ID:1	Received At 65492 from  3 Our token=4:510, theirs=4:510
+08:31.920	ID:5	Received At 65492 from  3 Our token=4:510, theirs=4:510
+08:31.920	ID:4	Received At 65492 from  3 Our token=4:510, theirs=4:510
+08:31.920	ID:2	Received At 65492 from  3 Our token=4:510, theirs=4:510
+08:31.921	ID:1	Consistent RX
+08:31.921	ID:5	Consistent RX
+08:31.921	ID:4	Consistent RX
+08:31.921	ID:2	Consistent RX
+08:32.143	ID:1	Sending 510 4 with a length of 32 
+08:32.174	ID:5	Sending 510 4 with a length of 32 
+08:32.276	ID:3	Sending 510 4 with a length of 32 
+08:32.421	ID:1	Received At 65556 from  3 Our token=4:510, theirs=4:510
+08:32.421	ID:5	Received At 65556 from  3 Our token=4:510, theirs=4:510
+08:32.421	ID:4	Received At 65556 from  3 Our token=4:510, theirs=4:510
+08:32.421	ID:2	Received At 65556 from  3 Our token=4:510, theirs=4:510
+08:32.422	ID:1	Consistent RX
+08:32.422	ID:5	Consistent RX
+08:32.422	ID:4	Consistent RX
+08:32.422	ID:2	Consistent RX
+08:32.671	ID:3	Received At 65588 from  5 Our token=4:510, theirs=4:510
+08:32.671	ID:4	Received At 65588 from  5 Our token=4:510, theirs=4:510
+08:32.671	ID:2	Received At 65588 from  5 Our token=4:510, theirs=4:510
+08:32.672	ID:3	Consistent RX
+08:32.672	ID:4	Consistent RX
+08:32.672	ID:2	Consistent RX
+08:32.797	ID:3	Received At 65604 from  1 Our token=4:510, theirs=4:510
+08:32.797	ID:4	Received At 65604 from  1 Our token=4:510, theirs=4:510
+08:32.797	ID:2	Received At 65604 from  1 Our token=4:510, theirs=4:510
+08:32.798	ID:3	Consistent RX
+08:32.798	ID:4	Consistent RX
+08:32.798	ID:2	Consistent RX
+08:33.792	ID:1	Sending 510 4 with a length of 32 
+08:33.920	ID:3	Received At 65748 from  1 Our token=4:510, theirs=4:510
+08:33.920	ID:4	Received At 65748 from  1 Our token=4:510, theirs=4:510
+08:33.920	ID:2	Received At 65748 from  1 Our token=4:510, theirs=4:510
+08:33.921	ID:3	Consistent RX
+08:33.921	ID:4	Consistent RX
+08:33.921	ID:2	Consistent RX
+08:34.018	ID:5	Sending 510 4 with a length of 32 
+08:34.047	ID:2	Received At 65764 from  5 Our token=4:510, theirs=4:510
+08:34.047	ID:3	Received At 65764 from  5 Our token=4:510, theirs=4:510
+08:34.047	ID:4	Received At 65764 from  5 Our token=4:510, theirs=4:510
+08:34.047	ID:2	Consistent RX
+08:34.048	ID:3	Consistent RX
+08:34.048	ID:4	Consistent RX
+08:36.768	ID:2	Sending 510 4 with a length of 32 
+08:36.797	ID:1	Received At 66116 from  2 Our token=4:510, theirs=4:510
+08:36.797	ID:5	Received At 66116 from  2 Our token=4:510, theirs=4:510
+08:36.797	ID:3	Received At 66116 from  2 Our token=4:510, theirs=4:510
+08:36.797	ID:4	Received At 66116 from  2 Our token=4:510, theirs=4:510
+08:36.798	ID:1	Consistent RX
+08:36.798	ID:5	Consistent RX
+08:36.798	ID:3	Consistent RX
+08:36.798	ID:4	Consistent RX
+08:37.018	ID:4	Sending 510 4 with a length of 32 
+08:37.047	ID:5	Received At 66148 from  4 Our token=4:510, theirs=4:510
+08:37.047	ID:1	Received At 66148 from  4 Our token=4:510, theirs=4:510
+08:37.047	ID:3	Received At 66148 from  4 Our token=4:510, theirs=4:510
+08:37.047	ID:2	Received At 66148 from  4 Our token=4:510, theirs=4:510
+08:37.048	ID:5	Consistent RX
+08:37.048	ID:1	Consistent RX
+08:37.048	ID:3	Consistent RX
+08:37.048	ID:2	Consistent RX
+08:42.862	ID:5	Sending 510 4 with a length of 32 
+08:42.923	ID:4	Received At 66900 from  5 Our token=4:510, theirs=4:510
+08:42.923	ID:2	Received At 66900 from  5 Our token=4:510, theirs=4:510
+08:42.923	ID:3	Received At 66900 from  5 Our token=4:510, theirs=4:510
+08:42.924	ID:4	Consistent RX
+08:42.924	ID:2	Consistent RX
+08:42.924	ID:3	Consistent RX
+08:43.214	ID:3	Sending 510 4 with a length of 32 
+08:43.297	ID:1	Received At 66948 from  3 Our token=4:510, theirs=4:510
+08:43.297	ID:5	Received At 66948 from  3 Our token=4:510, theirs=4:510
+08:43.297	ID:4	Received At 66948 from  3 Our token=4:510, theirs=4:510
+08:43.297	ID:2	Received At 66948 from  3 Our token=4:510, theirs=4:510
+08:43.298	ID:1	Consistent RX
+08:43.298	ID:5	Consistent RX
+08:43.298	ID:4	Consistent RX
+08:43.298	ID:2	Consistent RX
+08:43.620	ID:1	Sending 510 4 with a length of 32 
+08:43.671	ID:3	Received At 66996 from  1 Our token=4:510, theirs=4:510
+08:43.671	ID:4	Received At 66996 from  1 Our token=4:510, theirs=4:510
+08:43.671	ID:2	Received At 66996 from  1 Our token=4:510, theirs=4:510
+08:43.672	ID:3	Consistent RX
+08:43.672	ID:4	Consistent RX
+08:43.672	ID:2	Consistent RX
+08:56.049	ID:1	Sending 510 4 with a length of 32 
+08:56.168	ID:3	Received At 68595 from  1 Our token=4:510, theirs=4:510
+08:56.169	ID:3	Consistent RX
+08:56.172	ID:4	Received At 68596 from  1 Our token=4:510, theirs=4:510
+08:56.172	ID:2	Received At 68596 from  1 Our token=4:510, theirs=4:510
+08:56.173	ID:4	Consistent RX
+08:56.173	ID:2	Consistent RX
+08:56.355	ID:5	Sending 510 4 with a length of 32 
+08:56.422	ID:3	Received At 68628 from  5 Our token=4:510, theirs=4:510
+08:56.422	ID:4	Received At 68628 from  5 Our token=4:510, theirs=4:510
+08:56.422	ID:2	Received At 68628 from  5 Our token=4:510, theirs=4:510
+08:56.423	ID:3	Consistent RX
+08:56.423	ID:4	Consistent RX
+08:56.423	ID:2	Consistent RX
+09:21.776	ID:2	Sending 510 4 with a length of 32 
+09:21.921	ID:1	Received At 71892 from  2 Our token=4:510, theirs=4:510
+09:21.921	ID:5	Received At 71892 from  2 Our token=4:510, theirs=4:510
+09:21.922	ID:3	Received At 71892 from  2 Our token=4:510, theirs=4:510
+09:21.922	ID:4	Received At 71892 from  2 Our token=4:510, theirs=4:510
+09:21.922	ID:1	Consistent RX
+09:21.922	ID:5	Consistent RX
+09:21.923	ID:3	Consistent RX
+09:21.923	ID:4	Consistent RX
+09:26.331	ID:3	Sending 510 4 with a length of 32 
+09:26.421	ID:2	Received At 72468 from  3 Our token=4:510, theirs=4:510
+09:26.421	ID:4	Received At 72468 from  3 Our token=4:510, theirs=4:510
+09:26.421	ID:1	Received At 72468 from  3 Our token=4:510, theirs=4:510
+09:26.421	ID:5	Received At 72468 from  3 Our token=4:510, theirs=4:510
+09:26.422	ID:2	Consistent RX
+09:26.422	ID:4	Consistent RX
+09:26.422	ID:1	Consistent RX
+09:26.422	ID:5	Consistent RX
+10:06.620	ID:3	Sending 510 4 with a length of 32 
+10:06.671	ID:4	Received At 77620 from  3 Our token=4:510, theirs=4:510
+10:06.671	ID:1	Received At 77620 from  3 Our token=4:510, theirs=4:510
+10:06.671	ID:2	Received At 77620 from  3 Our token=4:510, theirs=4:510
+10:06.671	ID:5	Received At 77620 from  3 Our token=4:510, theirs=4:510
+10:06.672	ID:4	Consistent RX
+10:06.672	ID:1	Consistent RX
+10:06.672	ID:2	Consistent RX
+10:06.672	ID:5	Consistent RX
+10:30.401	ID:1	Sending 510 4 with a length of 32 
+10:30.546	ID:4	Received At 80676 from  1 Our token=4:510, theirs=4:510
+10:30.546	ID:3	Received At 80676 from  1 Our token=4:510, theirs=4:510
+10:30.546	ID:2	Received At 80676 from  1 Our token=4:510, theirs=4:510
+10:30.547	ID:4	Consistent RX
+10:30.547	ID:3	Consistent RX
+10:30.547	ID:2	Consistent RX
+10:33.393	ID:5	Sending 510 4 with a length of 32 
+10:33.422	ID:2	Received At 81044 from  5 Our token=4:510, theirs=4:510
+10:33.422	ID:3	Received At 81044 from  5 Our token=4:510, theirs=4:510
+10:33.422	ID:4	Received At 81044 from  5 Our token=4:510, theirs=4:510
+10:33.423	ID:2	Consistent RX
+10:33.423	ID:3	Consistent RX
+10:33.423	ID:4	Consistent RX
+12:01.057	ID:3	Sending 510 4 with a length of 32 
+12:01.170	ID:4	Received At 92276 from  3 Our token=4:510, theirs=4:510
+12:01.170	ID:1	Received At 92276 from  3 Our token=4:510, theirs=4:510
+12:01.170	ID:2	Received At 92276 from  3 Our token=4:510, theirs=4:510
+12:01.170	ID:5	Received At 92276 from  3 Our token=4:510, theirs=4:510
+12:01.171	ID:4	Consistent RX
+12:01.171	ID:1	Consistent RX
+12:01.171	ID:2	Consistent RX
+12:01.171	ID:5	Consistent RX
+12:02.721	ID:4	Sending 510 4 with a length of 32 
+12:02.795	ID:3	Received At 92484 from  4 Our token=4:510, theirs=4:510
+12:02.795	ID:1	Received At 92484 from  4 Our token=4:510, theirs=4:510
+12:02.795	ID:2	Received At 92484 from  4 Our token=4:510, theirs=4:510
+12:02.795	ID:5	Received At 92484 from  4 Our token=4:510, theirs=4:510
+12:02.796	ID:3	Consistent RX
+12:02.796	ID:1	Consistent RX
+12:02.796	ID:2	Consistent RX
+12:02.796	ID:5	Consistent RX
+14:00.308	ID:3	At 840: Generating a new token 840 5 
+14:00.344	ID:3	Power Usage: 107526 P 0.18 0 416105 27100257 99642 203690 0 183954 416105 27100257 99642 203690 0 183954 (radio 1.10% / 1.10% tx 0.36% / 0.36% listen 0.74% / 0.74%)
+14:00.367	ID:3	Power Usage: 107531 SP 0.18 0 17 12661 77 0 14384 0 14384 25 63112 1962 63112 1962 (proto 17(12661) radio 26.2619% / 26.2619%)
+14:00.390	ID:3	Power Usage: 107534 SP 0.18 0 58 39680 14 0 2285 0 2285 14 36530 1105 36530 1105 (proto 58(39680) radio 13.1316% / 13.1316%)
+14:00.417	ID:3	Sending 840 5 with a length of 32 
+14:00.546	ID:4	Received At 107556 from  3 Our token=4:510, theirs=5:840
+14:00.546	ID:2	Received At 107556 from  3 Our token=4:510, theirs=5:840
+14:00.546	ID:5	Received At 107556 from  3 Our token=4:510, theirs=5:840
+14:00.546	ID:1	Received At 107556 from  3 Our token=4:510, theirs=5:840
+14:00.549	ID:4	Their token is newer. Update to token 5
+14:00.549	ID:2	Their token is newer. Update to token 5
+14:00.549	ID:5	Their token is newer. Update to token 5
+14:00.549	ID:1	Their token is newer. Update to token 5
+14:00.558	ID:4	At 107557: Trickle inconsistency. Scheduled TX for 107572
+14:00.558	ID:2	At 107557: Trickle inconsistency. Scheduled TX for 107572
+14:00.558	ID:5	At 107557: Trickle inconsistency. Scheduled TX for 107570
+14:00.558	ID:1	At 107557: Trickle inconsistency. Scheduled TX for 107567
+14:00.628	ID:1	Sending 840 5 with a length of 32 
+14:00.651	ID:3	Sending 840 5 with a length of 32 
+14:00.651	ID:5	Sending 840 5 with a length of 32 
+14:00.668	ID:2	Sending 840 5 with a length of 32 
+14:00.668	ID:4	Sending 840 5 with a length of 32 
+14:00.796	ID:3	Received At 107588 from  5 Our token=5:840, theirs=5:840
+14:00.796	ID:4	Received At 107588 from  5 Our token=5:840, theirs=5:840
+14:00.796	ID:2	Received At 107588 from  5 Our token=5:840, theirs=5:840
+14:00.797	ID:3	Consistent RX
+14:00.797	ID:4	Consistent RX
+14:00.797	ID:2	Consistent RX
+14:00.870	ID:1	Sending 840 5 with a length of 32 
+14:00.877	ID:2	Sending 840 5 with a length of 32 
+14:00.877	ID:4	Sending 840 5 with a length of 32 
+14:00.885	ID:5	Sending 840 5 with a length of 32 
+14:00.921	ID:5	Received At 107604 from  3 Our token=5:840, theirs=5:840
+14:00.921	ID:4	Received At 107604 from  3 Our token=5:840, theirs=5:840
+14:00.921	ID:2	Received At 107604 from  3 Our token=5:840, theirs=5:840
+14:00.921	ID:1	Received At 107604 from  3 Our token=5:840, theirs=5:840
+14:00.922	ID:5	Consistent RX
+14:00.922	ID:4	Consistent RX
+14:00.922	ID:2	Consistent RX
+14:00.922	ID:1	Consistent RX
+14:01.143	ID:3	Sending 840 5 with a length of 32 
+14:01.182	ID:2	Sending 840 5 with a length of 32 
+14:01.182	ID:4	Sending 840 5 with a length of 32 
+14:01.221	ID:5	Sending 840 5 with a length of 32 
+14:01.268	ID:1	Sending 840 5 with a length of 32 
+14:01.854	ID:3	Sending 840 5 with a length of 32 
+14:02.003	ID:1	Sending 840 5 with a length of 32 
+14:02.043	ID:4	Received At 107747 from  2 Our token=5:840, theirs=5:840
+14:02.043	ID:2	Received At 107747 from  4 Our token=5:840, theirs=5:840
+14:02.044	ID:4	Consistent RX
+14:02.044	ID:2	Consistent RX
+14:02.047	ID:3	Received At 107748 from  1 Our token=5:840, theirs=5:840
+14:02.048	ID:3	Consistent RX
+14:02.081	ID:5	Sending 840 5 with a length of 32 
+14:02.151	ID:4	Sending 840 5 with a length of 32 
+14:02.171	ID:3	Received At 107764 from  5 Our token=5:840, theirs=5:840
+14:02.171	ID:4	Received At 107764 from  5 Our token=5:840, theirs=5:840
+14:02.171	ID:2	Received At 107764 from  5 Our token=5:840, theirs=5:840
+14:02.172	ID:3	Consistent RX
+14:02.172	ID:4	Consistent RX
+14:02.172	ID:2	Consistent RX
+14:02.542	ID:4	Received At 107811 from  2 Our token=5:840, theirs=5:840
+14:02.542	ID:2	Received At 107811 from  4 Our token=5:840, theirs=5:840
+14:02.543	ID:4	Consistent RX
+14:02.543	ID:2	Consistent RX
+14:02.547	ID:1	Received At 107812 from  3 Our token=5:840, theirs=5:840
+14:02.547	ID:5	Received At 107812 from  3 Our token=5:840, theirs=5:840
+14:02.548	ID:1	Consistent RX
+14:02.548	ID:5	Consistent RX
+14:02.797	ID:1	Received At 107844 from  3 Our token=5:840, theirs=5:840
+14:02.798	ID:5	Received At 107844 from  3 Our token=5:840, theirs=5:840
+14:02.798	ID:4	Received At 107844 from  3 Our token=5:840, theirs=5:840
+14:02.798	ID:2	Received At 107844 from  3 Our token=5:840, theirs=5:840
+14:02.798	ID:1	Consistent RX
+14:02.798	ID:5	Consistent RX
+14:02.799	ID:4	Consistent RX
+14:02.799	ID:2	Consistent RX
+14:03.046	ID:1	Received At 107876 from  4 Our token=5:840, theirs=5:840
+14:03.046	ID:5	Received At 107876 from  4 Our token=5:840, theirs=5:840
+14:03.046	ID:3	Received At 107876 from  4 Our token=5:840, theirs=5:840
+14:03.047	ID:1	Consistent RX
+14:03.047	ID:5	Consistent RX
+14:03.047	ID:3	Consistent RX
+14:04.003	ID:3	Sending 840 5 with a length of 32 
+14:04.043	ID:2	Received At 108003 from  4 Our token=5:840, theirs=5:840
+14:04.044	ID:2	Consistent RX
+14:04.048	ID:5	Received At 108004 from  3 Our token=5:840, theirs=5:840
+14:04.048	ID:1	Received At 108004 from  3 Our token=5:840, theirs=5:840
+14:04.048	ID:5	Consistent RX
+14:04.049	ID:1	Consistent RX
+14:06.401	ID:3	Sending 840 5 with a length of 32 
+14:06.546	ID:1	Received At 108324 from  3 Our token=5:840, theirs=5:840
+14:06.546	ID:5	Received At 108324 from  3 Our token=5:840, theirs=5:840
+14:06.546	ID:4	Received At 108324 from  3 Our token=5:840, theirs=5:840
+14:06.546	ID:2	Received At 108324 from  3 Our token=5:840, theirs=5:840
+14:06.547	ID:1	Consistent RX
+14:06.547	ID:5	Consistent RX
+14:06.547	ID:4	Consistent RX
+14:06.547	ID:2	Consistent RX
+14:07.088	ID:4	Sending 840 5 with a length of 32 
+14:07.172	ID:3	Received At 108404 from  4 Our token=5:840, theirs=5:840
+14:07.172	ID:1	Received At 108404 from  4 Our token=5:840, theirs=5:840
+14:07.172	ID:2	Received At 108404 from  4 Our token=5:840, theirs=5:840
+14:07.172	ID:5	Received At 108404 from  4 Our token=5:840, theirs=5:840
+14:07.173	ID:3	Consistent RX
+14:07.173	ID:1	Consistent RX
+14:07.173	ID:2	Consistent RX
+14:07.173	ID:5	Consistent RX
+14:12.910	ID:5	Sending 840 5 with a length of 32 
+14:13.046	ID:3	Received At 109156 from  5 Our token=5:840, theirs=5:840
+14:13.046	ID:4	Received At 109156 from  5 Our token=5:840, theirs=5:840
+14:13.046	ID:2	Received At 109156 from  5 Our token=5:840, theirs=5:840
+14:13.047	ID:3	Consistent RX
+14:13.047	ID:4	Consistent RX
+14:13.047	ID:2	Consistent RX
+14:13.136	ID:4	Sending 840 5 with a length of 32 
+14:13.171	ID:1	Received At 109172 from  4 Our token=5:840, theirs=5:840
+14:13.171	ID:5	Received At 109172 from  4 Our token=5:840, theirs=5:840
+14:13.171	ID:3	Received At 109172 from  4 Our token=5:840, theirs=5:840
+14:13.171	ID:2	Received At 109172 from  4 Our token=5:840, theirs=5:840
+14:13.172	ID:1	Consistent RX
+14:13.172	ID:5	Consistent RX
+14:13.172	ID:3	Consistent RX
+14:13.172	ID:2	Consistent RX
+14:14.456	ID:1	Sending 840 5 with a length of 32 
+14:14.546	ID:3	Received At 109348 from  1 Our token=5:840, theirs=5:840
+14:14.546	ID:4	Received At 109348 from  1 Our token=5:840, theirs=5:840
+14:14.546	ID:2	Received At 109348 from  1 Our token=5:840, theirs=5:840
+14:14.547	ID:3	Consistent RX
+14:14.547	ID:4	Consistent RX
+14:14.547	ID:2	Consistent RX
+14:24.596	ID:2	Sending 840 5 with a length of 32 
+14:24.671	ID:1	Received At 110644 from  2 Our token=5:840, theirs=5:840
+14:24.671	ID:5	Received At 110644 from  2 Our token=5:840, theirs=5:840
+14:24.671	ID:3	Received At 110644 from  2 Our token=5:840, theirs=5:840
+14:24.671	ID:4	Received At 110644 from  2 Our token=5:840, theirs=5:840
+14:24.672	ID:1	Consistent RX
+14:24.672	ID:5	Consistent RX
+14:24.672	ID:3	Consistent RX
+14:24.672	ID:4	Consistent RX
+14:27.839	ID:5	Sending 840 5 with a length of 32 
+14:27.923	ID:2	Received At 111060 from  5 Our token=5:840, theirs=5:840
+14:27.923	ID:3	Received At 111060 from  5 Our token=5:840, theirs=5:840
+14:27.923	ID:4	Received At 111060 from  5 Our token=5:840, theirs=5:840
+14:27.923	ID:2	Consistent RX
+14:27.924	ID:3	Consistent RX
+14:27.924	ID:4	Consistent RX
+14:31.823	ID:1	Sending 840 5 with a length of 32 
+14:31.923	ID:4	Received At 111572 from  1 Our token=5:840, theirs=5:840
+14:31.923	ID:2	Received At 111572 from  1 Our token=5:840, theirs=5:840
+14:31.923	ID:3	Received At 111572 from  1 Our token=5:840, theirs=5:840
+14:31.924	ID:4	Consistent RX
+14:31.924	ID:2	Consistent RX
+14:31.924	ID:3	Consistent RX
+14:48.542	ID:1	Sending 840 5 with a length of 32 
+14:48.671	ID:3	Received At 113716 from  1 Our token=5:840, theirs=5:840
+14:48.671	ID:4	Received At 113716 from  1 Our token=5:840, theirs=5:840
+14:48.671	ID:2	Received At 113716 from  1 Our token=5:840, theirs=5:840
+14:48.672	ID:3	Consistent RX
+14:48.672	ID:4	Consistent RX
+14:48.672	ID:2	Consistent RX
+14:49.910	ID:3	Sending 840 5 with a length of 32 
+14:50.046	ID:1	Received At 113892 from  3 Our token=5:840, theirs=5:840
+14:50.046	ID:5	Received At 113892 from  3 Our token=5:840, theirs=5:840
+14:50.046	ID:4	Received At 113892 from  3 Our token=5:840, theirs=5:840
+14:50.046	ID:2	Received At 113892 from  3 Our token=5:840, theirs=5:840
+14:50.047	ID:1	Consistent RX
+14:50.047	ID:5	Consistent RX
+14:50.047	ID:4	Consistent RX
+14:50.047	ID:2	Consistent RX
+14:56.807	ID:5	Sending 840 5 with a length of 32 
+14:56.921	ID:3	Received At 114772 from  5 Our token=5:840, theirs=5:840
+14:56.921	ID:4	Received At 114772 from  5 Our token=5:840, theirs=5:840
+14:56.921	ID:2	Received At 114772 from  5 Our token=5:840, theirs=5:840
+14:56.922	ID:3	Consistent RX
+14:56.922	ID:4	Consistent RX
+14:56.922	ID:2	Consistent RX
+15:41.487	ID:1	Sending 840 5 with a length of 32 
+15:41.548	ID:3	Received At 120484 from  1 Our token=5:840, theirs=5:840
+15:41.548	ID:4	Received At 120484 from  1 Our token=5:840, theirs=5:840
+15:41.548	ID:2	Received At 120484 from  1 Our token=5:840, theirs=5:840
+15:41.549	ID:3	Consistent RX
+15:41.549	ID:4	Consistent RX
+15:41.549	ID:2	Consistent RX
+15:43.417	ID:3	Sending 840 5 with a length of 32 
+15:43.546	ID:4	Received At 120740 from  3 Our token=5:840, theirs=5:840
+15:43.546	ID:1	Received At 120740 from  3 Our token=5:840, theirs=5:840
+15:43.546	ID:5	Received At 120740 from  3 Our token=5:840, theirs=5:840
+15:43.546	ID:2	Received At 120740 from  3 Our token=5:840, theirs=5:840
+15:43.547	ID:4	Consistent RX
+15:43.547	ID:1	Consistent RX
+15:43.547	ID:5	Consistent RX
+15:43.547	ID:2	Consistent RX
+16:05.690	ID:5	Sending 840 5 with a length of 32 
+16:05.797	ID:3	Received At 123588 from  5 Our token=5:840, theirs=5:840
+16:05.797	ID:4	Received At 123588 from  5 Our token=5:840, theirs=5:840
+16:05.797	ID:2	Received At 123588 from  5 Our token=5:840, theirs=5:840
+16:05.798	ID:3	Consistent RX
+16:05.798	ID:4	Consistent RX
+16:05.798	ID:2	Consistent RX
+17:16.729	ID:4	Sending 840 5 with a length of 32 
+17:16.797	ID:3	Received At 132676 from  4 Our token=5:840, theirs=5:840
+17:16.797	ID:1	Received At 132676 from  4 Our token=5:840, theirs=5:840
+17:16.797	ID:2	Received At 132676 from  4 Our token=5:840, theirs=5:840
+17:16.797	ID:5	Received At 132676 from  4 Our token=5:840, theirs=5:840
+17:16.797	ID:3	Consistent RX
+17:16.798	ID:1	Consistent RX
+17:16.798	ID:2	Consistent RX
+17:16.798	ID:5	Consistent RX
+17:29.104	ID:3	Sending 840 5 with a length of 32 
+17:29.172	ID:4	Received At 134260 from  3 Our token=5:840, theirs=5:840
+17:29.172	ID:1	Received At 134260 from  3 Our token=5:840, theirs=5:840
+17:29.172	ID:2	Received At 134260 from  3 Our token=5:840, theirs=5:840
+17:29.172	ID:5	Received At 134260 from  3 Our token=5:840, theirs=5:840
+17:29.173	ID:4	Consistent RX
+17:29.173	ID:1	Consistent RX
+17:29.173	ID:2	Consistent RX
+17:29.173	ID:5	Consistent RX
+19:49.589	ID:5	Sending 840 5 with a length of 32 
+19:49.672	ID:3	Received At 152244 from  5 Our token=5:840, theirs=5:840
+19:49.672	ID:4	Received At 152244 from  5 Our token=5:840, theirs=5:840
+19:49.672	ID:2	Received At 152244 from  5 Our token=5:840, theirs=5:840
+19:49.673	ID:3	Consistent RX
+19:49.673	ID:4	Consistent RX
+19:49.673	ID:2	Consistent RX
+20:15.596	ID:4	Sending 840 5 with a length of 32 
+20:15.671	ID:3	Received At 155572 from  4 Our token=5:840, theirs=5:840
+20:15.671	ID:1	Received At 155572 from  4 Our token=5:840, theirs=5:840
+20:15.671	ID:5	Received At 155572 from  4 Our token=5:840, theirs=5:840
+20:15.671	ID:2	Received At 155572 from  4 Our token=5:840, theirs=5:840
+20:15.672	ID:3	Consistent RX
+20:15.672	ID:1	Consistent RX
+20:15.672	ID:5	Consistent RX
+20:15.672	ID:2	Consistent RX
+20:23.573	ID:1	Sending 840 5 with a length of 32 
+20:23.673	ID:3	Received At 156596 from  1 Our token=5:840, theirs=5:840
+20:23.673	ID:4	Received At 156596 from  1 Our token=5:840, theirs=5:840
+20:23.673	ID:2	Received At 156596 from  1 Our token=5:840, theirs=5:840
+20:23.674	ID:3	Consistent RX
+20:23.674	ID:4	Consistent RX
+20:23.674	ID:2	Consistent RX
+20:40.559	ID:1	At 1240: Generating a new token 1240 6 
+20:40.595	ID:1	Power Usage: 158758 P 0.18 2 603538 40023687 148158 288866 0 267320 320891 23596760 71689 167948 0 157721 (radio 1.-99% / 1.00% tx 0.36% / 0.29% listen 0.71% / 0.70%)
+20:40.618	ID:1	Power Usage: 158763 SP 0.18 2 58 39680 42 0 5344 0 3025 21 54781 1657 31299 947 (proto 58(39680) radio 14.1413% / 14.1471%)
+20:40.641	ID:1	Power Usage: 158766 SP 0.18 2 17 12661 64 0 11641 0 5004 37 93377 2904 40390 1251 (proto 17(12661) radio 24.2469% / 19.1946%)
+20:40.667	ID:1	Sending 1240 6 with a length of 32 
+20:40.796	ID:4	Received At 158788 from  1 Our token=5:840, theirs=6:1240
+20:40.796	ID:3	Received At 158788 from  1 Our token=5:840, theirs=6:1240
+20:40.796	ID:2	Received At 158788 from  1 Our token=5:840, theirs=6:1240
+20:40.799	ID:4	Their token is newer. Update to token 6
+20:40.799	ID:3	Their token is newer. Update to token 6
+20:40.799	ID:2	Their token is newer. Update to token 6
+20:40.809	ID:4	At 158789: Trickle inconsistency. Scheduled TX for 158802
+20:40.809	ID:3	At 158789: Trickle inconsistency. Scheduled TX for 158801
+20:40.809	ID:2	At 158789: Trickle inconsistency. Scheduled TX for 158802
+20:40.893	ID:3	Sending 1240 6 with a length of 32 
+20:40.901	ID:1	Sending 1240 6 with a length of 32 
+20:40.901	ID:4	Sending 1240 6 with a length of 32 
+20:40.901	ID:2	Sending 1240 6 with a length of 32 
+20:40.919	ID:5	Received At 158803 from  3 Our token=5:840, theirs=6:1240
+20:40.920	ID:4	Received At 158803 from  3 Our token=6:1240, theirs=6:1240
+20:40.920	ID:1	Received At 158803 from  3 Our token=6:1240, theirs=6:1240
+20:40.920	ID:2	Received At 158803 from  3 Our token=6:1240, theirs=6:1240
+20:40.920	ID:1	Consistent RX
+20:40.920	ID:4	Consistent RX
+20:40.921	ID:2	Consistent RX
+20:40.922	ID:5	Their token is newer. Update to token 6
+20:40.931	ID:5	At 158805: Trickle inconsistency. Scheduled TX for 158813
+20:40.987	ID:5	Sending 1240 6 with a length of 32 
+20:41.049	ID:4	Sending 1240 6 with a length of 32 
+20:41.049	ID:2	Sending 1240 6 with a length of 32 
+20:41.065	ID:3	Sending 1240 6 with a length of 32 
+20:41.229	ID:5	Sending 1240 6 with a length of 32 
+20:41.297	ID:4	Received At 158852 from  3 Our token=6:1240, theirs=6:1240
+20:41.297	ID:2	Received At 158852 from  3 Our token=6:1240, theirs=6:1240
+20:41.297	ID:1	Received At 158852 from  3 Our token=6:1240, theirs=6:1240
+20:41.298	ID:4	Consistent RX
+20:41.298	ID:2	Consistent RX
+20:41.298	ID:1	Consistent RX
+20:41.424	ID:3	Received At 158868 from  1 Our token=6:1240, theirs=6:1240
+20:41.424	ID:4	Received At 158868 from  1 Our token=6:1240, theirs=6:1240
+20:41.424	ID:2	Received At 158868 from  1 Our token=6:1240, theirs=6:1240
+20:41.425	ID:3	Consistent RX
+20:41.425	ID:4	Consistent RX
+20:41.425	ID:2	Consistent RX
+20:41.495	ID:3	Sending 1240 6 with a length of 32 
+20:41.532	ID:1	Sending 1240 6 with a length of 32 
+20:41.548	ID:3	Received At 158884 from  5 Our token=6:1240, theirs=6:1240
+20:41.548	ID:4	Received At 158884 from  5 Our token=6:1240, theirs=6:1240
+20:41.548	ID:2	Received At 158884 from  5 Our token=6:1240, theirs=6:1240
+20:41.549	ID:3	Consistent RX
+20:41.549	ID:4	Consistent RX
+20:41.549	ID:2	Consistent RX
+20:41.649	ID:5	Sending 1240 6 with a length of 32 
+20:41.673	ID:3	Received At 158900 from  1 Our token=6:1240, theirs=6:1240
+20:41.673	ID:2	Received At 158900 from  1 Our token=6:1240, theirs=6:1240
+20:41.673	ID:4	Received At 158900 from  1 Our token=6:1240, theirs=6:1240
+20:41.674	ID:3	Consistent RX
+20:41.674	ID:2	Consistent RX
+20:41.674	ID:4	Consistent RX
+20:41.797	ID:1	Received At 158916 from  3 Our token=6:1240, theirs=6:1240
+20:41.797	ID:5	Received At 158916 from  3 Our token=6:1240, theirs=6:1240
+20:41.797	ID:4	Received At 158916 from  3 Our token=6:1240, theirs=6:1240
+20:41.797	ID:2	Received At 158916 from  3 Our token=6:1240, theirs=6:1240
+20:41.798	ID:1	Consistent RX
+20:41.798	ID:5	Consistent RX
+20:41.798	ID:4	Consistent RX
+20:41.798	ID:2	Consistent RX
+20:41.921	ID:3	Received At 158932 from  5 Our token=6:1240, theirs=6:1240
+20:41.921	ID:4	Received At 158932 from  5 Our token=6:1240, theirs=6:1240
+20:41.921	ID:2	Received At 158932 from  5 Our token=6:1240, theirs=6:1240
+20:41.922	ID:3	Consistent RX
+20:41.922	ID:4	Consistent RX
+20:41.922	ID:2	Consistent RX
+20:42.112	ID:1	Sending 1240 6 with a length of 32 
+20:42.393	ID:3	Sending 1240 6 with a length of 32 
+20:42.673	ID:5	Received At 159028 from  3 Our token=6:1240, theirs=6:1240
+20:42.673	ID:1	Received At 159028 from  3 Our token=6:1240, theirs=6:1240
+20:42.673	ID:4	Received At 159028 from  3 Our token=6:1240, theirs=6:1240
+20:42.673	ID:2	Received At 159028 from  3 Our token=6:1240, theirs=6:1240
+20:42.674	ID:5	Consistent RX
+20:42.674	ID:1	Consistent RX
+20:42.674	ID:4	Consistent RX
+20:42.674	ID:2	Consistent RX
+20:42.786	ID:5	Sending 1240 6 with a length of 32 
+20:42.922	ID:3	Received At 159060 from  5 Our token=6:1240, theirs=6:1240
+20:42.922	ID:4	Received At 159060 from  5 Our token=6:1240, theirs=6:1240
+20:42.922	ID:2	Received At 159060 from  5 Our token=6:1240, theirs=6:1240
+20:42.923	ID:3	Consistent RX
+20:42.923	ID:4	Consistent RX
+20:42.923	ID:2	Consistent RX
+20:43.786	ID:1	Sending 1240 6 with a length of 32 
+20:43.922	ID:3	Received At 159188 from  1 Our token=6:1240, theirs=6:1240
+20:43.922	ID:4	Received At 159188 from  1 Our token=6:1240, theirs=6:1240
+20:43.922	ID:2	Received At 159188 from  1 Our token=6:1240, theirs=6:1240
+20:43.923	ID:3	Consistent RX
+20:43.923	ID:4	Consistent RX
+20:43.923	ID:2	Consistent RX
+20:44.143	ID:5	Sending 1240 6 with a length of 32 
+20:44.173	ID:3	Received At 159220 from  5 Our token=6:1240, theirs=6:1240
+20:44.173	ID:4	Received At 159220 from  5 Our token=6:1240, theirs=6:1240
+20:44.173	ID:2	Received At 159220 from  5 Our token=6:1240, theirs=6:1240
+20:44.174	ID:3	Consistent RX
+20:44.174	ID:4	Consistent RX
+20:44.174	ID:2	Consistent RX
+20:46.878	ID:5	Sending 1240 6 with a length of 32 
+20:46.923	ID:3	Received At 159572 from  5 Our token=6:1240, theirs=6:1240
+20:46.923	ID:4	Received At 159572 from  5 Our token=6:1240, theirs=6:1240
+20:46.923	ID:2	Received At 159572 from  5 Our token=6:1240, theirs=6:1240
+20:46.924	ID:3	Consistent RX
+20:46.924	ID:4	Consistent RX
+20:46.924	ID:2	Consistent RX
+20:47.026	ID:2	Sending 1240 6 with a length of 32 
+20:47.173	ID:1	Received At 159604 from  2 Our token=6:1240, theirs=6:1240
+20:47.173	ID:5	Received At 159604 from  2 Our token=6:1240, theirs=6:1240
+20:47.173	ID:3	Received At 159604 from  2 Our token=6:1240, theirs=6:1240
+20:47.173	ID:4	Received At 159604 from  2 Our token=6:1240, theirs=6:1240
+20:47.174	ID:1	Consistent RX
+20:47.174	ID:5	Consistent RX
+20:47.174	ID:3	Consistent RX
+20:47.174	ID:4	Consistent RX
+20:47.331	ID:1	Sending 1240 6 with a length of 32 
+20:47.422	ID:2	Received At 159636 from  1 Our token=6:1240, theirs=6:1240
+20:47.422	ID:4	Received At 159636 from  1 Our token=6:1240, theirs=6:1240
+20:47.422	ID:3	Received At 159636 from  1 Our token=6:1240, theirs=6:1240
+20:47.423	ID:2	Consistent RX
+20:47.423	ID:4	Consistent RX
+20:47.423	ID:3	Consistent RX
+20:53.753	ID:1	Sending 1240 6 with a length of 32 
+20:53.798	ID:3	Received At 160452 from  1 Our token=6:1240, theirs=6:1240
+20:53.798	ID:2	Received At 160452 from  1 Our token=6:1240, theirs=6:1240
+20:53.798	ID:4	Received At 160452 from  1 Our token=6:1240, theirs=6:1240
+20:53.799	ID:3	Consistent RX
+20:53.799	ID:2	Consistent RX
+20:53.799	ID:4	Consistent RX
+20:55.230	ID:3	Sending 1240 6 with a length of 32 
+20:55.298	ID:1	Received At 160644 from  3 Our token=6:1240, theirs=6:1240
+20:55.298	ID:5	Received At 160644 from  3 Our token=6:1240, theirs=6:1240
+20:55.298	ID:2	Received At 160644 from  3 Our token=6:1240, theirs=6:1240
+20:55.298	ID:4	Received At 160644 from  3 Our token=6:1240, theirs=6:1240
+20:55.299	ID:1	Consistent RX
+20:55.299	ID:5	Consistent RX
+20:55.299	ID:2	Consistent RX
+20:55.299	ID:4	Consistent RX
+20:55.987	ID:5	Sending 1240 6 with a length of 32 
+20:56.049	ID:2	Received At 160740 from  5 Our token=6:1240, theirs=6:1240
+20:56.049	ID:3	Received At 160740 from  5 Our token=6:1240, theirs=6:1240
+20:56.049	ID:4	Received At 160740 from  5 Our token=6:1240, theirs=6:1240
+20:56.050	ID:3	Consistent RX
+20:56.050	ID:2	Consistent RX
+20:56.050	ID:4	Consistent RX
+21:05.479	ID:5	Sending 1240 6 with a length of 32 
+21:05.547	ID:3	Received At 161956 from  5 Our token=6:1240, theirs=6:1240
+21:05.547	ID:4	Received At 161956 from  5 Our token=6:1240, theirs=6:1240
+21:05.547	ID:2	Received At 161956 from  5 Our token=6:1240, theirs=6:1240
+21:05.548	ID:3	Consistent RX
+21:05.548	ID:4	Consistent RX
+21:05.548	ID:2	Consistent RX
+21:06.286	ID:4	Sending 1240 6 with a length of 32 
+21:06.422	ID:1	Received At 162068 from  4 Our token=6:1240, theirs=6:1240
+21:06.422	ID:5	Received At 162068 from  4 Our token=6:1240, theirs=6:1240
+21:06.422	ID:3	Received At 162068 from  4 Our token=6:1240, theirs=6:1240
+21:06.422	ID:2	Received At 162068 from  4 Our token=6:1240, theirs=6:1240
+21:06.423	ID:1	Consistent RX
+21:06.423	ID:5	Consistent RX
+21:06.423	ID:3	Consistent RX
+21:06.423	ID:2	Consistent RX
+21:07.151	ID:1	Sending 1240 6 with a length of 32 
+21:07.298	ID:3	Received At 162180 from  1 Our token=6:1240, theirs=6:1240
+21:07.298	ID:4	Received At 162180 from  1 Our token=6:1240, theirs=6:1240
+21:07.298	ID:2	Received At 162180 from  1 Our token=6:1240, theirs=6:1240
+21:07.299	ID:3	Consistent RX
+21:07.299	ID:4	Consistent RX
+21:07.299	ID:2	Consistent RX
+21:36.128	ID:2	Sending 1240 6 with a length of 32 
+21:36.173	ID:1	Received At 165876 from  2 Our token=6:1240, theirs=6:1240
+21:36.173	ID:5	Received At 165876 from  2 Our token=6:1240, theirs=6:1240
+21:36.173	ID:3	Received At 165876 from  2 Our token=6:1240, theirs=6:1240
+21:36.173	ID:4	Received At 165876 from  2 Our token=6:1240, theirs=6:1240
+21:36.174	ID:1	Consistent RX
+21:36.174	ID:5	Consistent RX
+21:36.174	ID:3	Consistent RX
+21:36.174	ID:4	Consistent RX
+21:41.411	ID:3	Sending 1240 6 with a length of 32 
+21:41.547	ID:4	Received At 166564 from  3 Our token=6:1240, theirs=6:1240
+21:41.547	ID:2	Received At 166564 from  3 Our token=6:1240, theirs=6:1240
+21:41.547	ID:1	Received At 166564 from  3 Our token=6:1240, theirs=6:1240
+21:41.547	ID:5	Received At 166564 from  3 Our token=6:1240, theirs=6:1240
+21:41.548	ID:4	Consistent RX
+21:41.548	ID:2	Consistent RX
+21:41.548	ID:1	Consistent RX
+21:41.548	ID:5	Consistent RX
+22:21.229	ID:2	Sending 1240 6 with a length of 32 
+22:21.297	ID:3	Received At 171652 from  2 Our token=6:1240, theirs=6:1240
+22:21.298	ID:4	Received At 171652 from  2 Our token=6:1240, theirs=6:1240
+22:21.298	ID:1	Received At 171652 from  2 Our token=6:1240, theirs=6:1240
+22:21.298	ID:5	Received At 171652 from  2 Our token=6:1240, theirs=6:1240
+22:21.298	ID:3	Consistent RX
+22:21.299	ID:4	Consistent RX
+22:21.299	ID:1	Consistent RX
+22:21.299	ID:5	Consistent RX
+22:22.661	ID:1	Sending 1240 6 with a length of 32 
+22:22.797	ID:2	Received At 171844 from  1 Our token=6:1240, theirs=6:1240
+22:22.797	ID:3	Received At 171844 from  1 Our token=6:1240, theirs=6:1240
+22:22.797	ID:4	Received At 171844 from  1 Our token=6:1240, theirs=6:1240
+22:22.798	ID:2	Consistent RX
+22:22.798	ID:3	Consistent RX
+22:22.798	ID:4	Consistent RX
+22:30.387	ID:4	At 1350: Generating a new token 1350 7 
+22:30.425	ID:4	Power Usage: 172816 P 0.18 1 621653 43602930 130000 327005 0 295843 531739 38450515 107092 286788 0 260819 (radio 1.-94% / 1.01% tx 0.29% / 0.27% listen 0.73% / 0.73%)
+22:30.449	ID:4	Power Usage: 172821 SP 0.18 1 17 12661 130 0 23824 0 19774 28 69969 2215 54893 1737 (proto 17(12661) radio 21.2100% / 19.1939%)
+22:30.472	ID:4	Power Usage: 172824 SP 0.18 1 58 39680 26 0 3307 0 2878 23 60031 1816 52199 1580 (proto 58(39680) radio 14.1425% / 14.1438%)
+22:30.495	ID:4	Sending 1350 7 with a length of 32 
+22:30.547	ID:3	Received At 172836 from  4 Our token=6:1240, theirs=7:1350
+22:30.547	ID:1	Received At 172836 from  4 Our token=6:1240, theirs=7:1350
+22:30.547	ID:2	Received At 172836 from  4 Our token=6:1240, theirs=7:1350
+22:30.547	ID:5	Received At 172836 from  4 Our token=6:1240, theirs=7:1350
+22:30.550	ID:3	Their token is newer. Update to token 7
+22:30.550	ID:1	Their token is newer. Update to token 7
+22:30.550	ID:2	Their token is newer. Update to token 7
+22:30.550	ID:5	Their token is newer. Update to token 7
+22:30.559	ID:3	At 172837: Trickle inconsistency. Scheduled TX for 172847
+22:30.559	ID:5	At 172837: Trickle inconsistency. Scheduled TX for 172852
+22:30.559	ID:1	At 172837: Trickle inconsistency. Scheduled TX for 172852
+22:30.559	ID:2	At 172837: Trickle inconsistency. Scheduled TX for 172851
+22:30.628	ID:3	Sending 1350 7 with a length of 32 
+22:30.661	ID:2	Sending 1350 7 with a length of 32 
+22:30.667	ID:5	Sending 1350 7 with a length of 32 
+22:30.667	ID:1	Sending 1350 7 with a length of 32 
+22:30.729	ID:4	Sending 1350 7 with a length of 32 
+22:30.797	ID:1	Received At 172868 from  2 Our token=7:1350, theirs=7:1350
+22:30.797	ID:5	Received At 172868 from  2 Our token=7:1350, theirs=7:1350
+22:30.797	ID:4	Received At 172868 from  2 Our token=7:1350, theirs=7:1350
+22:30.798	ID:1	Consistent RX
+22:30.798	ID:5	Consistent RX
+22:30.798	ID:4	Consistent RX
+22:30.815	ID:5	Sending 1350 7 with a length of 32 
+22:30.870	ID:3	Sending 1350 7 with a length of 32 
+22:30.893	ID:2	Sending 1350 7 with a length of 32 
+22:30.977	ID:1	Sending 1350 7 with a length of 32 
+22:31.046	ID:3	Received At 172900 from  1 Our token=7:1350, theirs=7:1350
+22:31.046	ID:4	Received At 172900 from  1 Our token=7:1350, theirs=7:1350
+22:31.046	ID:2	Received At 172900 from  1 Our token=7:1350, theirs=7:1350
+22:31.047	ID:3	Consistent RX
+22:31.047	ID:4	Consistent RX
+22:31.047	ID:2	Consistent RX
+22:31.171	ID:3	Received At 172916 from  5 Our token=7:1350, theirs=7:1350
+22:31.171	ID:4	Received At 172916 from  5 Our token=7:1350, theirs=7:1350
+22:31.171	ID:2	Received At 172916 from  5 Our token=7:1350, theirs=7:1350
+22:31.172	ID:3	Consistent RX
+22:31.172	ID:4	Consistent RX
+22:31.172	ID:2	Consistent RX
+22:31.227	ID:5	Sending 1350 7 with a length of 32 
+22:31.298	ID:3	Received At 172932 from  5 Our token=7:1350, theirs=7:1350
+22:31.298	ID:2	Received At 172932 from  5 Our token=7:1350, theirs=7:1350
+22:31.298	ID:4	Received At 172932 from  5 Our token=7:1350, theirs=7:1350
+22:31.299	ID:3	Consistent RX
+22:31.299	ID:2	Consistent RX
+22:31.299	ID:4	Consistent RX
+22:31.307	ID:1	Sending 1350 7 with a length of 32 
+22:31.421	ID:3	Received At 172948 from  1 Our token=7:1350, theirs=7:1350
+22:31.421	ID:4	Received At 172948 from  1 Our token=7:1350, theirs=7:1350
+22:31.421	ID:2	Received At 172948 from  1 Our token=7:1350, theirs=7:1350
+22:31.422	ID:3	Consistent RX
+22:31.422	ID:4	Consistent RX
+22:31.422	ID:2	Consistent RX
+22:31.672	ID:1	Received At 172980 from  2 Our token=7:1350, theirs=7:1350
+22:31.672	ID:5	Received At 172980 from  2 Our token=7:1350, theirs=7:1350
+22:31.672	ID:3	Received At 172980 from  2 Our token=7:1350, theirs=7:1350
+22:31.672	ID:4	Received At 172980 from  2 Our token=7:1350, theirs=7:1350
+22:31.673	ID:1	Consistent RX
+22:31.673	ID:5	Consistent RX
+22:31.673	ID:3	Consistent RX
+22:31.673	ID:4	Consistent RX
+22:31.798	ID:1	Received At 172996 from  4 Our token=7:1350, theirs=7:1350
+22:31.798	ID:5	Received At 172996 from  4 Our token=7:1350, theirs=7:1350
+22:31.798	ID:2	Received At 172996 from  4 Our token=7:1350, theirs=7:1350
+22:31.798	ID:3	Received At 172996 from  4 Our token=7:1350, theirs=7:1350
+22:31.799	ID:1	Consistent RX
+22:31.799	ID:5	Consistent RX
+22:31.799	ID:2	Consistent RX
+22:31.799	ID:3	Consistent RX
+22:32.047	ID:5	Received At 173028 from  3 Our token=7:1350, theirs=7:1350
+22:32.047	ID:1	Received At 173028 from  3 Our token=7:1350, theirs=7:1350
+22:32.047	ID:2	Received At 173028 from  3 Our token=7:1350, theirs=7:1350
+22:32.047	ID:4	Received At 173028 from  3 Our token=7:1350, theirs=7:1350
+22:32.048	ID:5	Consistent RX
+22:32.048	ID:1	Consistent RX
+22:32.048	ID:2	Consistent RX
+22:32.048	ID:4	Consistent RX
+22:32.294	ID:4	Received At 173059 from  3 Our token=7:1350, theirs=7:1350
+22:32.294	ID:1	Received At 173059 from  3 Our token=7:1350, theirs=7:1350
+22:32.294	ID:2	Received At 173059 from  3 Our token=7:1350, theirs=7:1350
+22:32.294	ID:5	Received At 173059 from  3 Our token=7:1350, theirs=7:1350
+22:32.295	ID:1	Consistent RX
+22:32.295	ID:2	Consistent RX
+22:32.295	ID:4	Consistent RX
+22:32.295	ID:5	Consistent RX
+22:33.518	ID:5	Sending 1350 7 with a length of 32 
+22:33.526	ID:1	Sending 1350 7 with a length of 32 
+22:33.635	ID:4	Sending 1350 7 with a length of 32 
+22:33.673	ID:3	Received At 173236 from  1 Our token=7:1350, theirs=7:1350
+22:33.673	ID:2	Received At 173236 from  1 Our token=7:1350, theirs=7:1350
+22:33.673	ID:4	Received At 173236 from  1 Our token=7:1350, theirs=7:1350
+22:33.674	ID:3	Consistent RX
+22:33.674	ID:2	Consistent RX
+22:33.674	ID:4	Consistent RX
+22:33.921	ID:3	Received At 173268 from  4 Our token=7:1350, theirs=7:1350
+22:33.921	ID:1	Received At 173268 from  4 Our token=7:1350, theirs=7:1350
+22:33.921	ID:5	Received At 173268 from  4 Our token=7:1350, theirs=7:1350
+22:33.921	ID:2	Received At 173268 from  4 Our token=7:1350, theirs=7:1350
+22:33.922	ID:3	Consistent RX
+22:33.922	ID:1	Consistent RX
+22:33.922	ID:5	Consistent RX
+22:33.922	ID:2	Consistent RX
+22:36.550	ID:2	Sending 1350 7 with a length of 32 
+22:36.670	ID:3	Received At 173619 from  2 Our token=7:1350, theirs=7:1350
+22:36.671	ID:3	Consistent RX
+22:36.673	ID:4	Received At 173620 from  2 Our token=7:1350, theirs=7:1350
+22:36.673	ID:1	Received At 173620 from  2 Our token=7:1350, theirs=7:1350
+22:36.673	ID:5	Received At 173620 from  2 Our token=7:1350, theirs=7:1350
+22:36.674	ID:4	Consistent RX
+22:36.674	ID:1	Consistent RX
+22:36.674	ID:5	Consistent RX
+22:37.073	ID:1	Sending 1350 7 with a length of 32 
+22:37.174	ID:4	Received At 173684 from  1 Our token=7:1350, theirs=7:1350
+22:37.174	ID:2	Received At 173684 from  1 Our token=7:1350, theirs=7:1350
+22:37.174	ID:3	Received At 173684 from  1 Our token=7:1350, theirs=7:1350
+22:37.175	ID:4	Consistent RX
+22:37.175	ID:2	Consistent RX
+22:37.175	ID:3	Consistent RX
+22:37.253	ID:5	Sending 1350 7 with a length of 32 
+22:37.298	ID:3	Received At 173700 from  5 Our token=7:1350, theirs=7:1350
+22:37.298	ID:4	Received At 173700 from  5 Our token=7:1350, theirs=7:1350
+22:37.298	ID:2	Received At 173700 from  5 Our token=7:1350, theirs=7:1350
+22:37.299	ID:3	Consistent RX
+22:37.299	ID:4	Consistent RX
+22:37.299	ID:2	Consistent RX
+22:42.536	ID:2	Sending 1350 7 with a length of 32 
+22:42.672	ID:1	Received At 174388 from  2 Our token=7:1350, theirs=7:1350
+22:42.672	ID:5	Received At 174388 from  2 Our token=7:1350, theirs=7:1350
+22:42.672	ID:3	Received At 174388 from  2 Our token=7:1350, theirs=7:1350
+22:42.672	ID:4	Received At 174388 from  2 Our token=7:1350, theirs=7:1350
+22:42.673	ID:1	Consistent RX
+22:42.673	ID:5	Consistent RX
+22:42.673	ID:3	Consistent RX
+22:42.673	ID:4	Consistent RX
+22:43.050	ID:4	Sending 1350 7 with a length of 32 
+22:43.173	ID:5	Received At 174452 from  4 Our token=7:1350, theirs=7:1350
+22:43.173	ID:1	Received At 174452 from  4 Our token=7:1350, theirs=7:1350
+22:43.173	ID:2	Received At 174452 from  4 Our token=7:1350, theirs=7:1350
+22:43.173	ID:3	Received At 174452 from  4 Our token=7:1350, theirs=7:1350
+22:43.174	ID:5	Consistent RX
+22:43.174	ID:1	Consistent RX
+22:43.174	ID:2	Consistent RX
+22:43.174	ID:3	Consistent RX
+22:56.823	ID:4	Sending 1350 7 with a length of 32 
+22:56.921	ID:1	Received At 176212 from  4 Our token=7:1350, theirs=7:1350
+22:56.921	ID:3	Received At 176212 from  4 Our token=7:1350, theirs=7:1350
+22:56.921	ID:2	Received At 176212 from  4 Our token=7:1350, theirs=7:1350
+22:56.921	ID:5	Received At 176212 from  4 Our token=7:1350, theirs=7:1350
+22:56.922	ID:1	Consistent RX
+22:56.922	ID:3	Consistent RX
+22:56.922	ID:2	Consistent RX
+22:56.922	ID:5	Consistent RX
+22:57.893	ID:1	Sending 1350 7 with a length of 32 
+22:57.920	ID:4	Received At 176339 from  1 Our token=7:1350, theirs=7:1350
+22:57.920	ID:3	Received At 176339 from  1 Our token=7:1350, theirs=7:1350
+22:57.921	ID:4	Consistent RX
+22:57.921	ID:3	Consistent RX
+22:57.923	ID:2	Received At 176340 from  1 Our token=7:1350, theirs=7:1350
+22:57.924	ID:2	Consistent RX
+22:58.854	ID:5	Sending 1350 7 with a length of 32 
+22:58.923	ID:2	Received At 176468 from  5 Our token=7:1350, theirs=7:1350
+22:58.923	ID:4	Received At 176468 from  5 Our token=7:1350, theirs=7:1350
+22:58.923	ID:3	Received At 176468 from  5 Our token=7:1350, theirs=7:1350
+22:58.924	ID:2	Consistent RX
+22:58.924	ID:4	Consistent RX
+22:58.924	ID:3	Consistent RX
+23:21.737	ID:1	Sending 1350 7 with a length of 32 
+23:21.799	ID:3	Received At 179396 from  1 Our token=7:1350, theirs=7:1350
+23:21.799	ID:4	Received At 179396 from  1 Our token=7:1350, theirs=7:1350
+23:21.799	ID:2	Received At 179396 from  1 Our token=7:1350, theirs=7:1350
+23:21.800	ID:3	Consistent RX
+23:21.800	ID:2	Consistent RX
+23:21.800	ID:4	Consistent RX
+23:23.112	ID:3	Sending 1350 7 with a length of 32 
+23:23.174	ID:1	Received At 179572 from  3 Our token=7:1350, theirs=7:1350
+23:23.174	ID:5	Received At 179572 from  3 Our token=7:1350, theirs=7:1350
+23:23.174	ID:4	Received At 179572 from  3 Our token=7:1350, theirs=7:1350
+23:23.174	ID:2	Received At 179572 from  3 Our token=7:1350, theirs=7:1350
+23:23.175	ID:1	Consistent RX
+23:23.175	ID:5	Consistent RX
+23:23.175	ID:4	Consistent RX
+23:23.175	ID:2	Consistent RX
+23:24.073	ID:5	Sending 1350 7 with a length of 32 
+23:24.174	ID:3	Received At 179700 from  5 Our token=7:1350, theirs=7:1350
+23:24.174	ID:4	Received At 179700 from  5 Our token=7:1350, theirs=7:1350
+23:24.174	ID:2	Received At 179700 from  5 Our token=7:1350, theirs=7:1350
+23:24.175	ID:3	Consistent RX
+23:24.175	ID:4	Consistent RX
+23:24.175	ID:2	Consistent RX
+24:00.645	ID:1	At 1440: Generating a new token 1440 8 
+24:00.681	ID:1	Power Usage: 184369 P 0.18 3 754279 46426978 196365 337947 0 310434 150738 6403291 48207 49081 0 43114 (radio 1.-78% / 1.48% tx 0.41% / 0.73% listen 0.71% / 0.74%)
+24:00.703	ID:1	Power Usage: 184374 SP 0.18 3 58 39680 48 0 6100 0 756 24 62605 1894 7824 237 (proto 58(39680) radio 13.1321% / 9.906%)
+24:00.726	ID:1	Power Usage: 184377 SP 0.18 3 17 12661 86 0 15351 0 3710 53 133760 4168 40383 1264 (proto 17(12661) radio 28.2868% / 46.4662%)
+24:00.753	ID:1	Sending 1440 8 with a length of 32 
+24:00.798	ID:3	Received At 184388 from  1 Our token=7:1350, theirs=8:1440
+24:00.798	ID:4	Received At 184388 from  1 Our token=7:1350, theirs=8:1440
+24:00.798	ID:2	Received At 184388 from  1 Our token=7:1350, theirs=8:1440
+24:00.801	ID:3	Their token is newer. Update to token 8
+24:00.801	ID:4	Their token is newer. Update to token 8
+24:00.801	ID:2	Their token is newer. Update to token 8
+24:00.811	ID:3	At 184390: Trickle inconsistency. Scheduled TX for 184404
+24:00.811	ID:4	At 184390: Trickle inconsistency. Scheduled TX for 184400
+24:00.811	ID:2	At 184390: Trickle inconsistency. Scheduled TX for 184405
+24:00.885	ID:4	Sending 1440 8 with a length of 32 
+24:00.917	ID:3	Sending 1440 8 with a length of 32 
+24:00.925	ID:2	Sending 1440 8 with a length of 32 
+24:00.987	ID:1	Sending 1440 8 with a length of 32 
+24:01.046	ID:5	Received At 184420 from  3 Our token=7:1350, theirs=8:1440
+24:01.046	ID:1	Received At 184420 from  3 Our token=8:1440, theirs=8:1440
+24:01.047	ID:4	Received At 184420 from  3 Our token=8:1440, theirs=8:1440
+24:01.047	ID:2	Received At 184420 from  3 Our token=8:1440, theirs=8:1440
+24:01.047	ID:1	Consistent RX
+24:01.048	ID:4	Consistent RX
+24:01.048	ID:2	Consistent RX
+24:01.049	ID:5	Their token is newer. Update to token 8
+24:01.059	ID:5	At 184421: Trickle inconsistency. Scheduled TX for 184430
+24:01.065	ID:4	Sending 1440 8 with a length of 32 
+24:01.120	ID:5	Sending 1440 8 with a length of 32 
+24:01.136	ID:2	Sending 1440 8 with a length of 32 
+24:01.151	ID:3	Sending 1440 8 with a length of 32 
+24:01.171	ID:5	Received At 184436 from  4 Our token=8:1440, theirs=8:1440
+24:01.171	ID:2	Received At 184436 from  4 Our token=8:1440, theirs=8:1440
+24:01.172	ID:3	Received At 184436 from  4 Our token=8:1440, theirs=8:1440
+24:01.172	ID:5	Consistent RX
+24:01.172	ID:2	Consistent RX
+24:01.172	ID:3	Consistent RX
+24:01.439	ID:5	Sending 1440 8 with a length of 32 
+24:01.486	ID:1	Sending 1440 8 with a length of 32 
+24:01.544	ID:4	Received At 184483 from  3 Our token=8:1440, theirs=8:1440
+24:01.544	ID:1	Received At 184483 from  3 Our token=8:1440, theirs=8:1440
+24:01.545	ID:5	Received At 184483 from  3 Our token=8:1440, theirs=8:1440
+24:01.545	ID:2	Received At 184483 from  3 Our token=8:1440, theirs=8:1440
+24:01.545	ID:4	Consistent RX
+24:01.545	ID:1	Consistent RX
+24:01.545	ID:5	Consistent RX
+24:01.546	ID:2	Consistent RX
+24:01.565	ID:2	Sending 1440 8 with a length of 32 
+24:01.612	ID:4	Sending 1440 8 with a length of 32 
+24:01.649	ID:3	Sending 1440 8 with a length of 32 
+24:01.799	ID:4	Received At 184516 from  3 Our token=8:1440, theirs=8:1440
+24:01.799	ID:2	Received At 184516 from  3 Our token=8:1440, theirs=8:1440
+24:01.799	ID:5	Received At 184516 from  3 Our token=8:1440, theirs=8:1440
+24:01.800	ID:4	Consistent RX
+24:01.800	ID:2	Consistent RX
+24:01.800	ID:5	Consistent RX
+24:02.171	ID:3	Received At 184564 from  5 Our token=8:1440, theirs=8:1440
+24:02.171	ID:4	Received At 184564 from  5 Our token=8:1440, theirs=8:1440
+24:02.171	ID:2	Received At 184564 from  5 Our token=8:1440, theirs=8:1440
+24:02.172	ID:3	Consistent RX
+24:02.172	ID:4	Consistent RX
+24:02.172	ID:2	Consistent RX
+24:02.190	ID:1	Sending 1440 8 with a length of 32 
+24:02.229	ID:3	Sending 1440 8 with a length of 32 
+24:02.297	ID:3	Received At 184580 from  1 Our token=8:1440, theirs=8:1440
+24:02.297	ID:4	Received At 184580 from  1 Our token=8:1440, theirs=8:1440
+24:02.297	ID:2	Received At 184580 from  1 Our token=8:1440, theirs=8:1440
+24:02.298	ID:3	Consistent RX
+24:02.298	ID:4	Consistent RX
+24:02.298	ID:2	Consistent RX
+24:02.548	ID:5	Received At 184612 from  3 Our token=8:1440, theirs=8:1440
+24:02.548	ID:1	Received At 184612 from  3 Our token=8:1440, theirs=8:1440
+24:02.548	ID:4	Received At 184612 from  3 Our token=8:1440, theirs=8:1440
+24:02.548	ID:2	Received At 184612 from  3 Our token=8:1440, theirs=8:1440
+24:02.549	ID:5	Consistent RX
+24:02.549	ID:1	Consistent RX
+24:02.549	ID:4	Consistent RX
+24:02.549	ID:2	Consistent RX
+24:02.672	ID:1	Received At 184628 from  4 Our token=8:1440, theirs=8:1440
+24:02.672	ID:5	Received At 184628 from  4 Our token=8:1440, theirs=8:1440
+24:02.672	ID:3	Received At 184628 from  4 Our token=8:1440, theirs=8:1440
+24:02.672	ID:2	Received At 184628 from  4 Our token=8:1440, theirs=8:1440
+24:02.673	ID:1	Consistent RX
+24:02.673	ID:5	Consistent RX
+24:02.673	ID:3	Consistent RX
+24:02.673	ID:2	Consistent RX
+24:02.922	ID:1	Received At 184660 from  2 Our token=8:1440, theirs=8:1440
+24:02.922	ID:5	Received At 184660 from  2 Our token=8:1440, theirs=8:1440
+24:02.922	ID:4	Received At 184660 from  2 Our token=8:1440, theirs=8:1440
+24:02.922	ID:3	Received At 184660 from  2 Our token=8:1440, theirs=8:1440
+24:02.923	ID:1	Consistent RX
+24:02.923	ID:5	Consistent RX
+24:02.923	ID:4	Consistent RX
+24:02.923	ID:3	Consistent RX
+24:03.046	ID:3	Received At 184676 from  1 Our token=8:1440, theirs=8:1440
+24:03.046	ID:2	Received At 184676 from  1 Our token=8:1440, theirs=8:1440
+24:03.046	ID:4	Received At 184676 from  1 Our token=8:1440, theirs=8:1440
+24:03.047	ID:3	Consistent RX
+24:03.047	ID:2	Consistent RX
+24:03.047	ID:4	Consistent RX
+24:03.299	ID:1	Received At 184708 from  4 Our token=8:1440, theirs=8:1440
+24:03.299	ID:5	Received At 184708 from  4 Our token=8:1440, theirs=8:1440
+24:03.299	ID:2	Received At 184708 from  4 Our token=8:1440, theirs=8:1440
+24:03.299	ID:3	Received At 184708 from  4 Our token=8:1440, theirs=8:1440
+24:03.300	ID:1	Consistent RX
+24:03.300	ID:5	Consistent RX
+24:03.300	ID:2	Consistent RX
+24:03.300	ID:3	Consistent RX
+24:03.548	ID:4	Received At 184740 from  2 Our token=8:1440, theirs=8:1440
+24:03.548	ID:1	Received At 184740 from  2 Our token=8:1440, theirs=8:1440
+24:03.548	ID:5	Received At 184740 from  2 Our token=8:1440, theirs=8:1440
+24:03.548	ID:3	Received At 184740 from  2 Our token=8:1440, theirs=8:1440
+24:03.549	ID:4	Consistent RX
+24:03.549	ID:1	Consistent RX
+24:03.549	ID:5	Consistent RX
+24:03.549	ID:3	Consistent RX
+24:04.047	ID:4	Received At 184804 from  2 Our token=8:1440, theirs=8:1440
+24:04.047	ID:3	Received At 184804 from  2 Our token=8:1440, theirs=8:1440
+24:04.047	ID:1	Received At 184804 from  2 Our token=8:1440, theirs=8:1440
+24:04.047	ID:5	Received At 184804 from  2 Our token=8:1440, theirs=8:1440
+24:04.048	ID:4	Consistent RX
+24:04.048	ID:3	Consistent RX
+24:04.048	ID:1	Consistent RX
+24:04.048	ID:5	Consistent RX
+24:06.940	ID:2	Sending 1440 8 with a length of 32 
+24:07.047	ID:3	Received At 185188 from  2 Our token=8:1440, theirs=8:1440
+24:07.047	ID:4	Received At 185188 from  2 Our token=8:1440, theirs=8:1440
+24:07.048	ID:1	Received At 185188 from  2 Our token=8:1440, theirs=8:1440
+24:07.048	ID:5	Received At 185188 from  2 Our token=8:1440, theirs=8:1440
+24:07.048	ID:3	Consistent RX
+24:07.048	ID:4	Consistent RX
+24:07.048	ID:1	Consistent RX
+24:07.048	ID:5	Consistent RX
+24:07.635	ID:1	Sending 1440 8 with a length of 32 
+24:07.671	ID:4	Received At 185268 from  1 Our token=8:1440, theirs=8:1440
+24:07.671	ID:2	Received At 185268 from  1 Our token=8:1440, theirs=8:1440
+24:07.672	ID:3	Received At 185268 from  1 Our token=8:1440, theirs=8:1440
+24:07.672	ID:4	Consistent RX
+24:07.672	ID:2	Consistent RX
+24:07.673	ID:3	Consistent RX
+24:08.503	ID:5	Sending 1440 8 with a length of 32 
+24:08.548	ID:3	Received At 185380 from  5 Our token=8:1440, theirs=8:1440
+24:08.548	ID:4	Received At 185380 from  5 Our token=8:1440, theirs=8:1440
+24:08.549	ID:2	Received At 185380 from  5 Our token=8:1440, theirs=8:1440
+24:08.549	ID:3	Consistent RX
+24:08.549	ID:4	Consistent RX
+24:08.549	ID:2	Consistent RX
+24:12.737	ID:2	Sending 1440 8 with a length of 32 
+24:12.799	ID:1	Received At 185924 from  2 Our token=8:1440, theirs=8:1440
+24:12.799	ID:5	Received At 185924 from  2 Our token=8:1440, theirs=8:1440
+24:12.799	ID:3	Received At 185924 from  2 Our token=8:1440, theirs=8:1440
+24:12.799	ID:4	Received At 185924 from  2 Our token=8:1440, theirs=8:1440
+24:12.800	ID:1	Consistent RX
+24:12.800	ID:5	Consistent RX
+24:12.800	ID:3	Consistent RX
+24:12.800	ID:4	Consistent RX
+24:12.807	ID:1	Sending 1440 8 with a length of 32 
+24:13.047	ID:2	Received At 185956 from  1 Our token=8:1440, theirs=8:1440
+24:13.047	ID:4	Received At 185956 from  1 Our token=8:1440, theirs=8:1440
+24:13.047	ID:3	Received At 185956 from  1 Our token=8:1440, theirs=8:1440
+24:13.048	ID:2	Consistent RX
+24:13.048	ID:4	Consistent RX
+24:13.048	ID:3	Consistent RX
+24:13.612	ID:5	Sending 1440 8 with a length of 32 
+24:13.674	ID:3	Received At 186036 from  5 Our token=8:1440, theirs=8:1440
+24:13.674	ID:2	Received At 186036 from  5 Our token=8:1440, theirs=8:1440
+24:13.674	ID:4	Received At 186036 from  5 Our token=8:1440, theirs=8:1440
+24:13.675	ID:3	Consistent RX
+24:13.675	ID:2	Consistent RX
+24:13.675	ID:4	Consistent RX
+24:25.104	ID:5	Sending 1440 8 with a length of 32 
+24:25.172	ID:3	Received At 187508 from  5 Our token=8:1440, theirs=8:1440
+24:25.172	ID:4	Received At 187508 from  5 Our token=8:1440, theirs=8:1440
+24:25.172	ID:2	Received At 187508 from  5 Our token=8:1440, theirs=8:1440
+24:25.173	ID:3	Consistent RX
+24:25.173	ID:4	Consistent RX
+24:25.173	ID:2	Consistent RX
+24:30.323	ID:2	Sending 1440 8 with a length of 32 
+24:30.424	ID:1	Received At 188180 from  2 Our token=8:1440, theirs=8:1440
+24:30.424	ID:5	Received At 188180 from  2 Our token=8:1440, theirs=8:1440
+24:30.424	ID:4	Received At 188180 from  2 Our token=8:1440, theirs=8:1440
+24:30.424	ID:3	Received At 188180 from  2 Our token=8:1440, theirs=8:1440
+24:30.425	ID:1	Consistent RX
+24:30.425	ID:5	Consistent RX
+24:30.425	ID:4	Consistent RX
+24:30.425	ID:3	Consistent RX
+24:31.776	ID:1	Sending 1440 8 with a length of 32 
+24:31.923	ID:3	Received At 188372 from  1 Our token=8:1440, theirs=8:1440
+24:31.923	ID:4	Received At 188372 from  1 Our token=8:1440, theirs=8:1440
+24:31.923	ID:2	Received At 188372 from  1 Our token=8:1440, theirs=8:1440
+24:31.924	ID:3	Consistent RX
+24:31.924	ID:4	Consistent RX
+24:31.924	ID:2	Consistent RX
+24:49.167	ID:4	Sending 1440 8 with a length of 32 
+24:49.297	ID:1	Received At 190596 from  4 Our token=8:1440, theirs=8:1440
+24:49.297	ID:2	Received At 190596 from  4 Our token=8:1440, theirs=8:1440
+24:49.297	ID:5	Received At 190596 from  4 Our token=8:1440, theirs=8:1440
+24:49.297	ID:3	Received At 190596 from  4 Our token=8:1440, theirs=8:1440
+24:49.298	ID:1	Consistent RX
+24:49.298	ID:2	Consistent RX
+24:49.298	ID:5	Consistent RX
+24:49.298	ID:3	Consistent RX
+24:58.120	ID:3	Sending 1440 8 with a length of 32 
+24:58.172	ID:1	Received At 191732 from  3 Our token=8:1440, theirs=8:1440
+24:58.172	ID:5	Received At 191732 from  3 Our token=8:1440, theirs=8:1440
+24:58.172	ID:4	Received At 191732 from  3 Our token=8:1440, theirs=8:1440
+24:58.172	ID:2	Received At 191732 from  3 Our token=8:1440, theirs=8:1440
+24:58.173	ID:1	Consistent RX
+24:58.173	ID:5	Consistent RX
+24:58.173	ID:4	Consistent RX
+24:58.173	ID:2	Consistent RX
+25:44.893	ID:2	Sending 1440 8 with a length of 32 
+25:44.920	ID:3	Received At 197715 from  2 Our token=8:1440, theirs=8:1440
+25:44.920	ID:5	Received At 197715 from  2 Our token=8:1440, theirs=8:1440
+25:44.920	ID:3	Consistent RX
+25:44.921	ID:5	Consistent RX
+25:44.923	ID:4	Received At 197716 from  2 Our token=8:1440, theirs=8:1440
+25:44.923	ID:1	Received At 197716 from  2 Our token=8:1440, theirs=8:1440
+25:44.924	ID:4	Consistent RX
+25:44.924	ID:1	Consistent RX
+25:51.753	ID:1	Sending 1440 8 with a length of 32 
+25:51.798	ID:3	Received At 198596 from  1 Our token=8:1440, theirs=8:1440
+25:51.798	ID:4	Received At 198596 from  1 Our token=8:1440, theirs=8:1440
+25:51.798	ID:2	Received At 198596 from  1 Our token=8:1440, theirs=8:1440
+25:51.799	ID:3	Consistent RX
+25:51.799	ID:4	Consistent RX
+25:51.799	ID:2	Consistent RX
+25:52.143	ID:5	Sending 1440 8 with a length of 32 
+25:52.170	ID:3	Received At 198643 from  5 Our token=8:1440, theirs=8:1440
+25:52.170	ID:4	Received At 198643 from  5 Our token=8:1440, theirs=8:1440
+25:52.170	ID:2	Received At 198643 from  5 Our token=8:1440, theirs=8:1440
+25:52.171	ID:3	Consistent RX
+25:52.171	ID:4	Consistent RX
+25:52.171	ID:2	Consistent RX
+27:31.081	ID:4	Sending 1440 8 with a length of 32 
+27:31.172	ID:3	Received At 211316 from  4 Our token=8:1440, theirs=8:1440
+27:31.172	ID:1	Received At 211316 from  4 Our token=8:1440, theirs=8:1440
+27:31.172	ID:2	Received At 211316 from  4 Our token=8:1440, theirs=8:1440
+27:31.172	ID:5	Received At 211316 from  4 Our token=8:1440, theirs=8:1440
+27:31.173	ID:3	Consistent RX
+27:31.173	ID:1	Consistent RX
+27:31.173	ID:2	Consistent RX
+27:31.173	ID:5	Consistent RX
+27:33.721	ID:3	Sending 1440 8 with a length of 32 
+27:33.796	ID:4	Received At 211652 from  3 Our token=8:1440, theirs=8:1440
+27:33.796	ID:1	Received At 211652 from  3 Our token=8:1440, theirs=8:1440
+27:33.796	ID:2	Received At 211652 from  3 Our token=8:1440, theirs=8:1440
+27:33.796	ID:5	Received At 211652 from  3 Our token=8:1440, theirs=8:1440
+27:33.797	ID:4	Consistent RX
+27:33.797	ID:1	Consistent RX
+27:33.797	ID:2	Consistent RX
+27:33.797	ID:5	Consistent RX
+28:30.465	ID:2	At 1710: Generating a new token 1710 9 
+28:30.502	ID:2	Power Usage: 218906 P 0.18 1 813208 55206210 173161 414249 0 367738 780364 52944753 165414 397947 0 352900 (radio 1.-72% / 1.-76% tx 0.30% / 0.30% listen 0.73% / 0.74%)
+28:30.525	ID:2	Power Usage: 218911 SP 0.18 1 58 39680 62 0 7886 0 7583 29 74963 2292 69737 2135 (proto 58(39680) radio 14.1449% / 14.1410%)
+28:30.550	ID:2	Power Usage: 218914 SP 0.18 1 17 12661 177 0 33047 0 32121 39 98198 3286 95677 3208 (proto 17(12661) radio 22.2290% / 23.2325%)
+28:30.573	ID:2	Sending 1710 9 with a length of 32 
+28:30.671	ID:1	Received At 218932 from  2 Our token=8:1440, theirs=9:1710
+28:30.671	ID:5	Received At 218932 from  2 Our token=8:1440, theirs=9:1710
+28:30.671	ID:3	Received At 218932 from  2 Our token=8:1440, theirs=9:1710
+28:30.671	ID:4	Received At 218932 from  2 Our token=8:1440, theirs=9:1710
+28:30.674	ID:1	Their token is newer. Update to token 9
+28:30.674	ID:5	Their token is newer. Update to token 9
+28:30.674	ID:3	Their token is newer. Update to token 9
+28:30.674	ID:4	Their token is newer. Update to token 9
+28:30.684	ID:5	At 218933: Trickle inconsistency. Scheduled TX for 218944
+28:30.684	ID:1	At 218933: Trickle inconsistency. Scheduled TX for 218945
+28:30.684	ID:3	At 218933: Trickle inconsistency. Scheduled TX for 218941
+28:30.684	ID:4	At 218933: Trickle inconsistency. Scheduled TX for 218947
+28:30.737	ID:3	Sending 1710 9 with a length of 32 
+28:30.761	ID:5	Sending 1710 9 with a length of 32 
+28:30.768	ID:1	Sending 1710 9 with a length of 32 
+28:30.786	ID:4	Sending 1710 9 with a length of 32 
+28:30.799	ID:2	Received At 218948 from  3 Our token=9:1710, theirs=9:1710
+28:30.799	ID:1	Received At 218948 from  3 Our token=9:1710, theirs=9:1710
+28:30.799	ID:5	Received At 218948 from  3 Our token=9:1710, theirs=9:1710
+28:30.800	ID:2	Consistent RX
+28:30.800	ID:1	Consistent RX
+28:30.800	ID:5	Consistent RX
+28:30.801	ID:4	Received At 218948 from  3 Our token=9:1710, theirs=9:1710
+28:30.802	ID:4	Consistent RX
+28:30.807	ID:2	Sending 1710 9 with a length of 32 
+28:30.924	ID:3	Received At 218964 from  5 Our token=9:1710, theirs=9:1710
+28:30.924	ID:4	Received At 218964 from  5 Our token=9:1710, theirs=9:1710
+28:30.924	ID:2	Received At 218964 from  5 Our token=9:1710, theirs=9:1710
+28:30.925	ID:3	Consistent RX
+28:30.925	ID:4	Consistent RX
+28:30.925	ID:2	Consistent RX
+28:30.963	ID:4	Sending 1710 9 with a length of 32 
+28:30.971	ID:3	Sending 1710 9 with a length of 32 
+28:31.036	ID:5	Sending 1710 9 with a length of 32 
+28:31.048	ID:3	Received At 218980 from  1 Our token=9:1710, theirs=9:1710
+28:31.048	ID:2	Received At 218980 from  1 Our token=9:1710, theirs=9:1710
+28:31.049	ID:3	Consistent RX
+28:31.049	ID:2	Consistent RX
+28:31.055	ID:1	Sending 1710 9 with a length of 32 
+28:31.297	ID:1	Received At 219012 from  4 Our token=9:1710, theirs=9:1710
+28:31.297	ID:5	Received At 219012 from  4 Our token=9:1710, theirs=9:1710
+28:31.297	ID:3	Received At 219012 from  4 Our token=9:1710, theirs=9:1710
+28:31.297	ID:2	Received At 219012 from  4 Our token=9:1710, theirs=9:1710
+28:31.298	ID:1	Consistent RX
+28:31.298	ID:5	Consistent RX
+28:31.298	ID:3	Consistent RX
+28:31.298	ID:2	Consistent RX
+28:31.401	ID:3	Sending 1710 9 with a length of 32 
+28:31.487	ID:4	Sending 1710 9 with a length of 32 
+28:31.518	ID:5	Sending 1710 9 with a length of 32 
+28:31.535	ID:1	Sending 1710 9 with a length of 32 
+28:31.547	ID:4	Received At 219044 from  3 Our token=9:1710, theirs=9:1710
+28:31.548	ID:5	Received At 219044 from  3 Our token=9:1710, theirs=9:1710
+28:31.548	ID:1	Received At 219044 from  3 Our token=9:1710, theirs=9:1710
+28:31.548	ID:2	Received At 219044 from  3 Our token=9:1710, theirs=9:1710
+28:31.548	ID:4	Consistent RX
+28:31.549	ID:5	Consistent RX
+28:31.549	ID:1	Consistent RX
+28:31.549	ID:2	Consistent RX
+28:31.671	ID:3	Received At 219060 from  4 Our token=9:1710, theirs=9:1710
+28:31.671	ID:1	Received At 219060 from  4 Our token=9:1710, theirs=9:1710
+28:31.671	ID:2	Received At 219060 from  4 Our token=9:1710, theirs=9:1710
+28:31.671	ID:5	Received At 219060 from  4 Our token=9:1710, theirs=9:1710
+28:31.672	ID:3	Consistent RX
+28:31.672	ID:1	Consistent RX
+28:31.672	ID:2	Consistent RX
+28:31.672	ID:5	Consistent RX
+28:31.921	ID:4	Received At 219092 from  2 Our token=9:1710, theirs=9:1710
+28:31.921	ID:5	Received At 219092 from  2 Our token=9:1710, theirs=9:1710
+28:31.921	ID:1	Received At 219092 from  2 Our token=9:1710, theirs=9:1710
+28:31.921	ID:3	Received At 219092 from  2 Our token=9:1710, theirs=9:1710
+28:31.922	ID:4	Consistent RX
+28:31.922	ID:5	Consistent RX
+28:31.922	ID:1	Consistent RX
+28:31.922	ID:3	Consistent RX
+28:32.048	ID:4	Received At 219108 from  5 Our token=9:1710, theirs=9:1710
+28:32.048	ID:3	Received At 219108 from  5 Our token=9:1710, theirs=9:1710
+28:32.048	ID:2	Received At 219108 from  5 Our token=9:1710, theirs=9:1710
+28:32.049	ID:4	Consistent RX
+28:32.049	ID:3	Consistent RX
+28:32.049	ID:2	Consistent RX
+28:32.173	ID:3	Received At 219124 from  1 Our token=9:1710, theirs=9:1710
+28:32.173	ID:4	Received At 219124 from  1 Our token=9:1710, theirs=9:1710
+28:32.173	ID:2	Received At 219124 from  1 Our token=9:1710, theirs=9:1710
+28:32.174	ID:3	Consistent RX
+28:32.174	ID:4	Consistent RX
+28:32.174	ID:2	Consistent RX
+28:32.297	ID:1	Received At 219140 from  4 Our token=9:1710, theirs=9:1710
+28:32.297	ID:5	Received At 219140 from  4 Our token=9:1710, theirs=9:1710
+28:32.297	ID:2	Received At 219140 from  4 Our token=9:1710, theirs=9:1710
+28:32.297	ID:3	Received At 219140 from  4 Our token=9:1710, theirs=9:1710
+28:32.298	ID:1	Consistent RX
+28:32.298	ID:5	Consistent RX
+28:32.298	ID:2	Consistent RX
+28:32.298	ID:3	Consistent RX
+28:32.674	ID:1	Received At 219188 from  3 Our token=9:1710, theirs=9:1710
+28:32.674	ID:5	Received At 219188 from  3 Our token=9:1710, theirs=9:1710
+28:32.674	ID:2	Received At 219188 from  3 Our token=9:1710, theirs=9:1710
+28:32.674	ID:4	Received At 219188 from  3 Our token=9:1710, theirs=9:1710
+28:32.675	ID:1	Consistent RX
+28:32.675	ID:5	Consistent RX
+28:32.675	ID:2	Consistent RX
+28:32.675	ID:4	Consistent RX
+28:33.698	ID:4	Sending 1710 9 with a length of 32 
+28:33.714	ID:2	Sending 1710 9 with a length of 32 
+28:33.799	ID:3	Received At 219332 from  4 Our token=9:1710, theirs=9:1710
+28:33.799	ID:1	Received At 219332 from  4 Our token=9:1710, theirs=9:1710
+28:33.799	ID:5	Received At 219332 from  4 Our token=9:1710, theirs=9:1710
+28:33.799	ID:2	Received At 219332 from  4 Our token=9:1710, theirs=9:1710
+28:33.800	ID:3	Consistent RX
+28:33.800	ID:1	Consistent RX
+28:33.800	ID:5	Consistent RX
+28:33.800	ID:2	Consistent RX
+28:34.048	ID:1	Received At 219364 from  2 Our token=9:1710, theirs=9:1710
+28:34.048	ID:5	Received At 219364 from  2 Our token=9:1710, theirs=9:1710
+28:34.048	ID:4	Received At 219364 from  2 Our token=9:1710, theirs=9:1710
+28:34.048	ID:3	Received At 219364 from  2 Our token=9:1710, theirs=9:1710
+28:34.049	ID:1	Consistent RX
+28:34.049	ID:5	Consistent RX
+28:34.049	ID:4	Consistent RX
+28:34.049	ID:3	Consistent RX
+28:37.026	ID:5	Sending 1710 9 with a length of 32 
+28:37.120	ID:4	Sending 1710 9 with a length of 32 
+28:37.173	ID:3	Received At 219764 from  5 Our token=9:1710, theirs=9:1710
+28:37.173	ID:4	Received At 219764 from  5 Our token=9:1710, theirs=9:1710
+28:37.173	ID:2	Received At 219764 from  5 Our token=9:1710, theirs=9:1710
+28:37.174	ID:3	Consistent RX
+28:37.174	ID:4	Consistent RX
+28:37.174	ID:2	Consistent RX
+28:37.230	ID:1	Sending 1710 9 with a length of 32 
+28:37.298	ID:3	Received At 219780 from  1 Our token=9:1710, theirs=9:1710
+28:37.298	ID:2	Received At 219780 from  1 Our token=9:1710, theirs=9:1710
+28:37.298	ID:4	Received At 219780 from  1 Our token=9:1710, theirs=9:1710
+28:37.299	ID:3	Consistent RX
+28:37.299	ID:2	Consistent RX
+28:37.299	ID:4	Consistent RX
+28:37.674	ID:1	Received At 219828 from  4 Our token=9:1710, theirs=9:1710
+28:37.674	ID:5	Received At 219828 from  4 Our token=9:1710, theirs=9:1710
+28:37.674	ID:2	Received At 219828 from  4 Our token=9:1710, theirs=9:1710
+28:37.674	ID:3	Received At 219828 from  4 Our token=9:1710, theirs=9:1710
+28:37.675	ID:1	Consistent RX
+28:37.675	ID:5	Consistent RX
+28:37.675	ID:2	Consistent RX
+28:37.675	ID:3	Consistent RX
+28:40.309	ID:5	At 1720: Generating a new token 1720 10 
+28:40.346	ID:5	Power Usage: 220166 P 0.18 0 903137 55438689 237116 406373 0 369646 903137 55438689 237116 406373 0 369646 (radio 1.-63% / 1.-63% tx 0.42% / 0.42% listen 0.72% / 0.72%)
+28:40.369	ID:5	Power Usage: 220171 SP 0.18 0 58 39680 59 0 8687 0 8687 29 75574 2293 75574 2293 (proto 58(39680) radio 13.1345% / 13.1345%)
+28:40.393	ID:5	Power Usage: 220174 SP 0.18 0 17 12661 114 0 20705 0 20705 64 161542 5042 161542 5042 (proto 17(12661) radio 29.2910% / 29.2910%)
+28:40.417	ID:5	Sending 1720 10 with a length of 32 
+28:40.547	ID:4	Received At 220196 from  5 Our token=9:1710, theirs=10:1720
+28:40.547	ID:3	Received At 220196 from  5 Our token=9:1710, theirs=10:1720
+28:40.547	ID:2	Received At 220196 from  5 Our token=9:1710, theirs=10:1720
+28:40.550	ID:4	Their token is newer. Update to token 10
+28:40.550	ID:3	Their token is newer. Update to token 10
+28:40.550	ID:2	Their token is newer. Update to token 10
+28:40.560	ID:4	At 220197: Trickle inconsistency. Scheduled TX for 220205
+28:40.560	ID:3	At 220197: Trickle inconsistency. Scheduled TX for 220207
+28:40.560	ID:2	At 220197: Trickle inconsistency. Scheduled TX for 220208
+28:40.612	ID:4	Sending 1720 10 with a length of 32 
+28:40.628	ID:3	Sending 1720 10 with a length of 32 
+28:40.636	ID:2	Sending 1720 10 with a length of 32 
+28:40.651	ID:5	Sending 1720 10 with a length of 32 
+28:40.671	ID:1	Received At 220212 from  4 Our token=9:1710, theirs=10:1720
+28:40.671	ID:5	Received At 220212 from  4 Our token=10:1720, theirs=10:1720
+28:40.671	ID:3	Received At 220212 from  4 Our token=10:1720, theirs=10:1720
+28:40.671	ID:2	Received At 220212 from  4 Our token=10:1720, theirs=10:1720
+28:40.672	ID:5	Consistent RX
+28:40.672	ID:3	Consistent RX
+28:40.672	ID:2	Consistent RX
+28:40.674	ID:1	Their token is newer. Update to token 10
+28:40.683	ID:1	At 220213: Trickle inconsistency. Scheduled TX for 220224
+28:40.761	ID:1	Sending 1720 10 with a length of 32 
+28:40.797	ID:4	Received At 220228 from  1 Our token=10:1720, theirs=10:1720
+28:40.797	ID:2	Received At 220228 from  1 Our token=10:1720, theirs=10:1720
+28:40.798	ID:4	Consistent RX
+28:40.798	ID:2	Consistent RX
+28:40.846	ID:4	Sending 1720 10 with a length of 32 
+28:40.854	ID:2	Sending 1720 10 with a length of 32 
+28:40.870	ID:3	Sending 1720 10 with a length of 32 
+28:40.922	ID:3	Received At 220244 from  5 Our token=10:1720, theirs=10:1720
+28:40.922	ID:2	Received At 220244 from  5 Our token=10:1720, theirs=10:1720
+28:40.922	ID:4	Received At 220244 from  5 Our token=10:1720, theirs=10:1720
+28:40.923	ID:3	Consistent RX
+28:40.923	ID:2	Consistent RX
+28:40.923	ID:4	Consistent RX
+28:41.035	ID:1	Sending 1720 10 with a length of 32 
+28:41.047	ID:5	Received At 220260 from  3 Our token=10:1720, theirs=10:1720
+28:41.047	ID:2	Received At 220260 from  3 Our token=10:1720, theirs=10:1720
+28:41.047	ID:1	Received At 220260 from  3 Our token=10:1720, theirs=10:1720
+28:41.048	ID:5	Consistent RX
+28:41.048	ID:2	Consistent RX
+28:41.048	ID:1	Consistent RX
+28:41.143	ID:5	Sending 1720 10 with a length of 32 
+28:41.268	ID:3	Sending 1720 10 with a length of 32 
+28:41.299	ID:3	Received At 220292 from  4 Our token=10:1720, theirs=10:1720
+28:41.299	ID:5	Received At 220292 from  4 Our token=10:1720, theirs=10:1720
+28:41.299	ID:1	Received At 220292 from  4 Our token=10:1720, theirs=10:1720
+28:41.299	ID:2	Received At 220292 from  4 Our token=10:1720, theirs=10:1720
+28:41.300	ID:3	Consistent RX
+28:41.300	ID:5	Consistent RX
+28:41.300	ID:1	Consistent RX
+28:41.300	ID:2	Consistent RX
+28:41.401	ID:4	Sending 1720 10 with a length of 32 
+28:41.421	ID:4	Received At 220308 from  5 Our token=10:1720, theirs=10:1720
+28:41.421	ID:3	Received At 220308 from  5 Our token=10:1720, theirs=10:1720
+28:41.422	ID:2	Received At 220308 from  5 Our token=10:1720, theirs=10:1720
+28:41.422	ID:4	Consistent RX
+28:41.422	ID:3	Consistent RX
+28:41.422	ID:2	Consistent RX
+28:41.546	ID:4	Received At 220324 from  1 Our token=10:1720, theirs=10:1720
+28:41.546	ID:3	Received At 220324 from  1 Our token=10:1720, theirs=10:1720
+28:41.547	ID:4	Consistent RX
+28:41.547	ID:3	Consistent RX
+28:41.563	ID:1	Sending 1720 10 with a length of 32 
+28:41.671	ID:3	Received At 220340 from  1 Our token=10:1720, theirs=10:1720
+28:41.671	ID:4	Received At 220340 from  1 Our token=10:1720, theirs=10:1720
+28:41.672	ID:2	Received At 220340 from  1 Our token=10:1720, theirs=10:1720
+28:41.672	ID:3	Consistent RX
+28:41.672	ID:4	Consistent RX
+28:41.673	ID:2	Consistent RX
+28:41.798	ID:1	Received At 220356 from  3 Our token=10:1720, theirs=10:1720
+28:41.798	ID:5	Received At 220356 from  3 Our token=10:1720, theirs=10:1720
+28:41.798	ID:2	Received At 220356 from  3 Our token=10:1720, theirs=10:1720
+28:41.798	ID:4	Received At 220356 from  3 Our token=10:1720, theirs=10:1720
+28:41.799	ID:1	Consistent RX
+28:41.799	ID:5	Consistent RX
+28:41.799	ID:2	Consistent RX
+28:41.799	ID:4	Consistent RX
+28:42.047	ID:1	Received At 220388 from  2 Our token=10:1720, theirs=10:1720
+28:42.047	ID:5	Received At 220388 from  2 Our token=10:1720, theirs=10:1720
+28:42.047	ID:3	Received At 220388 from  2 Our token=10:1720, theirs=10:1720
+28:42.047	ID:4	Received At 220388 from  2 Our token=10:1720, theirs=10:1720
+28:42.048	ID:1	Consistent RX
+28:42.048	ID:5	Consistent RX
+28:42.048	ID:3	Consistent RX
+28:42.048	ID:4	Consistent RX
+28:42.299	ID:2	Received At 220420 from  3 Our token=10:1720, theirs=10:1720
+28:42.299	ID:1	Received At 220420 from  3 Our token=10:1720, theirs=10:1720
+28:42.299	ID:5	Received At 220420 from  3 Our token=10:1720, theirs=10:1720
+28:42.299	ID:4	Received At 220420 from  3 Our token=10:1720, theirs=10:1720
+28:42.300	ID:2	Consistent RX
+28:42.300	ID:1	Consistent RX
+28:42.300	ID:5	Consistent RX
+28:42.300	ID:4	Consistent RX
+28:42.547	ID:5	Received At 220452 from  4 Our token=10:1720, theirs=10:1720
+28:42.547	ID:1	Received At 220452 from  4 Our token=10:1720, theirs=10:1720
+28:42.548	ID:2	Received At 220452 from  4 Our token=10:1720, theirs=10:1720
+28:42.548	ID:3	Received At 220452 from  4 Our token=10:1720, theirs=10:1720
+28:42.548	ID:5	Consistent RX
+28:42.548	ID:1	Consistent RX
+28:42.549	ID:2	Consistent RX
+28:42.549	ID:3	Consistent RX
+28:42.674	ID:3	Received At 220468 from  2 Our token=10:1720, theirs=10:1720
+28:42.674	ID:4	Received At 220468 from  2 Our token=10:1720, theirs=10:1720
+28:42.674	ID:1	Received At 220468 from  2 Our token=10:1720, theirs=10:1720
+28:42.674	ID:5	Received At 220468 from  2 Our token=10:1720, theirs=10:1720
+28:42.675	ID:3	Consistent RX
+28:42.675	ID:4	Consistent RX
+28:42.675	ID:1	Consistent RX
+28:42.675	ID:5	Consistent RX
+28:43.596	ID:1	Sending 1720 10 with a length of 32 
+28:43.672	ID:3	Received At 220596 from  1 Our token=10:1720, theirs=10:1720
+28:43.672	ID:4	Received At 220596 from  1 Our token=10:1720, theirs=10:1720
+28:43.672	ID:2	Received At 220596 from  1 Our token=10:1720, theirs=10:1720
+28:43.673	ID:3	Consistent RX
+28:43.673	ID:4	Consistent RX
+28:43.673	ID:2	Consistent RX
+28:46.706	ID:2	Sending 1720 10 with a length of 32 
+28:46.797	ID:1	Received At 220996 from  2 Our token=10:1720, theirs=10:1720
+28:46.797	ID:5	Received At 220996 from  2 Our token=10:1720, theirs=10:1720
+28:46.797	ID:3	Received At 220996 from  2 Our token=10:1720, theirs=10:1720
+28:46.797	ID:4	Received At 220996 from  2 Our token=10:1720, theirs=10:1720
+28:46.798	ID:1	Consistent RX
+28:46.798	ID:5	Consistent RX
+28:46.798	ID:3	Consistent RX
+28:46.798	ID:4	Consistent RX
+28:46.940	ID:3	Sending 1720 10 with a length of 32 
+28:47.048	ID:2	Received At 221028 from  3 Our token=10:1720, theirs=10:1720
+28:47.048	ID:5	Received At 221028 from  3 Our token=10:1720, theirs=10:1720
+28:47.048	ID:4	Received At 221028 from  3 Our token=10:1720, theirs=10:1720
+28:47.048	ID:1	Received At 221028 from  3 Our token=10:1720, theirs=10:1720
+28:47.049	ID:2	Consistent RX
+28:47.049	ID:5	Consistent RX
+28:47.049	ID:4	Consistent RX
+28:47.049	ID:1	Consistent RX
+28:53.104	ID:4	Sending 1720 10 with a length of 32 
+28:53.173	ID:3	Received At 221812 from  4 Our token=10:1720, theirs=10:1720
+28:53.173	ID:1	Received At 221812 from  4 Our token=10:1720, theirs=10:1720
+28:53.173	ID:2	Received At 221812 from  4 Our token=10:1720, theirs=10:1720
+28:53.173	ID:5	Received At 221812 from  4 Our token=10:1720, theirs=10:1720
+28:53.174	ID:3	Consistent RX
+28:53.174	ID:1	Consistent RX
+28:53.174	ID:2	Consistent RX
+28:53.174	ID:5	Consistent RX
+28:54.557	ID:5	Sending 1720 10 with a length of 32 
+28:54.672	ID:4	Received At 222004 from  5 Our token=10:1720, theirs=10:1720
+28:54.672	ID:3	Received At 222004 from  5 Our token=10:1720, theirs=10:1720
+28:54.672	ID:2	Received At 222004 from  5 Our token=10:1720, theirs=10:1720
+28:54.673	ID:4	Consistent RX
+28:54.673	ID:3	Consistent RX
+28:54.673	ID:2	Consistent RX
+28:54.690	ID:1	Sending 1720 10 with a length of 32 
+28:54.798	ID:3	Received At 222020 from  1 Our token=10:1720, theirs=10:1720
+28:54.798	ID:4	Received At 222020 from  1 Our token=10:1720, theirs=10:1720
+28:54.798	ID:2	Received At 222020 from  1 Our token=10:1720, theirs=10:1720
+28:54.799	ID:3	Consistent RX
+28:54.799	ID:4	Consistent RX
+28:54.799	ID:2	Consistent RX
+29:05.792	ID:3	Sending 1720 10 with a length of 32 
+29:05.922	ID:1	Received At 223444 from  3 Our token=10:1720, theirs=10:1720
+29:05.922	ID:5	Received At 223444 from  3 Our token=10:1720, theirs=10:1720
+29:05.922	ID:4	Received At 223444 from  3 Our token=10:1720, theirs=10:1720
+29:05.922	ID:2	Received At 223444 from  3 Our token=10:1720, theirs=10:1720
+29:05.923	ID:1	Consistent RX
+29:05.923	ID:5	Consistent RX
+29:05.923	ID:4	Consistent RX
+29:05.923	ID:2	Consistent RX
+29:07.495	ID:2	Sending 1720 10 with a length of 32 
+29:07.547	ID:1	Received At 223652 from  2 Our token=10:1720, theirs=10:1720
+29:07.547	ID:5	Received At 223652 from  2 Our token=10:1720, theirs=10:1720
+29:07.547	ID:3	Received At 223652 from  2 Our token=10:1720, theirs=10:1720
+29:07.547	ID:4	Received At 223652 from  2 Our token=10:1720, theirs=10:1720
+29:07.548	ID:1	Consistent RX
+29:07.548	ID:5	Consistent RX
+29:07.548	ID:3	Consistent RX
+29:07.548	ID:4	Consistent RX
+29:30.011	ID:3	Sending 1720 10 with a length of 32 
+29:30.018	ID:5	Sending 1720 10 with a length of 32 
+29:30.047	ID:4	Received At 226532 from  3 Our token=10:1720, theirs=10:1720
+29:30.047	ID:1	Received At 226532 from  3 Our token=10:1720, theirs=10:1720
+29:30.047	ID:2	Received At 226532 from  3 Our token=10:1720, theirs=10:1720
+29:30.047	ID:5	Received At 226532 from  3 Our token=10:1720, theirs=10:1720
+29:30.048	ID:4	Consistent RX
+29:30.048	ID:1	Consistent RX
+29:30.048	ID:2	Consistent RX
+29:30.048	ID:5	Consistent RX
+29:30.297	ID:2	Received At 226564 from  5 Our token=10:1720, theirs=10:1720
+29:30.297	ID:4	Received At 226564 from  5 Our token=10:1720, theirs=10:1720
+29:30.297	ID:3	Received At 226564 from  5 Our token=10:1720, theirs=10:1720
+29:30.298	ID:2	Consistent RX
+29:30.298	ID:4	Consistent RX
+29:30.298	ID:3	Consistent RX
+29:37.214	ID:1	Sending 1720 10 with a length of 32 
+29:37.299	ID:3	Received At 227460 from  1 Our token=10:1720, theirs=10:1720
+29:37.299	ID:4	Received At 227460 from  1 Our token=10:1720, theirs=10:1720
+29:37.299	ID:2	Received At 227460 from  1 Our token=10:1720, theirs=10:1720
+29:37.300	ID:3	Consistent RX
+29:37.300	ID:4	Consistent RX
+29:37.300	ID:2	Consistent RX
+30:28.411	ID:5	Sending 1720 10 with a length of 32 
+30:28.547	ID:3	Received At 234020 from  5 Our token=10:1720, theirs=10:1720
+30:28.547	ID:4	Received At 234020 from  5 Our token=10:1720, theirs=10:1720
+30:28.547	ID:2	Received At 234020 from  5 Our token=10:1720, theirs=10:1720
+30:28.548	ID:3	Consistent RX
+30:28.548	ID:4	Consistent RX
+30:28.548	ID:2	Consistent RX
+30:31.081	ID:3	Sending 1720 10 with a length of 32 
+30:31.172	ID:4	Received At 234356 from  3 Our token=10:1720, theirs=10:1720
+30:31.172	ID:1	Received At 234356 from  3 Our token=10:1720, theirs=10:1720
+30:31.172	ID:5	Received At 234356 from  3 Our token=10:1720, theirs=10:1720
+30:31.172	ID:2	Received At 234356 from  3 Our token=10:1720, theirs=10:1720
+30:31.173	ID:4	Consistent RX
+30:31.173	ID:1	Consistent RX
+30:31.173	ID:5	Consistent RX
+30:31.173	ID:2	Consistent RX
+30:46.971	ID:1	Sending 1720 10 with a length of 32 
+30:47.047	ID:3	Received At 236388 from  1 Our token=10:1720, theirs=10:1720
+30:47.047	ID:4	Received At 236388 from  1 Our token=10:1720, theirs=10:1720
+30:47.047	ID:2	Received At 236388 from  1 Our token=10:1720, theirs=10:1720
+30:47.048	ID:3	Consistent RX
+30:47.048	ID:4	Consistent RX
+30:47.048	ID:2	Consistent RX
+32:15.846	ID:5	Sending 1720 10 with a length of 32 
+32:15.922	ID:3	Received At 247764 from  5 Our token=10:1720, theirs=10:1720
+32:15.922	ID:4	Received At 247764 from  5 Our token=10:1720, theirs=10:1720
+32:15.922	ID:2	Received At 247764 from  5 Our token=10:1720, theirs=10:1720
+32:15.923	ID:3	Consistent RX
+32:15.923	ID:4	Consistent RX
+32:15.923	ID:2	Consistent RX
+32:18.198	ID:4	Sending 1720 10 with a length of 32 
+32:18.296	ID:3	Received At 248068 from  4 Our token=10:1720, theirs=10:1720
+32:18.296	ID:1	Received At 248068 from  4 Our token=10:1720, theirs=10:1720
+32:18.296	ID:5	Received At 248068 from  4 Our token=10:1720, theirs=10:1720
+32:18.297	ID:2	Received At 248068 from  4 Our token=10:1720, theirs=10:1720
+32:18.297	ID:3	Consistent RX
+32:18.297	ID:1	Consistent RX
+32:18.297	ID:5	Consistent RX
+32:18.297	ID:2	Consistent RX
+32:22.661	ID:1	Sending 1720 10 with a length of 32 
+32:22.797	ID:3	Received At 248644 from  1 Our token=10:1720, theirs=10:1720
+32:22.797	ID:4	Received At 248644 from  1 Our token=10:1720, theirs=10:1720
+32:22.798	ID:2	Received At 248644 from  1 Our token=10:1720, theirs=10:1720
+32:22.798	ID:3	Consistent RX
+32:22.798	ID:4	Consistent RX
+32:22.798	ID:2	Consistent RX
+34:05.542	ID:3	Sending 1720 10 with a length of 32 
+34:05.672	ID:4	Received At 261812 from  3 Our token=10:1720, theirs=10:1720
+34:05.672	ID:1	Received At 261812 from  3 Our token=10:1720, theirs=10:1720
+34:05.672	ID:2	Received At 261812 from  3 Our token=10:1720, theirs=10:1720
+34:05.672	ID:5	Received At 261812 from  3 Our token=10:1720, theirs=10:1720
+34:05.673	ID:4	Consistent RX
+34:05.673	ID:1	Consistent RX
+34:05.673	ID:2	Consistent RX
+34:05.673	ID:5	Consistent RX
+34:17.245	ID:2	Sending 1720 10 with a length of 32 
+34:17.297	ID:1	Received At 263300 from  2 Our token=10:1720, theirs=10:1720
+34:17.297	ID:5	Received At 263300 from  2 Our token=10:1720, theirs=10:1720
+34:17.297	ID:3	Received At 263300 from  2 Our token=10:1720, theirs=10:1720
+34:17.297	ID:4	Received At 263300 from  2 Our token=10:1720, theirs=10:1720
+34:17.298	ID:1	Consistent RX
+34:17.298	ID:5	Consistent RX
+34:17.298	ID:3	Consistent RX
+34:17.298	ID:4	Consistent RX
+36:08.675	ID:2	Sending 1720 10 with a length of 32 
+36:08.798	ID:3	Received At 277572 from  2 Our token=10:1720, theirs=10:1720
+36:08.798	ID:4	Received At 277572 from  2 Our token=10:1720, theirs=10:1720
+36:08.798	ID:1	Received At 277572 from  2 Our token=10:1720, theirs=10:1720
+36:08.798	ID:5	Received At 277572 from  2 Our token=10:1720, theirs=10:1720
+36:08.799	ID:3	Consistent RX
+36:08.799	ID:4	Consistent RX
+36:08.799	ID:1	Consistent RX
+36:08.799	ID:5	Consistent RX
+36:15.425	ID:5	Sending 1720 10 with a length of 32 
+36:15.548	ID:3	Received At 278436 from  5 Our token=10:1720, theirs=10:1720
+36:15.548	ID:4	Received At 278436 from  5 Our token=10:1720, theirs=10:1720
+36:15.548	ID:2	Received At 278436 from  5 Our token=10:1720, theirs=10:1720
+36:15.549	ID:3	Consistent RX
+36:15.549	ID:4	Consistent RX
+36:15.549	ID:2	Consistent RX
+36:25.425	ID:1	Sending 1720 10 with a length of 32 
+36:25.548	ID:3	Received At 279716 from  1 Our token=10:1720, theirs=10:1720
+36:25.548	ID:4	Received At 279716 from  1 Our token=10:1720, theirs=10:1720
+36:25.548	ID:2	Received At 279716 from  1 Our token=10:1720, theirs=10:1720
+36:25.549	ID:3	Consistent RX
+36:25.549	ID:4	Consistent RX
+36:25.549	ID:2	Consistent RX
+38:28.456	ID:4	Sending 1720 10 with a length of 32 
+38:28.547	ID:3	Received At 295460 from  4 Our token=10:1720, theirs=10:1720
+38:28.547	ID:1	Received At 295460 from  4 Our token=10:1720, theirs=10:1720
+38:28.547	ID:2	Received At 295460 from  4 Our token=10:1720, theirs=10:1720
+38:28.547	ID:5	Received At 295460 from  4 Our token=10:1720, theirs=10:1720
+38:28.548	ID:3	Consistent RX
+38:28.548	ID:1	Consistent RX
+38:28.548	ID:2	Consistent RX
+38:28.548	ID:5	Consistent RX
+38:28.995	ID:3	Sending 1720 10 with a length of 32 
+38:29.047	ID:4	Received At 295524 from  3 Our token=10:1720, theirs=10:1720
+38:29.047	ID:1	Received At 295524 from  3 Our token=10:1720, theirs=10:1720
+38:29.047	ID:2	Received At 295524 from  3 Our token=10:1720, theirs=10:1720
+38:29.047	ID:5	Received At 295524 from  3 Our token=10:1720, theirs=10:1720
+38:29.048	ID:4	Consistent RX
+38:29.048	ID:1	Consistent RX
+38:29.048	ID:2	Consistent RX
+38:29.048	ID:5	Consistent RX
+39:40.559	ID:2	At 2380: Generating a new token 2380 11 
+39:40.596	ID:2	Power Usage: 304678 P 0.18 2 1094244 76874835 224552 571121 0 511732 281033 21668625 51391 156872 0 143994 (radio 1.-54% / 0.94% tx 0.28% / 0.23% listen 0.18% / 0.71%)
+39:40.619	ID:2	Power Usage: 304683 SP 0.18 2 58 39680 84 0 10659 0 2773 40 103651 3161 28688 869 (proto 58(39680) radio 14.1476% / 15.1552%)
+39:40.642	ID:2	Power Usage: 304686 SP 0.18 2 17 12661 222 0 41570 0 8523 48 120901 3999 22703 713 (proto 17(12661) radio 20.2092% / 15.1533%)
+39:40.667	ID:2	Sending 2380 11 with a length of 32 
+39:40.797	ID:1	Received At 304708 from  2 Our token=10:1720, theirs=11:2380
+39:40.797	ID:5	Received At 304708 from  2 Our token=10:1720, theirs=11:2380
+39:40.797	ID:3	Received At 304708 from  2 Our token=10:1720, theirs=11:2380
+39:40.797	ID:4	Received At 304708 from  2 Our token=10:1720, theirs=11:2380
+39:40.800	ID:1	Their token is newer. Update to token 11
+39:40.800	ID:5	Their token is newer. Update to token 11
+39:40.800	ID:3	Their token is newer. Update to token 11
+39:40.800	ID:4	Their token is newer. Update to token 11
+39:40.809	ID:5	At 304709: Trickle inconsistency. Scheduled TX for 304722
+39:40.809	ID:1	At 304709: Trickle inconsistency. Scheduled TX for 304723
+39:40.809	ID:4	At 304709: Trickle inconsistency. Scheduled TX for 304720
+39:40.809	ID:3	At 304709: Trickle inconsistency. Scheduled TX for 304721
+39:40.886	ID:4	Sending 2380 11 with a length of 32 
+39:40.893	ID:3	Sending 2380 11 with a length of 32 
+39:40.901	ID:2	Sending 2380 11 with a length of 32 
+39:40.901	ID:5	Sending 2380 11 with a length of 32 
+39:40.911	ID:1	Sending 2380 11 with a length of 32 
+39:40.922	ID:3	Received At 304724 from  4 Our token=11:2380, theirs=11:2380
+39:40.922	ID:5	Received At 304724 from  4 Our token=11:2380, theirs=11:2380
+39:40.923	ID:1	Received At 304724 from  4 Our token=11:2380, theirs=11:2380
+39:40.923	ID:3	Consistent RX
+39:40.923	ID:5	Consistent RX
+39:40.924	ID:1	Consistent RX
+39:41.112	ID:5	Sending 2380 11 with a length of 32 
+39:41.120	ID:4	Sending 2380 11 with a length of 32 
+39:41.143	ID:1	Sending 2380 11 with a length of 32 
+39:41.174	ID:4	Received At 304756 from  3 Our token=11:2380, theirs=11:2380
+39:41.174	ID:2	Received At 304756 from  3 Our token=11:2380, theirs=11:2380
+39:41.174	ID:1	Received At 304756 from  3 Our token=11:2380, theirs=11:2380
+39:41.174	ID:5	Received At 304756 from  3 Our token=11:2380, theirs=11:2380
+39:41.175	ID:4	Consistent RX
+39:41.175	ID:2	Consistent RX
+39:41.175	ID:1	Consistent RX
+39:41.175	ID:5	Consistent RX
+39:41.204	ID:3	Sending 2380 11 with a length of 32 
+39:41.296	ID:1	Received At 304772 from  3 Our token=11:2380, theirs=11:2380
+39:41.296	ID:2	Received At 304772 from  3 Our token=11:2380, theirs=11:2380
+39:41.296	ID:5	Received At 304772 from  3 Our token=11:2380, theirs=11:2380
+39:41.296	ID:4	Received At 304772 from  3 Our token=11:2380, theirs=11:2380
+39:41.297	ID:1	Consistent RX
+39:41.297	ID:2	Consistent RX
+39:41.297	ID:5	Consistent RX
+39:41.297	ID:4	Consistent RX
+39:41.422	ID:3	Received At 304788 from  4 Our token=11:2380, theirs=11:2380
+39:41.422	ID:1	Received At 304788 from  4 Our token=11:2380, theirs=11:2380
+39:41.422	ID:2	Received At 304788 from  4 Our token=11:2380, theirs=11:2380
+39:41.423	ID:3	Consistent RX
+39:41.423	ID:1	Consistent RX
+39:41.423	ID:2	Consistent RX
+39:41.518	ID:4	Sending 2380 11 with a length of 32 
+39:41.545	ID:3	Received At 304803 from  4 Our token=11:2380, theirs=11:2380
+39:41.545	ID:1	Received At 304803 from  4 Our token=11:2380, theirs=11:2380
+39:41.545	ID:5	Received At 304803 from  4 Our token=11:2380, theirs=11:2380
+39:41.546	ID:3	Consistent RX
+39:41.546	ID:1	Consistent RX
+39:41.546	ID:5	Consistent RX
+39:41.548	ID:2	Received At 304804 from  4 Our token=11:2380, theirs=11:2380
+39:41.549	ID:2	Consistent RX
+39:41.798	ID:3	Received At 304836 from  5 Our token=11:2380, theirs=11:2380
+39:41.798	ID:4	Received At 304836 from  5 Our token=11:2380, theirs=11:2380
+39:41.798	ID:2	Received At 304836 from  5 Our token=11:2380, theirs=11:2380
+39:41.798	ID:3	Consistent RX
+39:41.798	ID:4	Consistent RX
+39:41.799	ID:2	Consistent RX
+39:41.923	ID:3	Received At 304852 from  1 Our token=11:2380, theirs=11:2380
+39:41.923	ID:2	Received At 304852 from  1 Our token=11:2380, theirs=11:2380
+39:41.923	ID:4	Received At 304852 from  1 Our token=11:2380, theirs=11:2380
+39:41.924	ID:3	Consistent RX
+39:41.924	ID:2	Consistent RX
+39:41.924	ID:4	Consistent RX
+39:42.049	ID:4	Received At 304868 from  2 Our token=11:2380, theirs=11:2380
+39:42.049	ID:3	Received At 304868 from  2 Our token=11:2380, theirs=11:2380
+39:42.049	ID:1	Received At 304868 from  2 Our token=11:2380, theirs=11:2380
+39:42.050	ID:4	Consistent RX
+39:42.050	ID:3	Consistent RX
+39:42.050	ID:1	Consistent RX
+39:42.368	ID:5	Sending 2380 11 with a length of 32 
+39:42.423	ID:2	Received At 304916 from  5 Our token=11:2380, theirs=11:2380
+39:42.424	ID:3	Received At 304916 from  5 Our token=11:2380, theirs=11:2380
+39:42.424	ID:4	Received At 304916 from  5 Our token=11:2380, theirs=11:2380
+39:42.424	ID:2	Consistent RX
+39:42.425	ID:3	Consistent RX
+39:42.425	ID:4	Consistent RX
+39:42.651	ID:1	Sending 2380 11 with a length of 32 
+39:42.798	ID:2	Received At 304964 from  1 Our token=11:2380, theirs=11:2380
+39:42.798	ID:3	Received At 304964 from  1 Our token=11:2380, theirs=11:2380
+39:42.798	ID:4	Received At 304964 from  1 Our token=11:2380, theirs=11:2380
+39:42.799	ID:2	Consistent RX
+39:42.799	ID:3	Consistent RX
+39:42.799	ID:4	Consistent RX
+39:43.675	ID:1	Sending 2380 11 with a length of 32 
+39:43.798	ID:4	Received At 305092 from  1 Our token=11:2380, theirs=11:2380
+39:43.798	ID:2	Received At 305092 from  1 Our token=11:2380, theirs=11:2380
+39:43.798	ID:3	Received At 305092 from  1 Our token=11:2380, theirs=11:2380
+39:43.799	ID:4	Consistent RX
+39:43.799	ID:2	Consistent RX
+39:43.799	ID:3	Consistent RX
+39:44.542	ID:5	Sending 2380 11 with a length of 32 
+39:44.672	ID:2	Received At 305204 from  5 Our token=11:2380, theirs=11:2380
+39:44.672	ID:3	Received At 305204 from  5 Our token=11:2380, theirs=11:2380
+39:44.672	ID:4	Received At 305204 from  5 Our token=11:2380, theirs=11:2380
+39:44.673	ID:2	Consistent RX
+39:44.673	ID:3	Consistent RX
+39:44.673	ID:4	Consistent RX
+39:46.714	ID:5	Sending 2380 11 with a length of 32 
+39:46.798	ID:3	Received At 305476 from  5 Our token=11:2380, theirs=11:2380
+39:46.798	ID:2	Received At 305476 from  5 Our token=11:2380, theirs=11:2380
+39:46.798	ID:4	Received At 305476 from  5 Our token=11:2380, theirs=11:2380
+39:46.799	ID:3	Consistent RX
+39:46.799	ID:2	Consistent RX
+39:46.799	ID:4	Consistent RX
+39:47.661	ID:1	Sending 2380 11 with a length of 32 
+39:47.797	ID:3	Received At 305604 from  1 Our token=11:2380, theirs=11:2380
+39:47.797	ID:4	Received At 305604 from  1 Our token=11:2380, theirs=11:2380
+39:47.797	ID:2	Received At 305604 from  1 Our token=11:2380, theirs=11:2380
+39:47.798	ID:3	Consistent RX
+39:47.798	ID:4	Consistent RX
+39:47.798	ID:2	Consistent RX
+39:53.018	ID:1	Sending 2380 11 with a length of 32 
+39:53.045	ID:3	Received At 306275 from  1 Our token=11:2380, theirs=11:2380
+39:53.045	ID:4	Received At 306275 from  1 Our token=11:2380, theirs=11:2380
+39:53.046	ID:3	Consistent RX
+39:53.046	ID:4	Consistent RX
+39:53.048	ID:2	Received At 306276 from  1 Our token=11:2380, theirs=11:2380
+39:53.049	ID:2	Consistent RX
+39:53.456	ID:4	Sending 2380 11 with a length of 32 
+39:53.547	ID:5	Received At 306340 from  4 Our token=11:2380, theirs=11:2380
+39:53.547	ID:1	Received At 306340 from  4 Our token=11:2380, theirs=11:2380
+39:53.547	ID:2	Received At 306340 from  4 Our token=11:2380, theirs=11:2380
+39:53.547	ID:3	Received At 306340 from  4 Our token=11:2380, theirs=11:2380
+39:53.548	ID:5	Consistent RX
+39:53.548	ID:1	Consistent RX
+39:53.548	ID:2	Consistent RX
+39:53.548	ID:3	Consistent RX
+39:53.761	ID:5	Sending 2380 11 with a length of 32 
+39:53.797	ID:4	Received At 306372 from  5 Our token=11:2380, theirs=11:2380
+39:53.797	ID:3	Received At 306372 from  5 Our token=11:2380, theirs=11:2380
+39:53.797	ID:2	Received At 306372 from  5 Our token=11:2380, theirs=11:2380
+39:53.798	ID:4	Consistent RX
+39:53.798	ID:3	Consistent RX
+39:53.798	ID:2	Consistent RX
+40:05.823	ID:4	Sending 2380 11 with a length of 32 
+40:05.921	ID:1	Received At 307924 from  4 Our token=11:2380, theirs=11:2380
+40:05.921	ID:5	Received At 307924 from  4 Our token=11:2380, theirs=11:2380
+40:05.921	ID:3	Received At 307924 from  4 Our token=11:2380, theirs=11:2380
+40:05.921	ID:2	Received At 307924 from  4 Our token=11:2380, theirs=11:2380
+40:05.922	ID:1	Consistent RX
+40:05.922	ID:5	Consistent RX
+40:05.922	ID:3	Consistent RX
+40:05.922	ID:2	Consistent RX
+40:07.268	ID:2	Sending 2380 11 with a length of 32 
+40:07.295	ID:5	Received At 308099 from  2 Our token=11:2380, theirs=11:2380
+40:07.295	ID:3	Received At 308099 from  2 Our token=11:2380, theirs=11:2380
+40:07.296	ID:5	Consistent RX
+40:07.296	ID:3	Consistent RX
+40:07.298	ID:1	Received At 308100 from  2 Our token=11:2380, theirs=11:2380
+40:07.298	ID:4	Received At 308100 from  2 Our token=11:2380, theirs=11:2380
+40:07.299	ID:1	Consistent RX
+40:07.299	ID:4	Consistent RX
+40:30.987	ID:2	Sending 2380 11 with a length of 32 
+40:31.046	ID:4	Received At 311140 from  2 Our token=11:2380, theirs=11:2380
+40:31.046	ID:3	Received At 311140 from  2 Our token=11:2380, theirs=11:2380
+40:31.046	ID:1	Received At 311140 from  2 Our token=11:2380, theirs=11:2380
+40:31.046	ID:5	Received At 311140 from  2 Our token=11:2380, theirs=11:2380
+40:31.047	ID:4	Consistent RX
+40:31.047	ID:3	Consistent RX
+40:31.047	ID:1	Consistent RX
+40:31.047	ID:5	Consistent RX
+40:42.065	ID:5	Sending 2380 11 with a length of 32 
+40:42.173	ID:3	Received At 312564 from  5 Our token=11:2380, theirs=11:2380
+40:42.173	ID:4	Received At 312564 from  5 Our token=11:2380, theirs=11:2380
+40:42.173	ID:2	Received At 312564 from  5 Our token=11:2380, theirs=11:2380
+40:42.174	ID:3	Consistent RX
+40:42.174	ID:4	Consistent RX
+40:42.174	ID:2	Consistent RX
+40:44.355	ID:1	Sending 2380 11 with a length of 32 
+40:44.423	ID:3	Received At 312852 from  1 Our token=11:2380, theirs=11:2380
+40:44.423	ID:4	Received At 312852 from  1 Our token=11:2380, theirs=11:2380
+40:44.423	ID:2	Received At 312852 from  1 Our token=11:2380, theirs=11:2380
+40:44.424	ID:3	Consistent RX
+40:44.424	ID:4	Consistent RX
+40:44.424	ID:2	Consistent RX
+41:27.050	ID:1	Sending 2380 11 with a length of 32 
+41:27.173	ID:3	Received At 318324 from  1 Our token=11:2380, theirs=11:2380
+41:27.173	ID:4	Received At 318324 from  1 Our token=11:2380, theirs=11:2380
+41:27.173	ID:2	Received At 318324 from  1 Our token=11:2380, theirs=11:2380
+41:27.174	ID:3	Consistent RX
+41:27.174	ID:4	Consistent RX
+41:27.174	ID:2	Consistent RX
+41:31.417	ID:5	Sending 2380 11 with a length of 32 
+41:31.547	ID:3	Received At 318884 from  5 Our token=11:2380, theirs=11:2380
+41:31.547	ID:4	Received At 318884 from  5 Our token=11:2380, theirs=11:2380
+41:31.548	ID:2	Received At 318884 from  5 Our token=11:2380, theirs=11:2380
+41:31.548	ID:3	Consistent RX
+41:31.548	ID:4	Consistent RX
+41:31.548	ID:2	Consistent RX
+42:59.355	ID:5	Sending 2380 11 with a length of 32 
+42:59.423	ID:3	Received At 330132 from  5 Our token=11:2380, theirs=11:2380
+42:59.423	ID:4	Received At 330132 from  5 Our token=11:2380, theirs=11:2380
+42:59.423	ID:2	Received At 330132 from  5 Our token=11:2380, theirs=11:2380
+42:59.424	ID:3	Consistent RX
+42:59.424	ID:4	Consistent RX
+42:59.424	ID:2	Consistent RX
+43:13.237	ID:1	Sending 2380 11 with a length of 32 
+43:13.297	ID:3	Received At 331908 from  1 Our token=11:2380, theirs=11:2380
+43:13.297	ID:4	Received At 331908 from  1 Our token=11:2380, theirs=11:2380
+43:13.297	ID:2	Received At 331908 from  1 Our token=11:2380, theirs=11:2380
+43:13.298	ID:3	Consistent RX
+43:13.298	ID:4	Consistent RX
+43:13.298	ID:2	Consistent RX
+45:14.386	ID:1	Sending 2380 11 with a length of 32 
+45:14.422	ID:3	Received At 347412 from  1 Our token=11:2380, theirs=11:2380
+45:14.422	ID:4	Received At 347412 from  1 Our token=11:2380, theirs=11:2380
+45:14.422	ID:2	Received At 347412 from  1 Our token=11:2380, theirs=11:2380
+45:14.423	ID:3	Consistent RX
+45:14.423	ID:4	Consistent RX
+45:14.423	ID:2	Consistent RX
+45:33.573	ID:4	Sending 2380 11 with a length of 32 
+45:33.671	ID:3	Received At 349876 from  4 Our token=11:2380, theirs=11:2380
+45:33.671	ID:1	Received At 349876 from  4 Our token=11:2380, theirs=11:2380
+45:33.671	ID:2	Received At 349876 from  4 Our token=11:2380, theirs=11:2380
+45:33.671	ID:5	Received At 349876 from  4 Our token=11:2380, theirs=11:2380
+45:33.672	ID:3	Consistent RX
+45:33.672	ID:1	Consistent RX
+45:33.672	ID:2	Consistent RX
+45:33.672	ID:5	Consistent RX
+46:03.721	ID:5	Sending 2380 11 with a length of 32 
+46:03.797	ID:3	Received At 353732 from  5 Our token=11:2380, theirs=11:2380
+46:03.797	ID:4	Received At 353732 from  5 Our token=11:2380, theirs=11:2380
+46:03.797	ID:2	Received At 353732 from  5 Our token=11:2380, theirs=11:2380
+46:03.798	ID:3	Consistent RX
+46:03.798	ID:4	Consistent RX
+46:03.798	ID:2	Consistent RX
+47:37.518	ID:3	Sending 2380 11 with a length of 32 
+47:37.545	ID:4	Received At 365731 from  3 Our token=11:2380, theirs=11:2380
+47:37.545	ID:1	Received At 365731 from  3 Our token=11:2380, theirs=11:2380
+47:37.545	ID:2	Received At 365731 from  3 Our token=11:2380, theirs=11:2380
+47:37.545	ID:5	Received At 365731 from  3 Our token=11:2380, theirs=11:2380
+47:37.546	ID:4	Consistent RX
+47:37.546	ID:1	Consistent RX
+47:37.546	ID:2	Consistent RX
+47:37.546	ID:5	Consistent RX
+47:40.731	ID:1	At 2860: Generating a new token 2860 12 
+47:40.768	ID:1	Power Usage: 366140 P 0.18 4 1389401 92308464 337070 664496 0 615075 635119 45881486 140705 326549 0 304641 (radio 1.-85% / 1.-92% tx 0.35% / 0.30% listen 0.25% / 0.70%)
+47:40.793	ID:1	Power Usage: 366145 SP 0.18 4 58 39680 97 0 12248 0 6148 48 125133 3789 62528 1895 (proto 58(39680) radio 14.1409% / 15.1510%)
+47:40.817	ID:1	Power Usage: 366148 SP 0.18 4 17 12661 147 0 26755 0 11404 84 211937 6629 78177 2461 (proto 17(12661) radio 24.2449% / 19.1969%)
+47:40.839	ID:1	Sending 2860 12 with a length of 32 
+47:40.924	ID:3	Received At 366164 from  1 Our token=11:2380, theirs=12:2860
+47:40.924	ID:4	Received At 366164 from  1 Our token=11:2380, theirs=12:2860
+47:40.924	ID:2	Received At 366164 from  1 Our token=11:2380, theirs=12:2860
+47:40.927	ID:3	Their token is newer. Update to token 12
+47:40.927	ID:4	Their token is newer. Update to token 12
+47:40.927	ID:2	Their token is newer. Update to token 12
+47:40.936	ID:3	At 366166: Trickle inconsistency. Scheduled TX for 366174
+47:40.936	ID:4	At 366166: Trickle inconsistency. Scheduled TX for 366180
+47:40.936	ID:2	At 366166: Trickle inconsistency. Scheduled TX for 366180
+47:40.995	ID:3	Sending 2860 12 with a length of 32 
+47:41.047	ID:1	Received At 366180 from  3 Our token=12:2860, theirs=12:2860
+47:41.047	ID:5	Received At 366180 from  3 Our token=11:2380, theirs=12:2860
+47:41.047	ID:2	Received At 366180 from  3 Our token=12:2860, theirs=12:2860
+47:41.047	ID:4	Received At 366180 from  3 Our token=12:2860, theirs=12:2860
+47:41.048	ID:1	Consistent RX
+47:41.048	ID:2	Consistent RX
+47:41.048	ID:4	Consistent RX
+47:41.050	ID:5	Their token is newer. Update to token 12
+47:41.053	ID:2	Sending 2860 12 with a length of 32 
+47:41.053	ID:4	Sending 2860 12 with a length of 32 
+47:41.060	ID:5	At 366181: Trickle inconsistency. Scheduled TX for 366194
+47:41.073	ID:1	Sending 2860 12 with a length of 32 
+47:41.151	ID:5	Sending 2860 12 with a length of 32 
+47:41.214	ID:4	Sending 2860 12 with a length of 32 
+47:41.276	ID:2	Sending 2860 12 with a length of 32 
+47:41.292	ID:3	Sending 2860 12 with a length of 32 
+47:41.386	ID:5	Sending 2860 12 with a length of 32 
+47:41.422	ID:3	Received At 366228 from  5 Our token=12:2860, theirs=12:2860
+47:41.422	ID:4	Received At 366228 from  5 Our token=12:2860, theirs=12:2860
+47:41.422	ID:2	Received At 366228 from  5 Our token=12:2860, theirs=12:2860
+47:41.423	ID:3	Consistent RX
+47:41.423	ID:4	Consistent RX
+47:41.423	ID:2	Consistent RX
+47:41.565	ID:1	Sending 2860 12 with a length of 32 
+47:41.620	ID:2	Sending 2860 12 with a length of 32 
+47:41.673	ID:5	Received At 366260 from  3 Our token=12:2860, theirs=12:2860
+47:41.673	ID:1	Received At 366260 from  3 Our token=12:2860, theirs=12:2860
+47:41.673	ID:4	Received At 366260 from  3 Our token=12:2860, theirs=12:2860
+47:41.673	ID:2	Received At 366260 from  3 Our token=12:2860, theirs=12:2860
+47:41.674	ID:5	Consistent RX
+47:41.674	ID:1	Consistent RX
+47:41.674	ID:4	Consistent RX
+47:41.674	ID:2	Consistent RX
+47:41.680	ID:3	Sending 2860 12 with a length of 32 
+47:41.682	ID:5	Sending 2860 12 with a length of 32 
+47:41.797	ID:2	Received At 366276 from  3 Our token=12:2860, theirs=12:2860
+47:41.797	ID:1	Received At 366276 from  3 Our token=12:2860, theirs=12:2860
+47:41.797	ID:5	Received At 366276 from  3 Our token=12:2860, theirs=12:2860
+47:41.797	ID:4	Received At 366276 from  3 Our token=12:2860, theirs=12:2860
+47:41.798	ID:2	Consistent RX
+47:41.798	ID:1	Consistent RX
+47:41.798	ID:5	Consistent RX
+47:41.798	ID:4	Consistent RX
+47:41.924	ID:1	Received At 366292 from  4 Our token=12:2860, theirs=12:2860
+47:41.924	ID:5	Received At 366292 from  4 Our token=12:2860, theirs=12:2860
+47:41.924	ID:3	Received At 366292 from  4 Our token=12:2860, theirs=12:2860
+47:41.925	ID:1	Consistent RX
+47:41.925	ID:5	Consistent RX
+47:41.925	ID:3	Consistent RX
+47:42.297	ID:3	Received At 366340 from  4 Our token=12:2860, theirs=12:2860
+47:42.297	ID:1	Received At 366340 from  4 Our token=12:2860, theirs=12:2860
+47:42.297	ID:5	Received At 366340 from  4 Our token=12:2860, theirs=12:2860
+47:42.297	ID:2	Received At 366340 from  4 Our token=12:2860, theirs=12:2860
+47:42.298	ID:3	Consistent RX
+47:42.298	ID:1	Consistent RX
+47:42.298	ID:5	Consistent RX
+47:42.298	ID:2	Consistent RX
+47:42.547	ID:1	Received At 366372 from  2 Our token=12:2860, theirs=12:2860
+47:42.547	ID:5	Received At 366372 from  2 Our token=12:2860, theirs=12:2860
+47:42.547	ID:3	Received At 366372 from  2 Our token=12:2860, theirs=12:2860
+47:42.547	ID:4	Received At 366372 from  2 Our token=12:2860, theirs=12:2860
+47:42.548	ID:1	Consistent RX
+47:42.548	ID:5	Consistent RX
+47:42.548	ID:3	Consistent RX
+47:42.548	ID:4	Consistent RX
+47:42.659	ID:2	Sending 2860 12 with a length of 32 
+47:42.776	ID:4	Sending 2860 12 with a length of 32 
+47:42.798	ID:3	Received At 366404 from  2 Our token=12:2860, theirs=12:2860
+47:42.798	ID:5	Received At 366404 from  2 Our token=12:2860, theirs=12:2860
+47:42.799	ID:1	Received At 366404 from  2 Our token=12:2860, theirs=12:2860
+47:42.799	ID:3	Consistent RX
+47:42.799	ID:5	Consistent RX
+47:42.799	ID:1	Consistent RX
+47:42.922	ID:4	Received At 366420 from  2 Our token=12:2860, theirs=12:2860
+47:42.923	ID:4	Consistent RX
+47:43.047	ID:3	Received At 366436 from  4 Our token=12:2860, theirs=12:2860
+47:43.047	ID:1	Received At 366436 from  4 Our token=12:2860, theirs=12:2860
+47:43.047	ID:5	Received At 366436 from  4 Our token=12:2860, theirs=12:2860
+47:43.048	ID:3	Consistent RX
+47:43.048	ID:1	Consistent RX
+47:43.048	ID:5	Consistent RX
+47:43.297	ID:4	Received At 366468 from  2 Our token=12:2860, theirs=12:2860
+47:43.297	ID:5	Received At 366468 from  2 Our token=12:2860, theirs=12:2860
+47:43.297	ID:3	Received At 366468 from  2 Our token=12:2860, theirs=12:2860
+47:43.297	ID:1	Received At 366468 from  2 Our token=12:2860, theirs=12:2860
+47:43.298	ID:4	Consistent RX
+47:43.298	ID:5	Consistent RX
+47:43.298	ID:3	Consistent RX
+47:43.298	ID:1	Consistent RX
+47:43.545	ID:3	Received At 366499 from  2 Our token=12:2860, theirs=12:2860
+47:43.545	ID:5	Received At 366499 from  2 Our token=12:2860, theirs=12:2860
+47:43.546	ID:3	Consistent RX
+47:43.546	ID:5	Consistent RX
+47:43.548	ID:4	Received At 366500 from  2 Our token=12:2860, theirs=12:2860
+47:43.548	ID:1	Received At 366500 from  2 Our token=12:2860, theirs=12:2860
+47:43.549	ID:4	Consistent RX
+47:43.549	ID:1	Consistent RX
+47:44.807	ID:2	Sending 2860 12 with a length of 32 
+47:44.922	ID:3	Received At 366676 from  2 Our token=12:2860, theirs=12:2860
+47:44.922	ID:4	Received At 366676 from  2 Our token=12:2860, theirs=12:2860
+47:44.922	ID:1	Received At 366676 from  2 Our token=12:2860, theirs=12:2860
+47:44.922	ID:5	Received At 366676 from  2 Our token=12:2860, theirs=12:2860
+47:44.923	ID:3	Consistent RX
+47:44.923	ID:4	Consistent RX
+47:44.923	ID:1	Consistent RX
+47:44.923	ID:5	Consistent RX
+47:46.862	ID:3	Sending 2860 12 with a length of 32 
+47:46.924	ID:4	Received At 366932 from  3 Our token=12:2860, theirs=12:2860
+47:46.924	ID:2	Received At 366932 from  3 Our token=12:2860, theirs=12:2860
+47:46.924	ID:1	Received At 366932 from  3 Our token=12:2860, theirs=12:2860
+47:46.924	ID:5	Received At 366932 from  3 Our token=12:2860, theirs=12:2860
+47:46.925	ID:4	Consistent RX
+47:46.925	ID:2	Consistent RX
+47:46.925	ID:1	Consistent RX
+47:46.925	ID:5	Consistent RX
+47:47.136	ID:2	Sending 2860 12 with a length of 32 
+47:47.172	ID:3	Received At 366964 from  2 Our token=12:2860, theirs=12:2860
+47:47.172	ID:1	Received At 366964 from  2 Our token=12:2860, theirs=12:2860
+47:47.172	ID:5	Received At 366964 from  2 Our token=12:2860, theirs=12:2860
+47:47.172	ID:4	Received At 366964 from  2 Our token=12:2860, theirs=12:2860
+47:47.173	ID:3	Consistent RX
+47:47.173	ID:1	Consistent RX
+47:47.173	ID:5	Consistent RX
+47:47.173	ID:4	Consistent RX
+47:54.245	ID:2	Sending 2860 12 with a length of 32 
+47:54.297	ID:3	Received At 367876 from  2 Our token=12:2860, theirs=12:2860
+47:54.297	ID:4	Received At 367876 from  2 Our token=12:2860, theirs=12:2860
+47:54.297	ID:1	Received At 367876 from  2 Our token=12:2860, theirs=12:2860
+47:54.297	ID:5	Received At 367876 from  2 Our token=12:2860, theirs=12:2860
+47:54.298	ID:3	Consistent RX
+47:54.298	ID:4	Consistent RX
+47:54.298	ID:1	Consistent RX
+47:54.298	ID:5	Consistent RX
+47:55.167	ID:5	Sending 2860 12 with a length of 32 
+47:55.297	ID:3	Received At 368004 from  5 Our token=12:2860, theirs=12:2860
+47:55.297	ID:2	Received At 368004 from  5 Our token=12:2860, theirs=12:2860
+47:55.297	ID:4	Received At 368004 from  5 Our token=12:2860, theirs=12:2860
+47:55.298	ID:3	Consistent RX
+47:55.298	ID:2	Consistent RX
+47:55.298	ID:4	Consistent RX
+47:56.464	ID:1	Sending 2860 12 with a length of 32 
+47:56.549	ID:3	Received At 368164 from  1 Our token=12:2860, theirs=12:2860
+47:56.549	ID:4	Received At 368164 from  1 Our token=12:2860, theirs=12:2860
+47:56.549	ID:2	Received At 368164 from  1 Our token=12:2860, theirs=12:2860
+47:56.550	ID:3	Consistent RX
+47:56.550	ID:4	Consistent RX
+47:56.550	ID:2	Consistent RX
+48:05.331	ID:4	Sending 2860 12 with a length of 32 
+48:05.422	ID:1	Received At 369300 from  4 Our token=12:2860, theirs=12:2860
+48:05.422	ID:5	Received At 369300 from  4 Our token=12:2860, theirs=12:2860
+48:05.422	ID:3	Received At 369300 from  4 Our token=12:2860, theirs=12:2860
+48:05.422	ID:2	Received At 369300 from  4 Our token=12:2860, theirs=12:2860
+48:05.423	ID:1	Consistent RX
+48:05.423	ID:5	Consistent RX
+48:05.423	ID:3	Consistent RX
+48:05.423	ID:2	Consistent RX
+48:06.057	ID:3	Sending 2860 12 with a length of 32 
+48:06.172	ID:1	Received At 369396 from  3 Our token=12:2860, theirs=12:2860
+48:06.172	ID:5	Received At 369396 from  3 Our token=12:2860, theirs=12:2860
+48:06.172	ID:4	Received At 369396 from  3 Our token=12:2860, theirs=12:2860
+48:06.172	ID:2	Received At 369396 from  3 Our token=12:2860, theirs=12:2860
+48:06.173	ID:1	Consistent RX
+48:06.173	ID:5	Consistent RX
+48:06.173	ID:4	Consistent RX
+48:06.173	ID:2	Consistent RX
+48:33.956	ID:2	Sending 2860 12 with a length of 32 
+48:34.047	ID:1	Received At 372964 from  2 Our token=12:2860, theirs=12:2860
+48:34.047	ID:5	Received At 372964 from  2 Our token=12:2860, theirs=12:2860
+48:34.047	ID:3	Received At 372964 from  2 Our token=12:2860, theirs=12:2860
+48:34.047	ID:4	Received At 372964 from  2 Our token=12:2860, theirs=12:2860
+48:34.048	ID:1	Consistent RX
+48:34.048	ID:5	Consistent RX
+48:34.048	ID:3	Consistent RX
+48:34.048	ID:4	Consistent RX
+48:34.401	ID:3	Sending 2860 12 with a length of 32 
+48:34.548	ID:2	Received At 373028 from  3 Our token=12:2860, theirs=12:2860
+48:34.548	ID:4	Received At 373028 from  3 Our token=12:2860, theirs=12:2860
+48:34.548	ID:1	Received At 373028 from  3 Our token=12:2860, theirs=12:2860
+48:34.548	ID:5	Received At 373028 from  3 Our token=12:2860, theirs=12:2860
+48:34.549	ID:2	Consistent RX
+48:34.549	ID:4	Consistent RX
+48:34.549	ID:1	Consistent RX
+48:34.549	ID:5	Consistent RX
+49:19.940	ID:3	Sending 2860 12 with a length of 32 
+49:20.048	ID:4	Received At 378852 from  3 Our token=12:2860, theirs=12:2860
+49:20.048	ID:1	Received At 378852 from  3 Our token=12:2860, theirs=12:2860
+49:20.048	ID:2	Received At 378852 from  3 Our token=12:2860, theirs=12:2860
+49:20.048	ID:5	Received At 378852 from  3 Our token=12:2860, theirs=12:2860
+49:20.049	ID:4	Consistent RX
+49:20.049	ID:1	Consistent RX
+49:20.049	ID:2	Consistent RX
+49:20.049	ID:5	Consistent RX
+49:23.245	ID:1	Sending 2860 12 with a length of 32 
+49:23.297	ID:3	Received At 379268 from  1 Our token=12:2860, theirs=12:2860
+49:23.298	ID:4	Received At 379268 from  1 Our token=12:2860, theirs=12:2860
+49:23.298	ID:2	Received At 379268 from  1 Our token=12:2860, theirs=12:2860
+49:23.298	ID:3	Consistent RX
+49:23.298	ID:4	Consistent RX
+49:23.298	ID:2	Consistent RX
+49:28.323	ID:5	Sending 2860 12 with a length of 32 
+49:28.422	ID:3	Received At 379924 from  5 Our token=12:2860, theirs=12:2860
+49:28.422	ID:4	Received At 379924 from  5 Our token=12:2860, theirs=12:2860
+49:28.422	ID:2	Received At 379924 from  5 Our token=12:2860, theirs=12:2860
+49:28.423	ID:3	Consistent RX
+49:28.423	ID:4	Consistent RX
+49:28.423	ID:2	Consistent RX
+50:20.645	ID:2	At 3020: Generating a new token 3020 13 
+50:20.683	ID:2	Power Usage: 386609 P 0.18 3 1381854 97553951 283513 721432 0 649744 287607 20679116 58961 150311 0 138012 (radio 1.-86% / 0.99% tx 0.28% / 0.28% listen 0.29% / 0.71%)
+50:20.707	ID:2	Power Usage: 386614 SP 0.18 3 58 39680 105 0 13197 0 2538 51 132339 4030 28688 869 (proto 58(39680) radio 14.1488% / 15.1533%)
+50:20.730	ID:2	Power Usage: 386617 SP 0.18 3 17 12661 263 0 49513 0 7943 60 151174 4948 30273 949 (proto 17(12661) radio 20.2046% / 18.1871%)
+50:20.753	ID:2	Sending 3020 13 with a length of 32 
+50:20.799	ID:1	Received At 386628 from  2 Our token=12:2860, theirs=13:3020
+50:20.799	ID:5	Received At 386628 from  2 Our token=12:2860, theirs=13:3020
+50:20.799	ID:3	Received At 386628 from  2 Our token=12:2860, theirs=13:3020
+50:20.799	ID:4	Received At 386628 from  2 Our token=12:2860, theirs=13:3020
+50:20.802	ID:1	Their token is newer. Update to token 13
+50:20.802	ID:5	Their token is newer. Update to token 13
+50:20.802	ID:3	Their token is newer. Update to token 13
+50:20.802	ID:4	Their token is newer. Update to token 13
+50:20.811	ID:5	At 386630: Trickle inconsistency. Scheduled TX for 386643
+50:20.811	ID:1	At 386630: Trickle inconsistency. Scheduled TX for 386645
+50:20.811	ID:3	At 386630: Trickle inconsistency. Scheduled TX for 386641
+50:20.811	ID:4	At 386630: Trickle inconsistency. Scheduled TX for 386640
+50:20.886	ID:4	Sending 3020 13 with a length of 32 
+50:20.893	ID:3	Sending 3020 13 with a length of 32 
+50:20.910	ID:5	Sending 3020 13 with a length of 32 
+50:20.920	ID:2	Received At 386643 from  3 Our token=13:3020, theirs=13:3020
+50:20.920	ID:1	Received At 386643 from  3 Our token=13:3020, theirs=13:3020
+50:20.920	ID:4	Received At 386643 from  3 Our token=13:3020, theirs=13:3020
+50:20.921	ID:2	Consistent RX
+50:20.921	ID:1	Consistent RX
+50:20.921	ID:4	Consistent RX
+50:20.922	ID:5	Received At 386644 from  3 Our token=13:3020, theirs=13:3020
+50:20.923	ID:5	Consistent RX
+50:20.926	ID:1	Sending 3020 13 with a length of 32 
+50:20.987	ID:2	Sending 3020 13 with a length of 32 
+50:21.057	ID:5	Sending 3020 13 with a length of 32 
+50:21.065	ID:4	Sending 3020 13 with a length of 32 
+50:21.065	ID:3	Sending 3020 13 with a length of 32 
+50:21.081	ID:1	Sending 3020 13 with a length of 32 
+50:21.172	ID:4	Received At 386676 from  5 Our token=13:3020, theirs=13:3020
+50:21.172	ID:3	Received At 386676 from  5 Our token=13:3020, theirs=13:3020
+50:21.173	ID:4	Consistent RX
+50:21.173	ID:3	Consistent RX
+50:21.297	ID:3	Received At 386692 from  1 Our token=13:3020, theirs=13:3020
+50:21.297	ID:4	Received At 386692 from  1 Our token=13:3020, theirs=13:3020
+50:21.297	ID:2	Received At 386692 from  1 Our token=13:3020, theirs=13:3020
+50:21.298	ID:3	Consistent RX
+50:21.298	ID:4	Consistent RX
+50:21.298	ID:2	Consistent RX
+50:21.422	ID:4	Received At 386708 from  5 Our token=13:3020, theirs=13:3020
+50:21.422	ID:3	Received At 386708 from  5 Our token=13:3020, theirs=13:3020
+50:21.422	ID:2	Received At 386708 from  5 Our token=13:3020, theirs=13:3020
+50:21.423	ID:4	Consistent RX
+50:21.423	ID:3	Consistent RX
+50:21.423	ID:2	Consistent RX
+50:21.546	ID:3	Received At 386724 from  1 Our token=13:3020, theirs=13:3020
+50:21.546	ID:4	Received At 386724 from  1 Our token=13:3020, theirs=13:3020
+50:21.546	ID:2	Received At 386724 from  1 Our token=13:3020, theirs=13:3020
+50:21.547	ID:3	Consistent RX
+50:21.547	ID:4	Consistent RX
+50:21.547	ID:2	Consistent RX
+50:21.563	ID:1	Sending 3020 13 with a length of 32 
+50:21.667	ID:5	Sending 3020 13 with a length of 32 
+50:21.674	ID:3	Received At 386740 from  1 Our token=13:3020, theirs=13:3020
+50:21.674	ID:4	Received At 386740 from  1 Our token=13:3020, theirs=13:3020
+50:21.674	ID:2	Received At 386740 from  1 Our token=13:3020, theirs=13:3020
+50:21.675	ID:3	Consistent RX
+50:21.675	ID:4	Consistent RX
+50:21.675	ID:2	Consistent RX
+50:21.797	ID:3	Received At 386756 from  5 Our token=13:3020, theirs=13:3020
+50:21.797	ID:4	Received At 386756 from  5 Our token=13:3020, theirs=13:3020
+50:21.797	ID:2	Received At 386756 from  5 Our token=13:3020, theirs=13:3020
+50:21.798	ID:3	Consistent RX
+50:21.798	ID:4	Consistent RX
+50:21.798	ID:2	Consistent RX
+50:21.922	ID:1	Received At 386772 from  2 Our token=13:3020, theirs=13:3020
+50:21.922	ID:5	Received At 386772 from  2 Our token=13:3020, theirs=13:3020
+50:21.922	ID:3	Received At 386772 from  2 Our token=13:3020, theirs=13:3020
+50:21.922	ID:4	Received At 386772 from  2 Our token=13:3020, theirs=13:3020
+50:21.923	ID:1	Consistent RX
+50:21.923	ID:5	Consistent RX
+50:21.923	ID:3	Consistent RX
+50:21.923	ID:4	Consistent RX
+50:22.173	ID:1	Received At 386804 from  4 Our token=13:3020, theirs=13:3020
+50:22.173	ID:5	Received At 386804 from  4 Our token=13:3020, theirs=13:3020
+50:22.173	ID:3	Received At 386804 from  4 Our token=13:3020, theirs=13:3020
+50:22.173	ID:2	Received At 386804 from  4 Our token=13:3020, theirs=13:3020
+50:22.174	ID:1	Consistent RX
+50:22.174	ID:5	Consistent RX
+50:22.174	ID:3	Consistent RX
+50:22.174	ID:2	Consistent RX
+50:22.297	ID:2	Received At 386820 from  3 Our token=13:3020, theirs=13:3020
+50:22.297	ID:1	Received At 386820 from  3 Our token=13:3020, theirs=13:3020
+50:22.297	ID:5	Received At 386820 from  3 Our token=13:3020, theirs=13:3020
+50:22.297	ID:4	Received At 386820 from  3 Our token=13:3020, theirs=13:3020
+50:22.298	ID:2	Consistent RX
+50:22.298	ID:1	Consistent RX
+50:22.298	ID:5	Consistent RX
+50:22.298	ID:4	Consistent RX
+50:22.673	ID:3	Received At 386868 from  4 Our token=13:3020, theirs=13:3020
+50:22.673	ID:1	Received At 386868 from  4 Our token=13:3020, theirs=13:3020
+50:22.673	ID:5	Received At 386868 from  4 Our token=13:3020, theirs=13:3020
+50:22.673	ID:2	Received At 386868 from  4 Our token=13:3020, theirs=13:3020
+50:22.674	ID:3	Consistent RX
+50:22.674	ID:1	Consistent RX
+50:22.674	ID:5	Consistent RX
+50:22.674	ID:2	Consistent RX
+50:23.721	ID:1	Sending 3020 13 with a length of 32 
+50:23.797	ID:4	Received At 387012 from  1 Our token=13:3020, theirs=13:3020
+50:23.797	ID:2	Received At 387012 from  1 Our token=13:3020, theirs=13:3020
+50:23.797	ID:3	Received At 387012 from  1 Our token=13:3020, theirs=13:3020
+50:23.798	ID:2	Consistent RX
+50:23.798	ID:4	Consistent RX
+50:23.798	ID:3	Consistent RX
+50:23.846	ID:4	Sending 3020 13 with a length of 32 
+50:24.011	ID:5	Sending 3020 13 with a length of 32 
+50:24.047	ID:3	Received At 387044 from  5 Our token=13:3020, theirs=13:3020
+50:24.047	ID:4	Received At 387044 from  5 Our token=13:3020, theirs=13:3020
+50:24.047	ID:2	Received At 387044 from  5 Our token=13:3020, theirs=13:3020
+50:24.048	ID:3	Consistent RX
+50:24.048	ID:4	Consistent RX
+50:24.048	ID:2	Consistent RX
+50:24.299	ID:1	Received At 387076 from  4 Our token=13:3020, theirs=13:3020
+50:24.299	ID:5	Received At 387076 from  4 Our token=13:3020, theirs=13:3020
+50:24.299	ID:2	Received At 387076 from  4 Our token=13:3020, theirs=13:3020
+50:24.299	ID:3	Received At 387076 from  4 Our token=13:3020, theirs=13:3020
+50:24.300	ID:1	Consistent RX
+50:24.300	ID:5	Consistent RX
+50:24.300	ID:2	Consistent RX
+50:24.300	ID:3	Consistent RX
+50:26.815	ID:4	Sending 3020 13 with a length of 32 
+50:26.923	ID:3	Received At 387412 from  4 Our token=13:3020, theirs=13:3020
+50:26.923	ID:2	Received At 387412 from  4 Our token=13:3020, theirs=13:3020
+50:26.923	ID:5	Received At 387412 from  4 Our token=13:3020, theirs=13:3020
+50:26.923	ID:1	Received At 387412 from  4 Our token=13:3020, theirs=13:3020
+50:26.924	ID:3	Consistent RX
+50:26.924	ID:2	Consistent RX
+50:26.924	ID:5	Consistent RX
+50:26.924	ID:1	Consistent RX
+50:27.768	ID:1	Sending 3020 13 with a length of 32 
+50:27.795	ID:4	Received At 387523 from  1 Our token=13:3020, theirs=13:3020
+50:27.795	ID:3	Received At 387523 from  1 Our token=13:3020, theirs=13:3020
+50:27.796	ID:4	Consistent RX
+50:27.796	ID:3	Consistent RX
+50:27.798	ID:2	Received At 387524 from  1 Our token=13:3020, theirs=13:3020
+50:27.799	ID:2	Consistent RX
+50:28.120	ID:5	Sending 3020 13 with a length of 32 
+50:28.172	ID:4	Received At 387572 from  5 Our token=13:3020, theirs=13:3020
+50:28.172	ID:3	Received At 387572 from  5 Our token=13:3020, theirs=13:3020
+50:28.172	ID:2	Received At 387572 from  5 Our token=13:3020, theirs=13:3020
+50:28.173	ID:4	Consistent RX
+50:28.173	ID:3	Consistent RX
+50:28.173	ID:2	Consistent RX
+50:33.565	ID:3	Sending 3020 13 with a length of 32 
+50:33.673	ID:1	Received At 388276 from  3 Our token=13:3020, theirs=13:3020
+50:33.673	ID:5	Received At 388276 from  3 Our token=13:3020, theirs=13:3020
+50:33.673	ID:4	Received At 388276 from  3 Our token=13:3020, theirs=13:3020
+50:33.673	ID:2	Received At 388276 from  3 Our token=13:3020, theirs=13:3020
+50:33.674	ID:1	Consistent RX
+50:33.674	ID:5	Consistent RX
+50:33.674	ID:4	Consistent RX
+50:33.674	ID:2	Consistent RX
+50:34.136	ID:2	Sending 3020 13 with a length of 32 
+50:34.172	ID:1	Received At 388340 from  2 Our token=13:3020, theirs=13:3020
+50:34.172	ID:5	Received At 388340 from  2 Our token=13:3020, theirs=13:3020
+50:34.172	ID:3	Received At 388340 from  2 Our token=13:3020, theirs=13:3020
+50:34.172	ID:4	Received At 388340 from  2 Our token=13:3020, theirs=13:3020
+50:34.173	ID:1	Consistent RX
+50:34.173	ID:5	Consistent RX
+50:34.173	ID:3	Consistent RX
+50:34.173	ID:4	Consistent RX
+50:44.839	ID:1	Sending 3020 13 with a length of 32 
+50:44.924	ID:3	Received At 389716 from  1 Our token=13:3020, theirs=13:3020
+50:44.924	ID:2	Received At 389716 from  1 Our token=13:3020, theirs=13:3020
+50:44.924	ID:4	Received At 389716 from  1 Our token=13:3020, theirs=13:3020
+50:44.925	ID:3	Consistent RX
+50:44.925	ID:2	Consistent RX
+50:44.925	ID:4	Consistent RX
+50:44.971	ID:2	Sending 3020 13 with a length of 32 
+50:45.298	ID:1	Received At 389764 from  2 Our token=13:3020, theirs=13:3020
+50:45.298	ID:5	Received At 389764 from  2 Our token=13:3020, theirs=13:3020
+50:45.298	ID:4	Received At 389764 from  2 Our token=13:3020, theirs=13:3020
+50:45.298	ID:3	Received At 389764 from  2 Our token=13:3020, theirs=13:3020
+50:45.299	ID:1	Consistent RX
+50:45.299	ID:5	Consistent RX
+50:45.299	ID:4	Consistent RX
+50:45.299	ID:3	Consistent RX
+50:48.286	ID:5	Sending 3020 13 with a length of 32 
+50:48.423	ID:3	Received At 390164 from  5 Our token=13:3020, theirs=13:3020
+50:48.423	ID:4	Received At 390164 from  5 Our token=13:3020, theirs=13:3020
+50:48.423	ID:2	Received At 390164 from  5 Our token=13:3020, theirs=13:3020
+50:48.423	ID:3	Consistent RX
+50:48.423	ID:4	Consistent RX
+50:48.423	ID:2	Consistent RX
+51:10.073	ID:2	Sending 3020 13 with a length of 32 
+51:10.174	ID:1	Received At 392948 from  2 Our token=13:3020, theirs=13:3020
+51:10.174	ID:5	Received At 392948 from  2 Our token=13:3020, theirs=13:3020
+51:10.174	ID:3	Received At 392948 from  2 Our token=13:3020, theirs=13:3020
+51:10.174	ID:4	Received At 392948 from  2 Our token=13:3020, theirs=13:3020
+51:10.175	ID:1	Consistent RX
+51:10.175	ID:5	Consistent RX
+51:10.175	ID:3	Consistent RX
+51:10.175	ID:4	Consistent RX
+51:12.253	ID:5	Sending 3020 13 with a length of 32 
+51:12.299	ID:2	Received At 393220 from  5 Our token=13:3020, theirs=13:3020
+51:12.299	ID:3	Received At 393220 from  5 Our token=13:3020, theirs=13:3020
+51:12.299	ID:4	Received At 393220 from  5 Our token=13:3020, theirs=13:3020
+51:12.300	ID:2	Consistent RX
+51:12.300	ID:3	Consistent RX
+51:12.300	ID:4	Consistent RX
+51:19.682	ID:1	Sending 3020 13 with a length of 32 
+51:19.797	ID:3	Received At 394180 from  1 Our token=13:3020, theirs=13:3020
+51:19.797	ID:2	Received At 394180 from  1 Our token=13:3020, theirs=13:3020
+51:19.797	ID:4	Received At 394180 from  1 Our token=13:3020, theirs=13:3020
+51:19.798	ID:3	Consistent RX
+51:19.798	ID:2	Consistent RX
+51:19.798	ID:4	Consistent RX
+52:09.268	ID:2	Sending 3020 13 with a length of 32 
+52:09.295	ID:5	Received At 400515 from  2 Our token=13:3020, theirs=13:3020
+52:09.295	ID:3	Received At 400515 from  2 Our token=13:3020, theirs=13:3020
+52:09.296	ID:5	Consistent RX
+52:09.296	ID:3	Consistent RX
+52:09.298	ID:1	Received At 400516 from  2 Our token=13:3020, theirs=13:3020
+52:09.298	ID:4	Received At 400516 from  2 Our token=13:3020, theirs=13:3020
+52:09.299	ID:1	Consistent RX
+52:09.299	ID:4	Consistent RX
+52:09.471	ID:3	Sending 3020 13 with a length of 32 
+52:09.547	ID:4	Received At 400548 from  3 Our token=13:3020, theirs=13:3020
+52:09.547	ID:1	Received At 400548 from  3 Our token=13:3020, theirs=13:3020
+52:09.547	ID:2	Received At 400548 from  3 Our token=13:3020, theirs=13:3020
+52:09.547	ID:5	Received At 400548 from  3 Our token=13:3020, theirs=13:3020
+52:09.548	ID:4	Consistent RX
+52:09.548	ID:1	Consistent RX
+52:09.548	ID:2	Consistent RX
+52:09.548	ID:5	Consistent RX
+53:35.456	ID:2	Sending 3020 13 with a length of 32 
+53:35.547	ID:3	Received At 411556 from  2 Our token=13:3020, theirs=13:3020
+53:35.547	ID:4	Received At 411556 from  2 Our token=13:3020, theirs=13:3020
+53:35.547	ID:1	Received At 411556 from  2 Our token=13:3020, theirs=13:3020
+53:35.547	ID:5	Received At 411556 from  2 Our token=13:3020, theirs=13:3020
+53:35.548	ID:3	Consistent RX
+53:35.548	ID:4	Consistent RX
+53:35.548	ID:1	Consistent RX
+53:35.548	ID:5	Consistent RX
+53:57.073	ID:5	Sending 3020 13 with a length of 32 
+53:57.174	ID:3	Received At 414324 from  5 Our token=13:3020, theirs=13:3020
+53:57.174	ID:4	Received At 414324 from  5 Our token=13:3020, theirs=13:3020
+53:57.174	ID:2	Received At 414324 from  5 Our token=13:3020, theirs=13:3020
+53:57.175	ID:3	Consistent RX
+53:57.175	ID:4	Consistent RX
+53:57.175	ID:2	Consistent RX
+54:35.036	ID:1	Sending 3020 13 with a length of 32 
+54:35.173	ID:3	Received At 419188 from  1 Our token=13:3020, theirs=13:3020
+54:35.173	ID:4	Received At 419188 from  1 Our token=13:3020, theirs=13:3020
+54:35.173	ID:2	Received At 419188 from  1 Our token=13:3020, theirs=13:3020
+54:35.174	ID:3	Consistent RX
+54:35.174	ID:4	Consistent RX
+54:35.174	ID:2	Consistent RX
+55:40.964	ID:3	Sending 3020 13 with a length of 32 
+55:41.048	ID:4	Received At 427620 from  3 Our token=13:3020, theirs=13:3020
+55:41.048	ID:1	Received At 427620 from  3 Our token=13:3020, theirs=13:3020
+55:41.048	ID:2	Received At 427620 from  3 Our token=13:3020, theirs=13:3020
+55:41.048	ID:5	Received At 427620 from  3 Our token=13:3020, theirs=13:3020
+55:41.049	ID:4	Consistent RX
+55:41.049	ID:1	Consistent RX
+55:41.049	ID:2	Consistent RX
+55:41.049	ID:5	Consistent RX
+55:49.589	ID:1	Sending 3020 13 with a length of 32 
+55:49.673	ID:3	Received At 428724 from  1 Our token=13:3020, theirs=13:3020
+55:49.673	ID:4	Received At 428724 from  1 Our token=13:3020, theirs=13:3020
+55:49.674	ID:2	Received At 428724 from  1 Our token=13:3020, theirs=13:3020
+55:49.674	ID:3	Consistent RX
+55:49.674	ID:4	Consistent RX
+55:49.675	ID:2	Consistent RX
+56:10.036	ID:5	Sending 3020 13 with a length of 32 
+56:10.172	ID:3	Received At 431348 from  5 Our token=13:3020, theirs=13:3020
+56:10.172	ID:4	Received At 431348 from  5 Our token=13:3020, theirs=13:3020
+56:10.173	ID:2	Received At 431348 from  5 Our token=13:3020, theirs=13:3020
+56:10.173	ID:3	Consistent RX
+56:10.173	ID:4	Consistent RX
+56:10.173	ID:2	Consistent RX
+57:52.589	ID:5	Sending 3020 13 with a length of 32 
+57:52.673	ID:3	Received At 444468 from  5 Our token=13:3020, theirs=13:3020
+57:52.673	ID:4	Received At 444468 from  5 Our token=13:3020, theirs=13:3020
+57:52.674	ID:2	Received At 444468 from  5 Our token=13:3020, theirs=13:3020
+57:52.674	ID:3	Consistent RX
+57:52.674	ID:4	Consistent RX
+57:52.675	ID:2	Consistent RX
+57:59.987	ID:3	Sending 3020 13 with a length of 32 
+58:00.046	ID:4	Received At 445412 from  3 Our token=13:3020, theirs=13:3020
+58:00.046	ID:1	Received At 445412 from  3 Our token=13:3020, theirs=13:3020
+58:00.046	ID:5	Received At 445412 from  3 Our token=13:3020, theirs=13:3020
+58:00.047	ID:2	Received At 445412 from  3 Our token=13:3020, theirs=13:3020
+58:00.047	ID:4	Consistent RX
+58:00.047	ID:1	Consistent RX
+58:00.047	ID:5	Consistent RX
+58:00.048	ID:2	Consistent RX
+58:15.112	ID:1	Sending 3020 13 with a length of 32 
+58:15.171	ID:3	Received At 447348 from  1 Our token=13:3020, theirs=13:3020
+58:15.171	ID:4	Received At 447348 from  1 Our token=13:3020, theirs=13:3020
+58:15.171	ID:2	Received At 447348 from  1 Our token=13:3020, theirs=13:3020
+58:15.172	ID:3	Consistent RX
+58:15.172	ID:4	Consistent RX
+58:15.172	ID:2	Consistent RX
+59:50.817	ID:1	At 3590: Generating a new token 3590 14 
+59:50.854	ID:1	Power Usage: 459591 P 0.18 5 1714609 115898044 406220 833241 0 771873 325205 23589580 69150 168745 0 156798 (radio 1.-68% / 0.99% tx 0.34% / 0.28% listen 0.34% / 0.70%)
+59:50.877	ID:1	Power Usage: 459596 SP 0.18 5 58 39680 121 0 15275 0 3027 60 156429 4737 31296 948 (proto 58(39680) radio 14.1423% / 14.1482%)
+59:50.901	ID:1	Power Usage: 459599 SP 0.18 5 17 12661 183 0 33356 0 6601 99 249791 7816 37854 1187 (proto 17(12661) radio 23.2347% / 19.1918%)
+59:50.925	ID:1	Sending 3590 14 with a length of 32 
+59:51.048	ID:3	Received At 459620 from  1 Our token=13:3020, theirs=14:3590
+59:51.048	ID:4	Received At 459620 from  1 Our token=13:3020, theirs=14:3590
+59:51.048	ID:2	Received At 459620 from  1 Our token=13:3020, theirs=14:3590
+59:51.051	ID:3	Their token is newer. Update to token 14
+59:51.051	ID:4	Their token is newer. Update to token 14
+59:51.051	ID:2	Their token is newer. Update to token 14
+59:51.061	ID:4	At 459622: Trickle inconsistency. Scheduled TX for 459634
+59:51.061	ID:3	At 459622: Trickle inconsistency. Scheduled TX for 459636
+59:51.061	ID:2	At 459622: Trickle inconsistency. Scheduled TX for 459635
+59:51.151	ID:4	Sending 3590 14 with a length of 32 
+59:51.161	ID:1	Sending 3590 14 with a length of 32 
+59:51.161	ID:2	Sending 3590 14 with a length of 32 
+59:51.167	ID:3	Sending 3590 14 with a length of 32 
+59:51.298	ID:5	Received At 459652 from  4 Our token=13:3020, theirs=14:3590
+59:51.298	ID:1	Received At 459652 from  4 Our token=14:3590, theirs=14:3590
+59:51.298	ID:3	Received At 459652 from  4 Our token=14:3590, theirs=14:3590
+59:51.298	ID:2	Received At 459652 from  4 Our token=14:3590, theirs=14:3590
+59:51.299	ID:1	Consistent RX
+59:51.299	ID:3	Consistent RX
+59:51.299	ID:2	Consistent RX
+59:51.301	ID:5	Their token is newer. Update to token 14
+59:51.307	ID:2	Sending 3590 14 with a length of 32 
+59:51.310	ID:5	At 459654: Trickle inconsistency. Scheduled TX for 459669
+59:51.346	ID:3	Sending 3590 14 with a length of 32 
+59:51.386	ID:4	Sending 3590 14 with a length of 32 
+59:51.422	ID:1	Received At 459668 from  2 Our token=14:3590, theirs=14:3590
+59:51.422	ID:5	Received At 459668 from  2 Our token=14:3590, theirs=14:3590
+59:51.422	ID:3	Received At 459668 from  2 Our token=14:3590, theirs=14:3590
+59:51.422	ID:4	Received At 459668 from  2 Our token=14:3590, theirs=14:3590
+59:51.423	ID:1	Consistent RX
+59:51.423	ID:5	Consistent RX
+59:51.423	ID:3	Consistent RX
+59:51.423	ID:4	Consistent RX
+59:51.427	ID:5	Sending 3590 14 with a length of 32 
+59:51.549	ID:4	Received At 459684 from  1 Our token=14:3590, theirs=14:3590
+59:51.549	ID:2	Received At 459684 from  1 Our token=14:3590, theirs=14:3590
+59:51.549	ID:3	Received At 459684 from  1 Our token=14:3590, theirs=14:3590
+59:51.550	ID:4	Consistent RX
+59:51.550	ID:2	Consistent RX
+59:51.550	ID:3	Consistent RX
+59:51.596	ID:5	Sending 3590 14 with a length of 32 
+59:51.674	ID:3	Received At 459700 from  5 Our token=14:3590, theirs=14:3590
+59:51.674	ID:4	Received At 459700 from  5 Our token=14:3590, theirs=14:3590
+59:51.674	ID:2	Received At 459700 from  5 Our token=14:3590, theirs=14:3590
+59:51.675	ID:3	Consistent RX
+59:51.675	ID:4	Consistent RX
+59:51.675	ID:2	Consistent RX
+59:51.797	ID:1	Received At 459716 from  4 Our token=14:3590, theirs=14:3590
+59:51.797	ID:5	Received At 459716 from  4 Our token=14:3590, theirs=14:3590
+59:51.797	ID:2	Received At 459716 from  4 Our token=14:3590, theirs=14:3590
+59:51.797	ID:3	Received At 459716 from  4 Our token=14:3590, theirs=14:3590
+59:51.798	ID:1	Consistent RX
+59:51.798	ID:5	Consistent RX
+59:51.798	ID:2	Consistent RX
+59:51.798	ID:3	Consistent RX
+59:51.995	ID:5	Sending 3590 14 with a length of 32 
+59:52.048	ID:1	Received At 459748 from  3 Our token=14:3590, theirs=14:3590
+59:52.048	ID:5	Received At 459748 from  3 Our token=14:3590, theirs=14:3590
+59:52.048	ID:4	Received At 459748 from  3 Our token=14:3590, theirs=14:3590
+59:52.049	ID:1	Consistent RX
+59:52.049	ID:5	Consistent RX
+59:52.049	ID:4	Consistent RX
+59:52.299	ID:4	Received At 459780 from  3 Our token=14:3590, theirs=14:3590
+59:52.299	ID:5	Received At 459780 from  3 Our token=14:3590, theirs=14:3590
+59:52.299	ID:1	Received At 459780 from  3 Our token=14:3590, theirs=14:3590
+59:52.299	ID:2	Received At 459780 from  3 Our token=14:3590, theirs=14:3590
+59:52.300	ID:4	Consistent RX
+59:52.300	ID:5	Consistent RX
+59:52.300	ID:1	Consistent RX
+59:52.300	ID:2	Consistent RX
+59:52.546	ID:3	Received At 459812 from  5 Our token=14:3590, theirs=14:3590
+59:52.547	ID:4	Received At 459812 from  5 Our token=14:3590, theirs=14:3590
+59:52.547	ID:2	Received At 459812 from  5 Our token=14:3590, theirs=14:3590
+59:52.547	ID:3	Consistent RX
+59:52.547	ID:4	Consistent RX
+59:52.548	ID:2	Consistent RX
+59:52.674	ID:1	Received At 459828 from  2 Our token=14:3590, theirs=14:3590
+59:52.674	ID:5	Received At 459828 from  2 Our token=14:3590, theirs=14:3590
+59:52.674	ID:3	Received At 459828 from  2 Our token=14:3590, theirs=14:3590
+59:52.674	ID:4	Received At 459828 from  2 Our token=14:3590, theirs=14:3590
+59:52.675	ID:1	Consistent RX
+59:52.675	ID:5	Consistent RX
+59:52.675	ID:3	Consistent RX
+59:52.675	ID:4	Consistent RX
+59:52.922	ID:2	Received At 459860 from  5 Our token=14:3590, theirs=14:3590
+59:52.922	ID:3	Received At 459860 from  5 Our token=14:3590, theirs=14:3590
+59:52.922	ID:4	Received At 459860 from  5 Our token=14:3590, theirs=14:3590
+59:52.923	ID:2	Consistent RX
+59:52.923	ID:3	Consistent RX
+59:52.923	ID:4	Consistent RX
+59:53.721	ID:1	Sending 3590 14 with a length of 32 
+59:53.797	ID:2	Received At 459972 from  1 Our token=14:3590, theirs=14:3590
+59:53.797	ID:3	Received At 459972 from  1 Our token=14:3590, theirs=14:3590
+59:53.797	ID:4	Received At 459972 from  1 Our token=14:3590, theirs=14:3590
+59:53.798	ID:2	Consistent RX
+59:53.798	ID:3	Consistent RX
+59:53.798	ID:4	Consistent RX
+59:54.573	ID:3	Sending 3590 14 with a length of 32 
+59:54.671	ID:1	Received At 460084 from  3 Our token=14:3590, theirs=14:3590
+59:54.671	ID:5	Received At 460084 from  3 Our token=14:3590, theirs=14:3590
+59:54.672	ID:2	Received At 460084 from  3 Our token=14:3590, theirs=14:3590
+59:54.672	ID:4	Received At 460084 from  3 Our token=14:3590, theirs=14:3590
+59:54.672	ID:1	Consistent RX
+59:54.672	ID:5	Consistent RX
+59:54.673	ID:2	Consistent RX
+59:54.673	ID:4	Consistent RX
+59:54.682	ID:5	Sending 3590 14 with a length of 32 
+59:54.923	ID:3	Received At 460116 from  5 Our token=14:3590, theirs=14:3590
+59:54.923	ID:4	Received At 460116 from  5 Our token=14:3590, theirs=14:3590
+59:54.923	ID:2	Received At 460116 from  5 Our token=14:3590, theirs=14:3590
+59:54.924	ID:3	Consistent RX
+59:54.924	ID:4	Consistent RX
+59:54.924	ID:2	Consistent RX
+59:56.956	ID:1	Sending 3590 14 with a length of 32 
+59:57.047	ID:3	Received At 460388 from  1 Our token=14:3590, theirs=14:3590
+59:57.047	ID:2	Received At 460388 from  1 Our token=14:3590, theirs=14:3590
+59:57.047	ID:4	Received At 460388 from  1 Our token=14:3590, theirs=14:3590
+59:57.048	ID:3	Consistent RX
+59:57.048	ID:2	Consistent RX
+59:57.048	ID:4	Consistent RX
+59:57.182	ID:3	Sending 3590 14 with a length of 32 
+59:57.296	ID:1	Received At 460420 from  3 Our token=14:3590, theirs=14:3590
+59:57.296	ID:5	Received At 460420 from  3 Our token=14:3590, theirs=14:3590
+59:57.297	ID:4	Received At 460420 from  3 Our token=14:3590, theirs=14:3590
+59:57.297	ID:2	Received At 460420 from  3 Our token=14:3590, theirs=14:3590
+59:57.297	ID:1	Consistent RX
+59:57.297	ID:5	Consistent RX
+59:57.298	ID:4	Consistent RX
+59:57.298	ID:2	Consistent RX
+59:58.425	ID:5	Sending 3590 14 with a length of 32 
+59:58.548	ID:3	Received At 460580 from  5 Our token=14:3590, theirs=14:3590
+59:58.548	ID:4	Received At 460580 from  5 Our token=14:3590, theirs=14:3590
+59:58.548	ID:2	Received At 460580 from  5 Our token=14:3590, theirs=14:3590
+59:58.549	ID:3	Consistent RX
+59:58.549	ID:4	Consistent RX
+59:58.549	ID:2	Consistent RX
+1:00:03.081	ID:2	Sending 3590 14 with a length of 32 
